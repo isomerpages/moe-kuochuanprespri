@@ -3,7 +3,7 @@ url: ""
 favicon: /images/sch logo.png
 colors:
   primary-color: "#0062be"
-  secondary-color: "#d9c900"
+  secondary-color: "#ffc101"
   media-colors:
     - title: media-color-one
       color: "#49759a"
