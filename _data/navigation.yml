@@ -105,5 +105,9 @@ links:
       - title: Living Praise Presbyterian
         url: /partners/Living-Praise-Presbyterian/
   - title: Forms/Links
-    url: /permalink
-    sublinks: []
+    url: /Forms/Links/For-Parents/
+    sublinks:
+      - title: For Parents
+        url: /Forms/Links/For-Parents/
+      - title: For Students
+        url: /Forms/Links/For-Students/
