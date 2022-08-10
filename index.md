@@ -4,30 +4,21 @@ title: Kuo Chuan Presbyterian Primary School
 description: Brief site description here
 image: /images/sch logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Kuo Chuan Presbyterian Primary School
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: Announcements
+          description: ""
+          url: /announcement/
+        - title: School Calender
+          description: ""
+          url: https://calendar.google.com/calendar/u/0/embed?src=kuochuanpri@gmail.com&ctz=Asia/Singapore
+        - title: Parents Gateway
+          description: ""
+          url: /parents-gateway/
 ---
-
-
