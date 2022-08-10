@@ -25,3 +25,45 @@ links:
         url: /about-us/FAQ/
       - title: Contact Us
         url: /contact-us/
+  - title: Departments
+    url: /departments/English-Department/
+    sublinks:
+      - title: English Department
+        url: /departments/English-Department/
+      - title: Mathematics Department
+        url: /departments/Mathematics-Department/
+      - title: Science Department
+        url: /departments/Science-Department/
+      - title: Mother Tongue
+        url: /departments/Mother-Tongue/
+      - title: Aesthetic Department
+        url: /departments/Aesthetic-Department/
+      - title: Physical Education Department
+        url: /departments/Physical-Education-Department/
+      - title: ICT & MRL
+        url: /departments/ICT-and-MRL/
+      - title: CCE Department
+        url: /departments/CCE-Department/
+      - title: Discipline & Student Ldrship
+        url: /departments/Discipline-and-Student-Ldrship/
+  - title: Signature Programmes
+    url: /Signature-Programmes/ALP/
+    sublinks:
+      - title: Applied Learning Prog (ALp)
+        url: /Signature-Programmes/ALP/
+      - title: Learning For Life Prog (LLP)
+        url: /Signature-Programmes/LLP/
+      - title: Greening Kuo Chuan
+        url: /Signature-Programmes/Greening-Kuo-Chuan/
+  - title: CCA
+    url: /permalink
+    sublinks: []
+  - title: Achievements
+    url: /permalink
+    sublinks: []
+  - title: Partners
+    url: /permalink
+    sublinks: []
+  - title: Forms/Links
+    url: /permalink
+    sublinks: []
