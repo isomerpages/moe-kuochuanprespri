@@ -56,8 +56,18 @@ links:
       - title: Greening Kuo Chuan
         url: /Signature-Programmes/Greening-Kuo-Chuan/
   - title: CCA
-    url: /permalink
-    sublinks: []
+    url: /cca/Overview/
+    sublinks:
+      - title: CCA Overview
+        url: /cca/Overview/
+      - title: Sports and Games
+        url: /cca/Sports-and-Games/
+      - title: Performing Arts
+        url: /cca/Performing-Arts/
+      - title: Uniformed Groups
+        url: /cca/Uniformed-groups/
+      - title: Clubs & Societies
+        url: /cca/Clubs-and-Societies/
   - title: Achievements
     url: /permalink
     sublinks: []
