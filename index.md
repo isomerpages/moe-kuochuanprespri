@@ -20,5 +20,5 @@ sections:
           url: https://calendar.google.com/calendar/u/0/embed?src=kuochuanpri@gmail.com&ctz=Asia/Singapore
         - title: Parents Gateway
           description: ""
-          url: /Forms/Links/For-Parents/
+          url: https://staging.d1z9x0wjo2oybj.amplifyapp.com/Forms/Links/For-Parents/
 ---
