@@ -1,6 +1,27 @@
 logo: /images/sch logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/Principal's-Message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/Principal's-Message/
+      - title: History and Heritage
+        url: /about-us/History-And-Heritage/our-story/
+      - title: Vision, Mission and Values
+        url: /about-us/Vision-Mission-and-Values/
+      - title: Philosophy, Culture and Ethos
+        url: /about-us/Philosophy-Culture-and-Ethos/
+      - title: School Rules
+        url: /about-us/School-Rules/
+      - title: Staff Directory
+        url: /about-us/Staff-Directory/executive-committee/
+      - title: General Information
+        url: /about-us/General-Information/school-hours/
+      - title: Corporate Information
+        url: /about-us/Corporate-Information/school-management/
+      - title: Student Matters
+        url: /about-us/Student-Matters/dsa/
+      - title: FAQ
+        url: /about-us/FAQ/
+      - title: Contact Us
+        url: /contact-us/
