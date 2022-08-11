@@ -41,5 +41,7 @@ Telephone : 6353 0921<br>
 Fax : 6258 4239<br>Blk 168 Toa Payoh Lor 1, #01-1034 Singapore 310168<br>
 
 Opening hours: <br>
-January to November: Monday to Saturday 9 a.m. to 6.30 p.m.<br>
-December 9 a.m to 6.30 p.m (including public Holidays and Sundays)
+January to November: <br>
+Monday to Saturday 9 a.m. to 6.30 p.m.<br>
+December <br>
+9 a.m to 6.30 p.m (including public Holidays and Sundays)
