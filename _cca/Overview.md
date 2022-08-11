@@ -31,7 +31,7 @@ Link: [https://sites.google.com/kcpps.edu.sg/cca/home](https://sites.google.com
 
 Sports and Games
 <img src="/images/Physical%20Sports.jpg" 
-		 style="width:55%;margin-left:1px">
+		 style="width:55%;margin-left:15px;align=right">
 		 
 	
 
@@ -39,11 +39,7 @@ Performing Arts <br>
 <img src="/images/dance.jpg" 
 		 style="width:55%" align = left>
 		 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 		 
 Uniformed Groups
 <img src="/images/BB.jpeg" 
