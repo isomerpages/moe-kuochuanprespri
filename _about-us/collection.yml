@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General Information/Overview.md
       - General Information/School Hours.md
       - General Information/School Calender.md
       - General Information/School Map.md
