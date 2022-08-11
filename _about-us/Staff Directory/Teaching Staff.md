@@ -4,8 +4,8 @@ permalink: /about-us/Staff-Directory/teaching-staff/
 description: ""
 third_nav_title: Staff Directory
 ---
-### Teaching Staff
-#### Lead/Senior Teachers
+### **Teaching Staff**
+#### **Lead/Senior Teachers**
 
 | Name | Designation |
 |---|---|
@@ -15,7 +15,7 @@ third_nav_title: Staff Directory
 | Mdm Koh Cheng Yeen | Senior Teacher (Music)  |
 |
 
-#### Form Teachers for 2022
+#### **Form Teachers for 2022**
 ##### **Lower Primary**
 ##### Primary 1
 
@@ -97,7 +97,7 @@ third_nav_title: Staff Directory
 | Mdm Balasundram Priya Lisa<br>Mdm See Su Ying Eunice | 6 Grace  |
 |
 
-#### Subject Teachers
+#### **Subject Teachers**
 
 | Name | Designation |
 |---|---|
