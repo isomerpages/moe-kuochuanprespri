@@ -8,7 +8,7 @@ description: ""
 <img src="/images/Announcements.jpg" 
      style="width:35%" align=left>
 		 
-<br><br><br><br>		
+<br><br><br><br><br>		
 		
 #### Letter to Parents		 
 29-07-22<br>
@@ -39,5 +39,3 @@ Call SLS Helpdesk at 6702 6513
 * Email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 
 When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
-
-
