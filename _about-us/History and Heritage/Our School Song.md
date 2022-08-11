@@ -4,7 +4,7 @@ permalink: /about-us/History-and-Heritage/our-school-song/
 description: ""
 third_nav_title: History and Heritage
 ---
-### Our School Song
+### **Our School Song**
 
 We pledge to thee our school, our loyalty;<br>
 Our faithful service render we to thee. <br>
