@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Kuo Chuan Presbyterian Secondary.md
       - Living Praise Presbyterian Church.md
