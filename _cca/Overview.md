@@ -28,3 +28,15 @@ Our CCAs cover the following **four** domains: <br>
 4.  To kindle and nurture in the pupils a **lifelong affinity for an interest** which helps them to lead a balanced life in adulthood.
 
 Link: [https://sites.google.com/kcpps.edu.sg/cca/home](https://sites.google.com/kcpps.edu.sg/cca/home)
+
+Sports and Games
+![](/images/Physical%20Sports.jpg)
+
+Performing Arts
+![](/images/dance.jpg)
+
+Uniformed Groups
+![](/images/BB.jpeg)
+
+Clubs & Societies
+![](/images/Mind%20Games.jpg)
