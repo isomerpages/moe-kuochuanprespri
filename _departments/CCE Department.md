@@ -21,7 +21,7 @@ The school recognises that while teachers have an inordinate influence in the mo
 CCE is enacted through learning platforms such as CCE Lessons, Key Student Development Experiences (SDEs), school-based Initiatives, other subjects and opportunities for personal application.
 
 <img src="/images/cce%202.jpg" 
-     style="width:65%">
+     style="width:85%">
 		 
 **CCE Lessons**<br>
 CCE Lessons are conducted during CCE Form Teacher Guidance Period (FTGP) and CCE Mother Tongue Language (MTL) periods. At Lower Primary, CCE Lessons are also enacted through the Programme for Active Learning (PAL). This will allow pupils to have a strong foundation to build character, develop social emotional competencies and citizenship dispositions.
