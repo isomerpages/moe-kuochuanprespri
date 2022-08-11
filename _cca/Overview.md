@@ -35,9 +35,15 @@ Sports and Games
 		 
 	
 
-Performing Arts
+Performing Arts <br>
 <img src="/images/dance.jpg" 
-     style="width:65%;align = left">
+		 style="width:55%" align = left>
+		 
+<br>
+<br>
+<br>
+<br>
+<br>
 		 
 Uniformed Groups
 <img src="/images/BB.jpeg" 
