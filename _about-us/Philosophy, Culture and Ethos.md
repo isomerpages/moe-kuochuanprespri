@@ -3,7 +3,7 @@ title: Philosophy, Culture and Ethos
 permalink: /about-us/Philosophy-Culture-and-Ethos/
 description: ""
 ---
-### Philosophy, Culture and Ethos
+### **Philosophy, Culture and Ethos**
 
 Kuo Chuan Presbyterian Primary School (KCPPS) was founded by two Christian missionaries as Katong Girls' School in 1924 and developed into Choon Guan School the following year, which was subsequently renamed Presbyterian Boys' School in 1950. Today, KCPPS is one of the 5 schools supported by the Presbyterian Church in Singapore. The school is located in the Bishan area and offers places for both boys and girls. After the PERI Upgrading project in 2013 and 2014, KCPPS is currently operating as a single session school.
 
@@ -15,7 +15,7 @@ The school takes a two-prong approach to discipline: preventive and restorative.
 
 The school believes in building a strong partnership with parents in caring for their child’s well-being. The approach taken is proactive and early engagement. Parents are invited to participate in school events, parenting talks and workshops from the time their child is in P1 and play an active part in role modelling positive attitude and behaviour for their child at home.
 
-#### Special Student Development Programmes Offered
+#### **Special Student Development Programmes Offered**
 
 At Kuo Chuan Presbyterian Primary School, our pupils learn to develop a passion for learning as well as the zest for life.  Over the 6 years, the school endeavours to develop them to be “**Lifelong Learners, Lifelong Pals**”.
 
