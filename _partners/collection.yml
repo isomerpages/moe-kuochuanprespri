@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Family Matters @ School.md
       - KCPPS Junior Alumni.md
       - Kuo Chuan Presbyterian Secondary.md
       - Living Praise Presbyterian Church.md
