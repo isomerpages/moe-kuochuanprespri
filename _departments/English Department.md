@@ -19,7 +19,8 @@ The school works in collaboration with the National Library Board (NLB) under th
 
 Participating in the **‘Read for Books’** charity drive, pupils read purposefully for a worthy cause.
 
-![](/images/KidzRead.jpeg)
+<img src="/images/KidzRead.jpeg" 
+     style="width:85%">
 **Read for Books @ KCPPS** <br>
 Link: [https://www.nationalreadingmovement.sg/readfest/readforbooks](https://www.nationalreadingmovement.sg/readfest/readforbooks)
 
@@ -29,5 +30,6 @@ This programme includes **Learning Support (LSP) and Reading Remediation** **P
 **EL ShowTime** <br>
 This is an annual event for Primary 1 and 2 pupils to showcase their talents and oral skills as they enunciate clearly, sing, act and dance on stage to an audience of peers and parents.
 
-![](/images/Kidz%20Drama.jpg)
+<img src="/images/Kidz%20Drama.jpg" 
+     style="width:85%">
 **EL ShowTime @ KCPPS**
