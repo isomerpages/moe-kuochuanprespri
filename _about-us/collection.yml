@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Student Matters/Subject Based Banding.md
       - Student Matters/.keep
       - FAQ.md
