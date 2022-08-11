@@ -31,8 +31,8 @@ Link: [https://sites.google.com/kcpps.edu.sg/cca/home](https://sites.google.com
 
 
 <img src="/images/Physical%20Sports.jpg" 
-		 style="width:55%;margin-left:15px" align = left>
-<br><br><br>[Sports and Games]
+		 style="width:55%;margin-left:25px" align = left>
+<br><br><br>[Sports and Games](https://staging.d1z9x0wjo2oybj.amplifyapp.com/cca/Sports-and-Games/)
 	
 <br><br>
 
