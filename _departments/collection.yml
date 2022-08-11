@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - ICT & MRL.md
       - CCE Department.md
       - Discipline and Student Leadership.md
