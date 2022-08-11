@@ -4,7 +4,7 @@ permalink: /about-us/History-and-Heritage/our-crest/
 description: ""
 third_nav_title: History and Heritage
 ---
-### Our Crest
+### **Our Crest**
 
 <img src="/images/our%20crest.gif" 
      style="width:15%">
