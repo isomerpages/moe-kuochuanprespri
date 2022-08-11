@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General Information/School Map.md
       - General Information/Vendors.md
       - General Information/.keep
       - Corporate Information.md
