@@ -17,7 +17,7 @@ third_nav_title: Student Matters
 ##### **2.** **Does the PSLE score include HMT scores?**
 The Aggregate T-score at PSLE includes EMS & MT T-score only. HMT is not included.
 
-##### **3.** What advantage does HMT have in terms of secondary school application?**
+##### **3. What advantage does HMT have in terms of secondary school application?**
 Students who obtained Distinction/Merit/Pass in HCL and a PSLE Score of 14 or better (i.e. PSLE Score ≤ 14) at PSLE will be eligible for posting advantage to Special Assistance Plan (SAP) schools.
 
 This posting advantage applies before the tie-breakers for S1 posting. If multiple students with the same PSLE Score apply for places in the same SAP school, those with better HCL grades will be allocated a place ahead of other students (see table below).
@@ -32,7 +32,7 @@ This posting advantage applies before the tie-breakers for S1 posting. If multip
 |  6th |  F |  9 | Distinction  | 9D  |
 |
 
-##### **4**. **What are the criteria for a child to be offered HMT at KCPPS?**
+##### **4. What are the criteria for a child to be offered HMT at KCPPS?**
 *   The eligibility criteria for taking HMTL is intended to ensure that students can cope with the higher academic load, and takes reference from the current criteria.
 
 **Eligibility criteria for Secondary School HMTL**:
