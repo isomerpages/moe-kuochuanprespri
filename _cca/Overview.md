@@ -29,14 +29,18 @@ Our CCAs cover the following **four** domains: <br>
 
 Link: [https://sites.google.com/kcpps.edu.sg/cca/home](https://sites.google.com/kcpps.edu.sg/cca/home)
 
-Sports and Games
-![](/images/Physical%20Sports.jpg)
+                                                                              Sports and Games
+<img src="/images/Physical%20Sports.jpg" 
+     style="width:65%">
 
 Performing Arts
-![](/images/dance.jpg)
-
+<img src="/images/dance.jpg" 
+     style="width:65%">
+		 
 Uniformed Groups
-![](/images/BB.jpeg)
-
+<img src="/images/BB.jpeg" 
+     style="width:65%">
+		 
 Clubs & Societies
-![](/images/Mind%20Games.jpg)
+<img src="/images/Mind%20Games.jpg" 
+     style="width:65%">
