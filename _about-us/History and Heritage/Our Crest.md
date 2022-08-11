@@ -7,7 +7,7 @@ third_nav_title: History and Heritage
 ### Our Crest
 
 <img src="/images/our%20crest.gif" 
-     style="width:25%">
+     style="width:15%">
 		 
 The school crest is the "Burning Bush". The origin of the "Burning Bush" is found in the Book of Exodus, Chapter 3, verses 1-12 in the Bible.
 
