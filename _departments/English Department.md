@@ -31,5 +31,5 @@ This programme includes **Learning Support (LSP) and Reading Remediation** **P
 This is an annual event for Primary 1 and 2 pupils to showcase their talents and oral skills as they enunciate clearly, sing, act and dance on stage to an audience of peers and parents.
 
 <img src="/images/Kidz%20Drama.jpg" 
-     style="width:75%">
+     style="width:65%">
 **EL ShowTime @ KCPPS**
