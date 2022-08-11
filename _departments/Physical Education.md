@@ -24,4 +24,11 @@ Our department’s key programmes include KClympics, Primary 5 Outdoor Adventure
      style="width:85%">
 **Annual KClmpics: At play in the inter-house handball competition**
 
+<img src="/images/pe%20dept%202.jpg" 
+     style="width:85%">
+**Outdoor Adventure Camp: On the high elements course**
 
+<img src="/images/pe%20dept%203.jpg" 
+     style="width:85%">
+**Play@Recess: Opportunities to bond and work on skills**
+Link: [https://sites.google.com/kcpps.edu.sg/kcppspe/home](https://sites.google.com/kcpps.edu.sg/kcppspe/home)
