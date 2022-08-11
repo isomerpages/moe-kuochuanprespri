@@ -36,5 +36,4 @@ Principal<br>
 Kuo Chuan Presbyterian Primary School
 
 ![](/images/A%20new%20season%20to%20flourish%20banner.png)
-
 _The school mural we brought back from the Ang Mo Kio holding site to Bishan._
