@@ -8,8 +8,7 @@ description: ""
 <img src="/images/principal.jpg" 
      style="width:25%" align=left>
 		 
-<br><br><br>
-<br><br><br>
+<br><br><br><br><br><br>
 
 Blessed Semester 2, 2022!
 
