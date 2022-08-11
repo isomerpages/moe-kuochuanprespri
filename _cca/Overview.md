@@ -38,7 +38,7 @@ Link: [https://sites.google.com/kcpps.edu.sg/cca/home](https://sites.google.com
 
 <img src="/images/dance.jpg" 
 		 style="width:60%" align = left>
-<br><br><br>Performing Arts
+<br><br><br>[Performing Arts](https://staging.d1z9x0wjo2oybj.amplifyapp.com/cca/Performing-Arts/)
 
 <br><br>
 		 
