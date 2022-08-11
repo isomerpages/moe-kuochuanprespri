@@ -26,3 +26,5 @@ Our CCAs cover the following **four** domains: <br>
 3.     To create a common space for cross level social interaction and social integration and for pupils to learn **social and emotional competencies as well as the 21st Century Competencies**.
 
 4.  To kindle and nurture in the pupils a **lifelong affinity for an interest** which helps them to lead a balanced life in adulthood.
+
+Link: [https://sites.google.com/kcpps.edu.sg/cca/home](https://sites.google.com/kcpps.edu.sg/cca/home)
