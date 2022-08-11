@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Directory/Non teaching Staff.md
       - Staff Directory/.keep
       - General Information/Overview.md
       - General Information/School Hours.md
