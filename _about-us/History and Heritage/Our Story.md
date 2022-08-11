@@ -4,7 +4,7 @@ permalink: /about-us/History-and-Heritage/our-story/
 description: ""
 third_nav_title: History and Heritage
 ---
-### Our Story
+### **Our Story**
 
 <img src="/images/ourstory%201.gif" 
      style="width:15%" align=left>
