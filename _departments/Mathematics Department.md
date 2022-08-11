@@ -12,7 +12,8 @@ In the area of Mathematics, our goal is to develop in pupils the critical thinki
 **Mathematical Concepts and Skills**<br>
 Pupils build competency in mathematical concepts and skills through student-centric activities and teacher-facilitated questioning. At KCPPS, we teach basic mathematical concepts through the Concrete-Pictorial-Abstract approach (based on Bruner’s conception of the enactive, iconic and symbolic modes of representation) with the aid of manipulatives. Lessons are also designed with the structure of ‘I do, We do, You do’ (based on Vygotsky’s Zone of Proximal Development) to develop independent learners. In addition, talk moves are used to engage pupils in deeper classroom discussion and critical thinking.
 
-![](/images/mathematics%201.jpg)
+<img src="/images/mathematics%201.jpg" 
+     style="width:85%">
 **Pupils demonstrating a Mathematical concept progressing from concrete to pictorial representation**
 
 **Thinking Skills**<br>
@@ -24,7 +25,8 @@ In developing metacognitive skills in problem solving, pupils are guided by our 
 **Assessment for Learning and Assessment as Learning**<br>
 Being reflective is an integral part of learning. In addition to pen-and-paper, we also leverage ICT tools to assess pupils’ learning to provide feedback for both pupils and teachers. Specially designed self-reflections in the form of diagnostic feedback and reflection journals as well as peer feedback are incorporated into the curriculum as part of learning.
 
-![](/images/mathematics%202.jpg)
+<img src="/images/mathematics%202.jpg" 
+     style="width:65%">
 **Pupils having an enjoyable time at the Mathematics Learning Corner**
 
 **Environment as the 3rd Teacher**<br>
@@ -33,7 +35,8 @@ Using the environment as the third teacher, instructional posters and evidences 
 **#teasemybrain@recess**<br>
 From simple to strategic board and card games, with the focus on developing pupils’ critical thinking and creative problem solving skills, these are available during scheduled recesses for all levels to cater to those who enjoy challenges.
 
-![](/images/mathematics%203.jpg)
+<img src="/images/mathematics%203.jpg" 
+     style="width:85%">
 **Pupils work together on a game with the support of a parent volunteer**
 
 **Learning Support for Mathematics (LSM)** <br>
