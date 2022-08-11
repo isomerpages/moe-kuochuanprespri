@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Student Matters/KCPS Affiliation Policy.md
       - Student Matters/Sexuality Education Programmes.md
       - Student Matters/Subject Based Banding.md
       - Student Matters/.keep
