@@ -10,7 +10,7 @@ We prepare every KCPPian to be a lifelong learner, future-ready, grounded in val
 
 #### **Key Programmes & Approaches**
 **Literacy Development Programme** <br>
-**Literacy Development Programme** – A comprehensive instructional programme aligned to the English Language Syllabuses of 2010 and 2020. The school has adopted STELLAR since 2008, delivering the programme using the approaches in the STELLAR Pedagogic Framework. In line with the learner outcomes of Syllabus 2020, the department leverages effective questioning to deepen pupils’ learning with thinking routines to guide pupils in their thought processes so as to develop sound reasoning and decision-making skills. Effective communication is one key focus of the department’s literacy programme. Through its Co-Curriculum, E-Cube, drama is a pedagogical tool deployed to equip pupils with the skills to communicate with confidence and sensitivity in cognizance of purpose, audience, context and culture.
+A comprehensive instructional programme aligned to the English Language Syllabuses of 2010 and 2020. The school has adopted STELLAR since 2008, delivering the programme using the approaches in the STELLAR Pedagogic Framework. In line with the learner outcomes of Syllabus 2020, the department leverages effective questioning to deepen pupils’ learning with thinking routines to guide pupils in their thought processes so as to develop sound reasoning and decision-making skills. Effective communication is one key focus of the department’s literacy programme. Through its Co-Curriculum, E-Cube, drama is a pedagogical tool deployed to equip pupils with the skills to communicate with confidence and sensitivity in cognizance of purpose, audience, context and culture.
 
 **KidzRead Programme** <br>
 This programme aims to promote reading and language development through the approaches advocated by STELLAR for a shared reading experience in the classroom.
@@ -31,4 +31,3 @@ This is an annual event for Primary 1 and 2 pupils to showcase their talents and
 
 ![](/images/Kidz%20Drama.jpg)
 **EL ShowTime @ KCPPS**
-
