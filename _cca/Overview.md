@@ -45,10 +45,10 @@ Link: [https://sites.google.com/kcpps.edu.sg/cca/home](https://sites.google.com
 
 <img src="/images/BB.jpeg" 
      style="width:55%;margin-left:25px" align = left>
-<br><br><br>[Uniformed Groups]
+<br><br><br>[Uniformed Groups](https://staging.d1z9x0wjo2oybj.amplifyapp.com/cca/Uniformed-groups/)
 
 <br><br>
 
 <img src="/images/Mind%20Games.jpg" 
-     style="width:45%">
-<br><br><br>Clubs & Societies
+     style="width:55%;margin-left:25px" align = left>
+<br><br><br><br><br><br>[Clubs & Societies](https://staging.d1z9x0wjo2oybj.amplifyapp.com/cca/Clubs-and-Societies/)
