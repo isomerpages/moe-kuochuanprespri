@@ -21,4 +21,4 @@ Our Applied Learning Programme (ALP), E-Cube, leverages inquiry-based learning t
      style="width:85%">
 		 
 <img src="/images/alp%206.jpg" 
-     style="width:85%">		 
+     style="width:85%">
