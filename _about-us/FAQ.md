@@ -19,3 +19,7 @@ Dismissal times:<br>
 Mondays and Wednesdays - 1.30 p.m. - 2 p.m. & 3.15 p.m. - 3.45 p.m.<br>
 Tuesdays and Fridays - 1.30 p.m. - 2.00 p.m.<br>
 Thursdays - 1.30 p.m. - 2 p.m. & 4 p.m. - 4.30 p.m.
+
+3\. When can parents enter the school to buy things from the bookshop?
+
+The bookshop is open from 8.30 a.m. to 3 p.m., Mondays to Fridays. However, no transactions with parents will be allowed during pupils' recesses from 9.45 a.m. to 10.45 a.m.
