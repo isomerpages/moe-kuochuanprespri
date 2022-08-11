@@ -8,8 +8,8 @@ description: ""
 <img src="/images/Announcements.jpg" 
      style="width:35%" align=left>
 		 
-<br><br><br><br><br>		
-		
+<br><br><br><br><br><br>
+
 #### Letter to Parents		 
 29-07-22<br>
 A copy of the latest Letter to Parents has been sent via the Parents Gateway app. Please email us at [kcpps@moe.edu.sg](mailto:kcpps@moe.edu.sg) if you have issues accessing.  
