@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Corporate Information.md
       - Student Matters/Direct School Admission.md
       - Student Matters/Higher Mother Tongue.md
       - Student Matters/KCPS Affiliation Policy.md
