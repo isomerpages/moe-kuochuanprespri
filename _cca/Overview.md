@@ -42,10 +42,13 @@ Link: [https://sites.google.com/kcpps.edu.sg/cca/home](https://sites.google.com
 
 <br><br>
 		 
-Uniformed Groups
+
 <img src="/images/BB.jpeg" 
-     style="width:60%">
-		 
-Clubs & Societies
+     style="width:55%;margin-left:25px" align = left>
+<br><br><br>[Uniformed Groups]
+
+<br><br>
+
 <img src="/images/Mind%20Games.jpg" 
      style="width:45%">
+<br><br><br>Clubs & Societies
