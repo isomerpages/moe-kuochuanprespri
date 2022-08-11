@@ -3,7 +3,7 @@ title: Uniformed Groups
 permalink: /cca/Uniformed-groups/
 description: ""
 ---
-#### **Uniformed Groups**
+### **Uniformed Groups**
 
 |       CCA      |                                           Teachers In-charge                                          |                     Venue                     |
 |:--------------:|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------:|
