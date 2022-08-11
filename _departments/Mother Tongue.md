@@ -55,5 +55,5 @@ The MTLCC is a designated space for KCPPians to explore Mother Tongue Languages 
 <img src="/images/mother%20tongue%20dept%204.jpeg" 
      style="width:50%" align=right>		 
 
-<br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br><br><br>
 **Opening Ceremony of MTLCC (15 November 2019)**
