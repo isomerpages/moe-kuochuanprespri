@@ -29,9 +29,9 @@ Clinic operating days are subject to change. Please call to make an appointment 
 Company : Loh Gim Chong Transport<br>
 Telephone : 6659 2318<br>
 Fax : 6659 2187<br>
-Mobile phone : 9437 8280 (Mr Loh Kian Meng
+Mobile phone : 9437 8280 (Mr Loh Kian Meng)
 <br>
-email: [meng@mybus.com.sg](mailto:meng@mybus.com.sg)
+email: [meng@mybus.com.sg](mailto:meng@mybus.com.sg)<br>
 Mobile phone : 9628 4743 (Mr Louis Loh) email: [louis@mybus.com.sg](mailto:louis@mybus.com.sg)
 
 #### **School Uniform Services**
