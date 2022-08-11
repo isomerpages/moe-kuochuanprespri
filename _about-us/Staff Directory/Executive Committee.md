@@ -4,8 +4,8 @@ permalink: /about-us/Staff-Directory/executive-committee/
 description: ""
 third_nav_title: Staff Directory
 ---
-### Executive Committee
-#### School Leader
+### **Executive Committee**
+#### **School Leader**
 
 | Name | Designation |
 |---|---|
@@ -16,7 +16,7 @@ third_nav_title: Staff Directory
 
 To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@moe.edu.sg](mailto:kcpps@moe.edu.sg) .
 
-#### Key Personnel
+#### **Key Personnel**
 
 | Name | Designation |
 |---|---|
