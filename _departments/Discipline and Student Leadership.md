@@ -20,8 +20,14 @@ In our school, we adopt ‘The Five Practices of Exemplary Leadership’ as the 
 
 <img src="/images/DSL%201.jpg" 
      style="width:85%">
+**Student leaders engaging in a team activity during the student leadership camp**		 
+		 
 <img src="/images/DSL%202.jpg" 
      style="width:85%">
+**Student leaders in action: Interacting with the elderly during a home visit**		 
+		 
 <img src="/images/DSL%203.jpg" 
-     style="width:85%">		 
+     style="width:85%">
+**Student leaders in action: Being a docent in KCPPS Heritage Experiential Hub**		 
+		 
 		 
