@@ -4,7 +4,7 @@ permalink: /about-us/History-and-Heritage/our-motto/
 description: ""
 third_nav_title: History and Heritage
 ---
-### Our Motto
+### **Our Motto**
 
 The school motto "Aflame for Truth" appears above the crest.
 
