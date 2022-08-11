@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General Information/.keep
       - Corporate Information.md
       - Student Matters/Direct School Admission.md
       - Student Matters/Higher Mother Tongue.md
