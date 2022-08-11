@@ -10,14 +10,16 @@ At KCPPS, we see every KCPPian as a young scientist. We tailor our Science curri
 
 Through inquiry-based learning, KCPPians make connections between concepts learnt in the classroom and the real world. They are engaged in pupil-centric learning experiences that enable them to evaluate and apply their learning in authentic contexts. These young scientists work collaboratively to conduct investigations in the science laboratory and learning spaces within the school, applying thinking routines to deepen their appreciation of the Scientific Method and the Nature of Science. Thinking routines also help pupils to understand issues in context, and allow them to communicate their reasoning clearly and comprehensively. In a stimulating and supportive environment, Science teachers employ effective questioning in facilitating pupils’ thinking process and engage them in reflective practices to bring about deep learning.
 
-![](/images/science%20dept%201.jpg)
+<img src="/images/science%20dept%201.jpg" 
+     style="width:85%">
 **Inquiry at Eco Pond**
 
 #### **Key Programmes & Approaches**
 **i-LAB**<br>
 The i-LAB Maker Programme prepares pupils to be innovative citizens who are able to navigate in and make meaningful contributions in a technological world. The i-LAB Maker space allows pupils to apply concepts learnt in class to create products and solve real-life problems using a variety of tools and materials. Through recess-time Eureka! Moments and termly STEM Challenges, pupils are exposed to thinking skills and interesting developments in Science, Technology, Engineering and Mathematics. In line with the school’s mission to nurture pupils to “overcome future challenges”, programmes such as micro:bit programming and the national initiative Code for Fun are rolled out. Since its inception, the i-LAB has had the wonderful support of dedicated parent volunteers who were involved in various aspects, from preparing resources to conducting workshops. The i-LAB welcomes all interested parents onboard to make our pupils’ learning more exciting! Please email the school for more information.
 
-![](/images/science%20dept%202.jpg)
+<img src="/images/science%20dept%202.jpg" 
+     style="width:85%">
 **Serious fun at i-LAB**
 
 **Science Enrichment Programme**<br>
