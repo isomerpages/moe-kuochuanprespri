@@ -37,7 +37,7 @@ Sports and Games
 
 Performing Arts
 <img src="/images/dance.jpg" 
-     style="width:65%;margin-left:1px">
+     style="width:65%;align = left">
 		 
 Uniformed Groups
 <img src="/images/BB.jpeg" 
