@@ -2,6 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Greening Kuo Chuan.md
-      - Learning for Life Programme.md
       - Applied Learning Programme (ALP).md
+      - Learning for Life Programme.md
+      - Greening Kuo Chuan.md
