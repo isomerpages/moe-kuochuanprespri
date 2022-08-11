@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Student Matters/Direct School Admission.md
       - Student Matters/Higher Mother Tongue.md
       - Student Matters/KCPS Affiliation Policy.md
       - Student Matters/Sexuality Education Programmes.md
