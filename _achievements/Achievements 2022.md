@@ -77,6 +77,22 @@ Our pupils participated in the above competition organised by Hwa Chong Institut
 | **Leong Yuen Sheng Abel (6B)<br>Seah Yuxin (6D)<br>Aloysius Kerk Rui Zhe (5B)<br>Koh Yong Wei Janelle (5B)** | **Silver Award<br>Silver Award<br>Bronze Award<br>Bronze Award** |
 **SOTA Primary 6 Creative Writing Competition 2022**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-9u4g">Charlotte Chew Jen Ee (6B)<br>Avinaash Singh Sodhi (6C)<br>Tye Eng Kee Tania (5B)<br>Lee Tze Wai (5C)<br>Maggie Liu Minqi (5D)<br>Guo Chenyi (5G)</td>
+    <td class="tg-9u4g">Silver<br>Bronze<br>Bronze<br>Bronze<br>Bronze<br>Bronze</td>
+  </tr>
+</thead>
+</table>
   
 
 We are pleased to share that the story penned by **Roanne Wong (6B)** has been selected as **one of the top 50 finalists** from among the more than 1,300 entries submitted by promising young writers in Singapore. 
