@@ -67,8 +67,9 @@ We are pleased to share that **Oliver Yap Jie Jun (5B)** has received the **M
 
 Our pupils participated in the above competition organised by Hwa Chong Institution in May. We are proud to announce that they have achieved 2 Silver and 2 Bronze awards!
 
-| Leong Yuen Sheng Abel (6B)<br> Seah Yuxin (6D)<br> Aloysius Kerk Rui Zhe (5B)<br> Koh Yong Wei Janelle (5B) | Silver Award<br> Silver Award<br> Bronze Award<br> Bronze Award |
-|-------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+|  	|  	|
+|---	|---	|
+| Leong Yuen Sheng Abel (6B)<br>Seah Yuxin (6D)<br>Aloysius Kerk Rui Zhe (5B)<br>Koh Yong Wei Janelle (5B) 	| Silver Award<br>Silver Award<br>Bronze Award<br>Bronze Award 	|
 
 **SOTA Primary 6 Creative Writing Competition 2022**
 
