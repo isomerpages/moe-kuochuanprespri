@@ -273,8 +273,9 @@ More details of the competition results can be accessed at this link: [Click he
 
 |  |  |
 |---|---|
-| 1ST INTERNATIONAL SPEAR – SENIOR GIRLS<br>        Elin Tham (6G) | 2nd position  |
-| 5-DUAN SWORD – SENIOR GIRLS<br>        Elin Tham (6G)    | 2nd position  |
+| 1ST INTERNATIONAL SPEAR – SENIOR GIRLS         Elin Tham (6G) | 2nd position  |
+| 5-DUAN SWORD – SENIOR GIRLS         Elin Tham (6G)    | 2nd position  |
+|  |  |
 
 **15th Singapore Open Artistic Swimming Championship 2021**  
 
