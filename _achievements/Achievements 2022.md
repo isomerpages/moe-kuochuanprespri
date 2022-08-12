@@ -93,6 +93,15 @@ Our pupils participated in the above competition organised by Hwa Chong Institut
   </tr>
 </thead>
 </table>
+
++----------------------------+--------+
+| Charlotte Chew Jen Ee (6B) | Silver |
+| Avinaash Singh Sodhi (6C)  | Bronze |
+| Tye Eng Kee Tania (5B)     | Bronze |
+| Lee Tze Wai (5C)           | Bronze |
+| Maggie Liu Minqi (5D)      | Bronze |
+| Guo Chenyi (5G)            | Bronze |
++----------------------------+--------+
   
 
 We are pleased to share that the story penned by **Roanne Wong (6B)** has been selected as **one of the top 50 finalists** from among the more than 1,300 entries submitted by promising young writers in Singapore. 
