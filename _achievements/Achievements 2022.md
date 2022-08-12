@@ -98,6 +98,10 @@ The 23rd International Chinese Language Competition 2022, hosted by Holy Innocen
 | Zou Zixi 邹子熙 (6B)<br>Zhang Yuyan张彧嫣 (5G) | Gold Award<br>Bronze Award |
 |------------------------------------------------|----------------------------|
 
+|  |  |
+|---|---|
+| **Zou Zixi 邹子熙 (6B)<br>Zhang Yuyan张彧嫣 (5G)** | **Gold Award<br>Bronze Award** |
+
 **13th GoodTalk (Global Village) International Children & Youth Bilingual Speech Conference**  
 
 **第13届 GoodTalk (地球村)国际青少年双语演讲大会**
