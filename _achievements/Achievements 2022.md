@@ -23,8 +23,8 @@ The team will now **represent Singapore in the Grand Finals** on Sat 27 Aug an
 
 "New Hope: World Charity Painting Competition 2021" was organized by the Asian Art Association in 2021 to showcase the use of creativity as a channel to show the world that whatever darkness we are facing, there’s always hope at the end of the tunnel. The competition was judged by 9 famous painters from around the world. 6 of our pupils took part in the competition and our school is delighted to share their results. Well done, pupils!
 
-| Charlotte Chew Jen Ee (6B)<br> Avinaash Singh Sodhi (6C)<br> Tye Eng Kee Tania (5B)<br> Lee Tze Wai (5C)<br> Maggie Liu Minqi (5D)<br> Guo Chenyi (5G) | Silver<br> Bronze<br> Bronze<br> Bronze<br> Bronze<br> Bronze |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| Charlotte Chew Jen Ee (6B)<br>Avinaash Singh Sodhi (6C)<br>Tye Eng Kee Tania (5B)<br>Lee Tze Wai (5C)<br>Maggie Liu Minqi (5D)<br>Guo Chenyi (5G) 	| Silver<br>Bronze<br>Bronze<br>Bronze<br>Bronze<br>Bronze 	|
+|---	|---	|
 
 Details of the competition and the artworks submitted from around the world can be found at the following website. This also includes our pupils’ exemplary pieces of works.
 
