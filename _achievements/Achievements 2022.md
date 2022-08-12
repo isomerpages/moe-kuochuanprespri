@@ -262,11 +262,12 @@ More details of the competition results can be accessed at this link: [Click he
 
 |  |  |
 |---|---|
-| SENIOR 1 GIRLS 100 METRES<br>        Chan Le Xuan Faith (6D)  | 7th position  |
-| SENIOR 1 GIRLS 200 METRES <br>        Chan Le Xuan Faith (6D) |  4th position |
-|  SENIOR 1 BOYS 200 METRES<br>        Ethan Roman (6C) |  4th position |
-|  SENIOR 1 BOYS 300 METRES<br>        Joshua Ang Jun Wei (6E) |  5th position |
-| SENIOR 1 BOYS 300 METRES<br>        Cruz Loh Yuan Kai (6A)   | 7th position  |
+| SENIOR 1 GIRLS 100 METRES         Chan Le Xuan Faith (6D)  | 7th position  |
+| SENIOR 1 GIRLS 200 METRES          Chan Le Xuan Faith (6D) |  4th position |
+|  SENIOR 1 BOYS 200 METRES         Ethan Roman (6C) |  4th position |
+|  SENIOR 1 BOYS 300 METRES         Joshua Ang Jun Wei (6E) |  5th position |
+| SENIOR 1 BOYS 300 METRES         Cruz Loh Yuan Kai (6A)   | 7th position  |
+|  |  |
 
 **2022 SPSSC NSG Wushu Competition**
 
