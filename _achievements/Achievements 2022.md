@@ -67,48 +67,17 @@ We are pleased to share that **Oliver Yap Jie Jun (5B)** has received the **M
 
 Our pupils participated in the above competition organised by Hwa Chong Institution in May. We are proud to announce that they have achieved 2 Silver and 2 Bronze awards!
 
-<table><tbody><tr><td class="selected" style="font-weight: normal; text-align: left; vertical-align: top;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Leong Yuen Sheng Abel (6B)</span></p><p><span>Seah Yuxin (6D)</span></p><p><span>Aloysius Kerk Rui Zhe (5B)</span></p><p><span>Koh Yong Wei Janelle (5B)</span></p></div></div></td><td class="selected" style="font-weight: normal; text-align: left; vertical-align: top;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Silver Award</span></p><p><span>Silver Award</span></p><p><span>Bronze Award</span></p><p><span>Bronze Award</span></p></div></div></td></tr></tbody></table>
 
-| Leong Yuen Sheng Abel (6B)<br>Seah Yuxin (6D)<br>Aloysius Kerk Rui Zhe (5B)<br>Koh Yong Wei Janelle (5B) | Silver Award<br>Silver Award<br>Bronze Award<br>Bronze Award |
-|---|---|
 
-|  |  |
-|---|---|
-| **Leong Yuen Sheng Abel (6B)<br>Seah Yuxin (6D)<br>Aloysius Kerk Rui Zhe (5B)<br>Koh Yong Wei Janelle (5B)** | **Silver Award<br>Silver Award<br>Bronze Award<br>Bronze Award** |
-**SOTA Primary 6 Creative Writing Competition 2022**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-9u4g">Charlotte Chew Jen Ee (6B)<br>Avinaash Singh Sodhi (6C)<br>Tye Eng Kee Tania (5B)<br>Lee Tze Wai (5C)<br>Maggie Liu Minqi (5D)<br>Guo Chenyi (5G)</td>
-    <td class="tg-9u4g">Silver<br>Bronze<br>Bronze<br>Bronze<br>Bronze<br>Bronze</td>
-  </tr>
-</thead>
-</table>
-
-+----------------------------+--------+
-| Charlotte Chew Jen Ee (6B) | Silver |
-| Avinaash Singh Sodhi (6C)  | Bronze |
-| Tye Eng Kee Tania (5B)     | Bronze |
-| Lee Tze Wai (5C)           | Bronze |
-| Maggie Liu Minqi (5D)      | Bronze |
-| Guo Chenyi (5G)            | Bronze |
-+----------------------------+--------+
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Charlotte Chew Jen Ee (6B)<br>Avinaash Singh Sodhi (6C)<br>Tye Eng Kee Tania (5B)<br>Lee Tze Wai (5C)<br>Maggie Liu Minqi (5D)<br>Guo Chenyi (5G)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silver<br>Bronze<br>Bronze<br>Bronze<br>Bronze<br>Bronze</td></tr></thead></table>
-  
 
 We are pleased to share that the story penned by **Roanne Wong (6B)** has been selected as **one of the top 50 finalists** from among the more than 1,300 entries submitted by promising young writers in Singapore. 
 
-  
+  |  |  |
+|---|---|
+| Leong Yuen Sheng Abel (6B)<br>Seah Yuxin (6D)<br>Aloysius Kerk Rui Zhe (5B)<br>Koh Yong Wei Janelle (5B) | Silver Award<br>Silver Award<br>Bronze Award<br>Bronze Award |
+|  |  |
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Leong Yuen Sheng Abel (6B)<br>Seah Yuxin (6D)<br>Aloysius Kerk Rui Zhe (5B)<br>Koh Yong Wei Janelle (5B)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silver Award<br>Silver Award<br>Bronze Award<br>Bronze Award</td></tr></thead></table>
 
 Congratulations Roanne!
 
