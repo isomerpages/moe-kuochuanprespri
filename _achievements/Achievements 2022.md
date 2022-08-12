@@ -152,3 +152,79 @@ We are pleased to share with you 2 Merit Award winners from KCPPS: **Joshua Ang
   
 
 In conjunction with Tamil Language Month, which aims to promote the usage of spoken and written Tamil, Teck Ghee Indian Activity Executive Committee organised Cinnanj Chittukkal 2022, a series of competitions for P1 to P6 pupils taking Tamil Language. Our pupils recorded their presentations and submitted their videos online. We are delighted to share that our pupils did well in the following competitions. Congratulations to all our winners!
+
+| Poem Recitation: 	| Creative Story Writing: 	|
+|---	|---	|
+| Anbu Raj Aparna (1A) – Consolation Prize<br>Sanaasri Narev Nagavijayan (2E) – 3rd Prize 	| Srinivasan Marushikha (6G) – Consolation Prize 	|
+
+**The Boys’ Brigade Adventure Quest – Gold Honour Roll**
+
+  
+
+16 of our Primary 6 boys took part in the Boys’ Brigade Adventure Quest in March this year. The Adventure Quest consisted of activities that were introduced to promote characteristics of adventure, teamwork, endurance, fighting spirit and winning through fair means. 
+
+  
+
+This competition was designed to test the participants’ skills and knowledge acquired in the BB curriculum. For their efforts, our company is placed on the **Gold Honour Roll**.
+
+  
+
+**The Boys’ Brigade Gold Award**
+
+  
+
+The Gold Award is the highest award a Boys’ Brigade Boy can attain in the Juniors Programme. The boys would need to participate in the Adventure Quest, complete at least 4 hours of community service as well as attain all the other colour awards. 
+
+  
+
+This year, we are delighted to share that 16 of our boys were presented with the **Gold Award**.
+
+| Name 	| Class 	|
+|---	|---	|
+| Cruz Loh Yuan Kai<br>Leong Yong Jie Caleb<br>Zan Li Lok Sin<br>Han Zhi Yuan Zyan<br>Seah Jun Xi Javier<br>Gabrian Huang Kang’En<br>Soon Zheng Kai, Nathan<br>Keagan Tan Yan San<br>Lee Zheng Rong Daylon<br>Quak Qi Wen<br>Richard Lee Jinn Wing<br>Eaxan Soh<br>Lai Jing Teng<br>Matthew Tuvia Ong <br>Tay Kai De Cody <br>Trey Kenwyn Fung  	| 6A<br>6A<br>6A<br>6B<br>6B<br>6D<br>6D<br>6E<br>6F<br>6F<br>6F<br>6G<br>6G<br>6G<br>6G <br>6G 	|
+
+**Boys’ Brigade JM Fraser Award 2021**  
+
+  
+
+Our Boys’ Brigade 5J Singapore Company has been awarded the JM Fraser Award for Excellence for 2021 – **Silver Honour Roll**. This award is given in recognition of the BB companies' achievements for their programmes as well as administrative and operational efficiency. 
+
+  
+
+**Girls’ Brigade Company Award 2021**  
+
+  
+
+The Girls’ Brigade Company Award recognises the achievements of companies in developing each girl and officer to her fullest potential by equipping, empowering and enabling them. Our 28th P Girls’ Brigade Company has been awarded the **Silver Award** for year 2021. We rejoice with the girls and would like to thank all the girls and teachers for their hard work and dedication. 
+
+  
+
+**73rd National Schools Individuals Chess Championship 2022**
+
+  
+
+The Singapore Chess Federation held the 73rd National Schools Individuals Chess Championship 2022 as a virtual competition. The event was held from 15 to 17 March and 10 of our pupils took part in the competition. We are delighted to share that **Ke Yanqing (6F)**, who participated in the Under 12 Girls Category, was awarded **5th position** in the South Zone standings and **Adhi Somu Palaniappan (4F)**, who participated in the Under 10 Open Category, was also awarded **5th position** in the South Zone standings. Well done, pupils!
+
+  
+
+**National School Games (NSG) Updates**  
+
+  
+
+The NSG resumed in April this year and we are delighted to share that our pupils have shown a strong spirit of excellence during the competitions, displayed strong sportsmanship and showcased amazing love for both their team-mates and opponents during the competitions. We would like to commend all our pupils who have taken part in the various NSG Senior division competitions in Artistic Gymnastics, Rhythmic Gymnastics, Badminton, Basketball, Football, Table Tennis, Track and Field, Rope Skipping, Swimming and Wushu. We are delighted to share the outstanding achievements in the following events.
+
+  
+
+**2022 NSG Basketball Senior Division Boys Competition**
+
+  
+
+Our Basketball Senior Boys have done the school proud. They attained 3rd placing in the NSG Basketball South Zone competition. Well done boys! 
+
+  
+
+More details of the competition results can be accessed at this link: [Click here](https://nsg.moe.edu.sg/spssc/basketball#result)
+
+  
+
+**2022 NSG Rope Skipping National Competition**
