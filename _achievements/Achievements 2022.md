@@ -69,6 +69,12 @@ Our pupils participated in the above competition organised by Hwa Chong Institut
 
 <table><tbody><tr><td class="selected" style="font-weight: normal; text-align: left; vertical-align: top;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Leong Yuen Sheng Abel (6B)</span></p><p><span>Seah Yuxin (6D)</span></p><p><span>Aloysius Kerk Rui Zhe (5B)</span></p><p><span>Koh Yong Wei Janelle (5B)</span></p></div></div></td><td class="selected" style="font-weight: normal; text-align: left; vertical-align: top;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Silver Award</span></p><p><span>Silver Award</span></p><p><span>Bronze Award</span></p><p><span>Bronze Award</span></p></div></div></td></tr></tbody></table>
 
+| Leong Yuen Sheng Abel (6B)<br>Seah Yuxin (6D)<br>Aloysius Kerk Rui Zhe (5B)<br>Koh Yong Wei Janelle (5B) | Silver Award<br>Silver Award<br>Bronze Award<br>Bronze Award |
+|---|---|
+
+|  |  |
+|---|---|
+| **Leong Yuen Sheng Abel (6B)<br>Seah Yuxin (6D)<br>Aloysius Kerk Rui Zhe (5B)<br>Koh Yong Wei Janelle (5B)** | **Silver Award<br>Silver Award<br>Bronze Award<br>Bronze Award** |
 **SOTA Primary 6 Creative Writing Competition 2022**
 
   
