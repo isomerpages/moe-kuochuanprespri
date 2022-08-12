@@ -117,3 +117,38 @@ This contest is organised by Asia Art Association and sponsored by PaperOneTM, i
 | Best Writing <br>最佳书写                                                                                                                                                                                                                                                 | Best Design <br>最佳设计                                                                                                                                                                                                                                                                                                     | Most Original<br> 最佳原创                                                                                                                                                                     |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Zou Zixi (5B)<br> 邹子熙<br> <br>  Ang Jia Ning (6A), <br> Foo Chiao Lin Sophia (6A)<br> 洪嘉嬣, 胡巧遴 <br><br>  Low Hui Qi Megan (4C),<br> Tiffany Chan Jing Xuan (4C)<br> 刘卉淇, 曾敬轩<br><br>   Huang Xin Tong (4B),<br> Abbe Loo Kang Ning (4F)<br> 黄新桐, 吕康宁 | Zou Zixi (5B)<br> 邹子熙<br><br>   Ang Jia Ning (6A), <br> Foo Chiao Lin Sophia (6A) <br> 洪嘉嬣, 胡巧遴<br><br>   Low Hui Qi Megan (4C),<br> Tiffany Chan Jing Xuan (4C)<br> 刘卉淇, 曾敬轩<br><br>   Chan Xin-Yann Binnie (5B),<br> Chin Shi Xuan Claire (5B)<br> 陈欣恩, 陈湜轩<br><br>   Kwan Xinlin (6E)<br> 关馨琳 | Zou Zixi (5B)<br> 邹子熙<br><br>   Low Hui Qi Megan (4C),<br> Tiffany Chan Jing Xuan (4C)<br> 刘卉淇, 曾敬轩<br><br>   Huang Xin Tong (4B),<br> Abbe Loo Kang Ning (4F)<br> 黄新桐, 吕康宁 |
+
+**Winners of Outstanding Tutor** **优秀指导教师**
+
+*   **Dr Liu Mianjin**
+*   **Mdm Lin Pei-Chen**
+*   **Ms Tan Shimin**
+*   **Mdm Veronica Ho**
+
+**Singapore Creative Story Writing Competition “Let’s Write”**
+
+**我手写我心** **.** **校园版新加坡小学生华文创意写作比赛** **2021**
+
+This competition provides pupils with an opportunity to undertake creative writing in Chinese, while encouraging them to think in Chinese and create their own stories. We congratulate **Zhang Yuyan** **张彧嫣** **(4A, 2021)** for achieving the **Merit Award**. Well done Yuyan!
+
+  
+
+**2022 Memory Games Challenge** 
+
+**全国《记忆游戏》线上比赛2022年**
+
+  
+
+This Memory Games Challenge is specially organized for pupils taking Foundation Chinese Language. This Challenge, which comprises puzzles and games in the form of a virtual escape room, aims to excite pupils who are taking Foundation Chinese Language and ignite in them the joy of learning the language. Besides developing curiosity and ownership of learning, the Challenge also aims to develop a sense of fulfilment in solving problems collaboratively as a team.  
+
+  
+
+We are pleased to share with you 2 Merit Award winners from KCPPS: **Joshua Ang Jun Wei 洪俊伟 (6E)** and **Valencia Heng Jia Yue王嘉悦 (6E)**. Congratulations Joshua and Valencia!
+
+  
+
+**Chinnanj Chittukkal 2022 (Tamil Literary Competition 2022)** 
+
+  
+
+In conjunction with Tamil Language Month, which aims to promote the usage of spoken and written Tamil, Teck Ghee Indian Activity Executive Committee organised Cinnanj Chittukkal 2022, a series of competitions for P1 to P6 pupils taking Tamil Language. Our pupils recorded their presentations and submitted their videos online. We are delighted to share that our pupils did well in the following competitions. Congratulations to all our winners!
