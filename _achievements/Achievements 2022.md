@@ -91,8 +91,9 @@ Congratulations Roanne!
 
 The 23rd International Chinese Language Competition 2022, hosted by Holy Innocents’ Primary School and Shenjiamen Primary School of China, aimed to create a platform for pupils to hone their creative ideas via the internet, as well as to encourage expression and creative writing using the Chinese Language. We are proud to announce that the following pupils have achieved excellent results!
 
-| Zou Zixi 邹子熙 (6B)<br> Zhang Yuyan张彧嫣 (5G) | Gold Award<br> Bronze Award |
-|---------------------------------------------|-------------------------|
+|  |  |
+|---|---|
+| Zou Zixi 邹子熙 (6B)<br>Zhang Yuyan张彧嫣 (5G) | Gold Award<br>Bronze Award |
 
 **13th GoodTalk (Global Village) International Children & Youth Bilingual Speech Conference**  
 
