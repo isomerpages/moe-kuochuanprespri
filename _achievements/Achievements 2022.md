@@ -247,6 +247,7 @@ More details of the competition results can be accessed at this link: [Click he
 | SENIOR 1 GIRLS 50 METRES BREASTSTROKE<br>        Charlotte Chew Jen Ee (6B) | 9th position |
 
 **2022 NSG Track & Field Championship**
+<br>
 |  |  |
 |---|---|
 | SENIOR 1 GIRLS 100 METRES<br>        Chan Le Xuan Faith (6D)  | 7th position  |
