@@ -231,3 +231,11 @@ More details of the competition results can be accessed at this link: [Click he
   
 
 **2022 NSG Rope Skipping National Competition**
+
+| MIXED DOUBLE DUTCH <br>        Eva Cheong En Qi (5D)<br>        Allyssa Lim (6B) <br>        Jaclyn Ng Yu Xuan (6D) <br>        Ang Wern Ni Gianna (6E) <br>        Matthew Tuvia Ong (6G) | 1st position<br><br><br><br><br> |
+|---|---|
+| DOUBLE DUTCH – SENIOR GIRLS <br>         Jaelyn Yeo Jia Nin (5G) <br>        Katrina Kwong Yixin (6A) <br>        Rykiel Lee Jia En (6A)<br>        Maegan Lim Min En (6F)  | 4th position <br><br><br><br> |
+| PAIR FREESTYLE – SENIOR GIRLS <br>        Allyssa Lim (6B) <br>        Alynna Lim (6D)  | 4th position <br><br> |
+| SPEED RELAY – SENIOR GIRLS <br>        Tan Sze Jing (5A)<br>        Eva Cheong En Qi (5D)<br>        Jaelyn Yeo Jia Nin (5G)<br>        Alynna Lim (6D)<br>        Jaclyn Ng Yu Xuan (6D) | 7th position <br><br><br><br><br> |
+| INDIVIDUAL FREESTYLE – SENIOR GIRLS <br>        Allyssa Lim (6B)  | 7th position <br> |
+| INDIVIDUAL SPEED – SENIOR GIRLS <br>        Tan Sze Jing (5A)  | 7th position  |
