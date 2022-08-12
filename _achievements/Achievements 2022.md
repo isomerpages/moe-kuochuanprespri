@@ -242,7 +242,9 @@ More details of the competition results can be accessed at this link: [Click he
 | PAIR FREESTYLE – SENIOR GIRLS <br>        Allyssa Lim (6B) <br>        Alynna Lim (6D)  | 4th position <br><br> |
 | SPEED RELAY – SENIOR GIRLS <br>        Tan Sze Jing (5A)<br>        Eva Cheong En Qi (5D)<br>        Jaelyn Yeo Jia Nin (5G)<br>        Alynna Lim (6D)<br>        Jaclyn Ng Yu Xuan (6D) | 7th position <br><br><br><br><br> |
 | INDIVIDUAL FREESTYLE – SENIOR GIRLS <br>        Allyssa Lim (6B)  | 7th position <br> |
-| INDIVIDUAL SPEED – SENIOR GIRLS <br>        Tan Sze Jing (5A)  | 7th position <br> |
+| INDIVIDUAL SPEED – SENIOR GIRLS <br>        Tan Sze Jing (5A)  | 7th position  |
+|  |  |
+
 **2022 NSG Swimming Competition**
 
 |  |  |
