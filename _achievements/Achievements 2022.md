@@ -261,3 +261,11 @@ More details of the competition results can be accessed at this link: [Click he
 |---|---|
 | 1ST INTERNATIONAL SPEAR – SENIOR GIRLS<br>        Elin Tham (6G) | 2nd position  |
 | 5-DUAN SWORD – SENIOR GIRLS<br>        Elin Tham (6G)    | 2nd position  |
+
+**15th Singapore Open Artistic Swimming Championship 2021**  
+
+The Singapore Swimming Association recently held the 15th Singapore Open Artistic Championship 2021 as a virtual competition owing to the global COVID-19 pandemic. The webcast of the event was held on 11 Dec 2021 and showcased the respective athletes’ routines as well as the final scores given by the judges. We are delighted to share that **Emma Foo Hui Han (4B,** **2021)** participated in the 10 & Under Duet Free category and was awarded the **Bronze Medal**. Well done, Emma for your wonderful achievement!
+
+**2nd Letter of Appreciation from the Children’s Cancer Foundation (CCF)**
+
+We are delighted that on 02 Dec 2021, our pupil **Charlotte Chew Jen Ee (5B,** **2021)** was presented with a letter of appreciation from the CCF for her generosity in giving and making a difference to the children and families affected by childhood cancer. Previously, Charlotte initiated a bake sale and donated all the earnings to the CCF. She has also supported the ACRES (Animal Concerns Research & Education Society) and raised funds for the society. Thank you for showing our school value of Amazing Love, Charlotte!
