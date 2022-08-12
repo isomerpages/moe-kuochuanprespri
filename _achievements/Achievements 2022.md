@@ -91,12 +91,10 @@ Congratulations Roanne!
 
 The 23rd International Chinese Language Competition 2022, hosted by Holy Innocents’ Primary School and Shenjiamen Primary School of China, aimed to create a platform for pupils to hone their creative ideas via the internet, as well as to encourage expression and creative writing using the Chinese Language. We are proud to announce that the following pupils have achieved excellent results!
 
-| Zou Zixi 邹子熙 (6B)<br>Zhang Yuyan张彧嫣 (5G) | Gold Award<br>Bronze Award |
-|------------------------------------------------|----------------------------|
-
 |  |  |
 |---|---|
 | **Zou Zixi 邹子熙 (6B)<br>Zhang Yuyan张彧嫣 (5G)** | **Gold Award<br>Bronze Award** |
+|  |  |
 
 **13th GoodTalk (Global Village) International Children & Youth Bilingual Speech Conference**  
 
@@ -115,9 +113,6 @@ This year’s topic is “2025”. Pupils are to use “2025” as the topic to 
 This contest is organised by Asia Art Association and sponsored by PaperOneTM, invited Singaporean pupils to create their own Chinese or English newspaper to express their sense of national identity with Singapore, with the theme “My Singapore Dream”. Our heartiest congratulations to pupils who have won the following awards, and our teachers who have coached the awardees. The team of teachers has also been awarded the Outstanding Tutor Award. Congratulations!
 
 **Winners of Senior Group of Primary School** (_classes stated as of 2021_)
-| Platinum<br>特等奖      | Gold<br>金奖                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Silver<br>银奖                                                                                                                                                                                                                                                                                   |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Zou Zixi (5B)<br>邹子熙 | Eva Cheong En Qi (4A), <br>Guo Chenyi (4A) <br>张恩琦, 郭晨艺<br> <br>Melanie Koh Xin Yue (4A), <br>Zhang Yuyan (4A) <br>许新悦, 张彧嫣<br> <br>Huang Xin Tong (4B), <br>Abbe Loo Kang Ning (4F)<br>黄新桐, 吕康宁<br> <br>Low Hui Qi Megan (4C), <br>Tiffany Chan Jing Xuan (4C)<br>刘卉淇, 曾敬轩<br> <br>Chan Xin-Yann Binnie (5B),<br> Chin Shi Xuan Claire (5B)<br>陈欣恩, 陈湜轩<br> <br>Ang Jia Ning (6A) , <br>Foo Chiao Lin Sophia (6A) <br>洪嘉嬣, 胡巧遴<br> <br>Kwan Xinlin (6E) 关馨琳 | Janessa Fong Rui Min (4A), Joelle Tay Le En (4A)<br>方瑞敏, 郑乐恩<br> <br>Emma Foo Hui Han (4B),<br>Xie Xinyi (4C) <br>符惠涵, 谢馨逸<br> <br>Sophie Tjhi (4C), <br>Zoey Tian Yu Ying (4C) <br>张佳萱, 邓钰颖<br> <br>Li Ziyu Judy (5B) <br>李梓妤<br> <br>Huang Songhua Ilianna (6C)<br>黄頌華 |
 
 | Platinum<br>特等奖 | Gold<br>金奖 | Silver<br>银奖 |
 |---|---|---|
