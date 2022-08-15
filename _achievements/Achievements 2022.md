@@ -16,6 +16,7 @@ The team will now **represent Singapore in the Grand Finals** on Sat 27 Aug an
 | Name                                                                                                                                                                                                                                                                                                                                                             | Role                                                                                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Chia Li Yen (3B)<br> Yau Yu Ching (3C)<br> Vania Ang En Qi (3D)<br> Teo Rui Zhen Celine (5A)<br> Benjamin Evan Tirtaatmadja (5B)<br>  Ooi Kylie (5D)<br> Zheng Kyra (5D)<br> Jillian Ann Goh Hui Xuan (5E)<br>  Sarah Tan Yi Fei (5G)<br>  Layla Kailing Smith (6B)<br>  Roanne Wong (6B)<br>  Dhanesh Singam (6F)<br>  Avelia Teo Yi Xuan (6G)<br>  Jovine Lum Kar Xun (6G)<br>  Muhammad Aidan Bin Mohammed Rizal (6G)<br> | Bluefin the Tuna Fry<br> Ocean Spirit<br> Scientist 2<br> Kelp 1<br> Commercial Fisherman 1<br> Fish<br> Kelp 2<br> Commercial Fisherman 2<br>  Scientist 1<br>  Shark<br>  Coral<br>  Commercial Fisherman 3<br>  Scientist 3<br>  Turtle<br>  Traditional Fisherman  |
+|
 
 **New Hope: World Charity Painting Competition 2021**  
 
@@ -26,6 +27,7 @@ The team will now **represent Singapore in the Grand Finals** on Sat 27 Aug an
 |  	|  	|
 |---	|---	|
 | Charlotte Chew Jen Ee (6B)<br>Avinaash Singh Sodhi (6C)<br>Tye Eng Kee Tania (5B)<br>Lee Tze Wai (5C)<br>Maggie Liu Minqi (5D)<br>Guo Chenyi (5G) 	| Silver<br>Bronze<br>Bronze<br>Bronze<br>Bronze<br>Bronze 	|
+|
 
 Details of the competition and the artworks submitted from around the world can be found at the following website. This also includes our pupils’ exemplary pieces of works.
 
@@ -114,12 +116,14 @@ This contest is organised by Asia Art Association and sponsored by PaperOneTM, i
 | Platinum<br>特等奖 | Gold<br>金奖 | Silver<br>银奖 |
 |---|---|---|
 | Zou Zixi (5B)<br>邹子熙 | Eva Cheong En Qi (4A), <br>Guo Chenyi (4A) <br>张恩琦, 郭晨艺<br> <br>Melanie Koh Xin Yue (4A), <br>Zhang Yuyan (4A) <br>许新悦, 张彧嫣<br> <br>Huang Xin Tong (4B), <br>Abbe Loo Kang Ning (4F)<br>黄新桐, 吕康宁<br> <br>Low Hui Qi Megan (4C), <br>Tiffany Chan Jing Xuan (4C)<br>刘卉淇, 曾敬轩<br> <br>Chan Xin-Yann Binnie (5B),<br> Chin Shi Xuan Claire (5B)<br>陈欣恩, 陈湜轩<br> <br>Ang Jia Ning (6A) , <br>Foo Chiao Lin Sophia (6A) <br>洪嘉嬣, 胡巧遴<br> <br>Kwan Xinlin (6E) 关馨琳 | Janessa Fong Rui Min (4A), Joelle Tay Le En (4A)<br>方瑞敏, 郑乐恩<br> <br>Emma Foo Hui Han (4B),<br>Xie Xinyi (4C) <br>符惠涵, 谢馨逸<br> <br>Sophie Tjhi (4C), <br>Zoey Tian Yu Ying (4C) <br>张佳萱, 邓钰颖<br> <br>Li Ziyu Judy (5B) <br>李梓妤<br> <br>Huang Songhua Ilianna (6C)<br>黄頌華 |
+|
 
 **Winners of Best Writing, Best Design and Most Original** (_classes stated as of 2021_)
 
 | Best Writing<br>最佳书写 | Best Design<br>最佳设计 | Most Original<br>最佳原创 |
 |---|---|---|
 | Zou Zixi (5B)<br>邹子熙<br><br>Ang Jia Ning (6A),<br>Foo Chiao Lin Sophia (6A)<br>洪嘉嬣, 胡巧遴<br><br>Low Hui Qi Megan (4C),<br>Tiffany Chan Jing Xuan (4C)<br>刘卉淇, 曾敬轩<br><br>Huang Xin Tong (4B),<br>Abbe Loo Kang Ning (4F)<br>黄新桐, 吕康宁 | Zou Zixi (5B)<br>邹子熙<br><br>Ang Jia Ning (6A),<br>Foo Chiao Lin Sophia (6A)<br>洪嘉嬣, 胡巧遴<br><br>Low Hui Qi Megan (4C),<br>Tiffany Chan Jing Xuan (4C)<br>刘卉淇, 曾敬轩<br><br>Chan Xin-Yann Binnie (5B),<br>Chin Shi Xuan Claire (5B)<br>陈欣恩, 陈湜轩<br><br>Kwan Xinlin (6E)<br>关馨琳 | Zou Zixi (5B)<br>邹子熙<br><br>Low Hui Qi Megan (4C),<br>Tiffany Chan Jing Xuan (4C) 刘卉淇, 曾敬轩<br><br>Huang Xin Tong (4B),<br>Abbe Loo Kang Ning (4F)<br>黄新桐, 吕康宁 |
+|
 
 **Winners of Outstanding Tutor** **优秀指导教师**
 
@@ -159,6 +163,7 @@ In conjunction with Tamil Language Month, which aims to promote the usage of spo
 | Poem Recitation: 	| Creative Story Writing: 	|
 |---	|---	|
 | Anbu Raj Aparna (1A) – Consolation Prize<br>Sanaasri Narev Nagavijayan (2E) – 3rd Prize 	| Srinivasan Marushikha (6G) – Consolation Prize 	|
+|
 
 **The Boys’ Brigade Adventure Quest – Gold Honour Roll**
 
@@ -185,6 +190,7 @@ This year, we are delighted to share that 16 of our boys were presented with the
 | Name 	| Class 	|
 |---	|---	|
 | Cruz Loh Yuan Kai<br>Leong Yong Jie Caleb<br>Zan Li Lok Sin<br>Han Zhi Yuan Zyan<br>Seah Jun Xi Javier<br>Gabrian Huang Kang’En<br>Soon Zheng Kai, Nathan<br>Keagan Tan Yan San<br>Lee Zheng Rong Daylon<br>Quak Qi Wen<br>Richard Lee Jinn Wing<br>Eaxan Soh<br>Lai Jing Teng<br>Matthew Tuvia Ong <br>Tay Kai De Cody <br>Trey Kenwyn Fung  	| 6A<br>6A<br>6A<br>6B<br>6B<br>6D<br>6D<br>6E<br>6F<br>6F<br>6F<br>6G<br>6G<br>6G<br>6G <br>6G 	|
+|
 
 **Boys’ Brigade JM Fraser Award 2021**  
 
