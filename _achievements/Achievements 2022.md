@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Achievements 2022**
 
-###### International science Drama Competition 2022
+**International science Drama Competition 2022**
 
 We are pleased to announce that our school’s Drama Club CCA has clinched the **Second Place (Junior Category)** in the International Science Drama Competition 2022 organised by the Singapore Science Centre. Performing “The Last Tuna On Earth”, the team has also attained the **Popularity Award**. 
 
