@@ -25,6 +25,6 @@ Developed by the Ministry of Education and GovTech, Parents Gateway is a one-sto
 
 Schoolbag.sg is an online publication by the Ministry of Education, Singapore. It provides parents, educators and the general public with education news, school features and tips.
 
-* ##### [Support for Special Needs](https://www.moe.gov.sg/education/programmes/support-for-children-special-needs)
+* ##### [Support for Special Needs](https://www.moe.gov.sg/education/programmes/support-for-children-special-needs) **website unavailable**
 
 The Ministry of Education, Singapore, has implemented many initiatives to support students with mild special educational needs in mainstream school. [This webpage](https://www.moe.gov.sg/education/programmes/support-for-children-special-needs) lists the resources available.
