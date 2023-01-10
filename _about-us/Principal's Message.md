@@ -6,11 +6,8 @@ description: ""
 ### **Principal's Message**
 
 <img src="/images/principal.jpg" 
-     style="width:25%" align=left>
-		 
-<br><br><br><br><br><br>
-<br><br><br>
-
+     style="width:25%;padding:15px" align=left>
+<br>
 Blessed Semester 2, 2022!
 
 We thank you (our beloved readers) for your interests in checking out our school website and in knowing KCPPS via this platform! Thank you also for reading my message.
