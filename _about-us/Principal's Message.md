@@ -6,9 +6,21 @@ description: ""
 ### **Principal's Message**
 
 <div class="container">
-<img src="/images/principal.jpg" 
-     style="width:50%;padding:15px" class="responsive-img">
-		
+  <img src="/images/principal.jpg" style="width:50%" class="responsive-img">
+</div>
+
+<style>
+	.container {
+    text-align: left;
+  }
+
+  @media (max-width: 600px) {
+    .container {
+      text-align: center;
+    }
+  }
+</style>
+
 <br>
 <p class="text">Blessed Semester 2, 2022!
 
@@ -35,14 +47,7 @@ Principal<br>
 Kuo Chuan Presbyterian Primary School
 	</div>
 	
-<style>
-  @media (max-width: 600px) {
-    .text {
-      position: relative;
-      top: 50px;
-    }
-  }
-</style>
+
 
 ![](/images/A%20new%20season%20to%20flourish%20banner.png)
 _The school mural we brought back from the Ang Mo Kio holding site to Bishan._
