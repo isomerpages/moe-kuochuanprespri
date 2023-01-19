@@ -7,9 +7,8 @@ description: ""
 
 <div class="container">
 <img src="/images/principal.jpg" 
-     style="width:40%;padding:15px" align= left class="responsive-img">
+     style="width:50%;padding:15px" class="responsive-img">
 		
-<br>
 <br>
 <p class="text">Blessed Semester 2, 2022!
 
