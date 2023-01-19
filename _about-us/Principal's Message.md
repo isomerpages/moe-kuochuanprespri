@@ -5,21 +5,13 @@ description: ""
 ---
 ### **Principal's Message**
 
-
+<div class="container">
 <img src="/images/principal.jpg" 
-     style="width:50%;padding:15px" align=left class="responsive-img">
+     style="width:60%;padding:15px" align= left class="responsive-img">
+		
+<br>
 
-<style>
-  @media (max-width: 600px) {
-    .responsive-img {
-      width: 100%;
-    }
-  }
-</style>
-
-
-
-Blessed Semester 2, 2022!
+<p class="text">Blessed Semester 2, 2022!
 
 We thank you (our beloved readers) for your interests in checking out our school website and in knowing KCPPS via this platform! Thank you also for reading my message.
 
@@ -42,6 +34,16 @@ Blessings!
 Mrs Yee-Toh Gek Khiaw<br>
 Principal<br>
 Kuo Chuan Presbyterian Primary School
+	</div>
+	
+<style>
+  @media (max-width: 600px) {
+    .text {
+      position: relative;
+      top: 50px;
+    }
+  }
+</style>
 
 ![](/images/A%20new%20season%20to%20flourish%20banner.png)
 _The school mural we brought back from the Ang Mo Kio holding site to Bishan._
