@@ -6,21 +6,8 @@ description: ""
 ### **Principal's Message**
 
 <div class="container">
-  <img src="/images/principal.jpg" style="width:50%" class="responsive-img">
+  <img src="/images/principal.jpg" style="width:60%;padding:3%" align = "left" >
 </div>
-
-<style>
-	.container {
-    text-align: left;
-  }
-
-  @media (max-width: 600px) {
-    .container {
-      text-align: center;
-    }
-  }
-</style>
-
 
 <p class="text">Blessed Semester 2, 2022!
 
