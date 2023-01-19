@@ -21,7 +21,7 @@ description: ""
   }
 </style>
 
-<br>
+
 <p class="text">Blessed Semester 2, 2022!
 
 We thank you (our beloved readers) for your interests in checking out our school website and in knowing KCPPS via this platform! Thank you also for reading my message.
