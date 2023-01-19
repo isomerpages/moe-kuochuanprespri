@@ -7,10 +7,10 @@ description: ""
 
 <div class="container">
 <img src="/images/principal.jpg" 
-     style="width:60%;padding:15px" align= left class="responsive-img">
+     style="width:40%;padding:15px" align= left class="responsive-img">
 		
 <br>
-
+<br>
 <p class="text">Blessed Semester 2, 2022!
 
 We thank you (our beloved readers) for your interests in checking out our school website and in knowing KCPPS via this platform! Thank you also for reading my message.
