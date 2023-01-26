@@ -4,31 +4,31 @@ permalink: /about-us/General-Information/school-hours/
 description: ""
 third_nav_title: General Information
 ---
-
-
 ### **General Information**
 #### **School Hours**
 
 ##### **Single Session**
 
 Flag Raising Ceremony: 7:30 a.m.<br>
-First Lesson starts after flag raising.<br>
-Dismissal: Daily, Staggered dismissal from 1:20 p.m. to 1:40 p.m.
+First Lesson starts at 7:30 am<br>
+Dismissal: Daily, Staggered dismissal from 1:25 pm to 1:30 pm
 
 ##### **Recess Time**
 
-Primary 1: 9:15 a.m. – 9:45 a.m.<br>
-Primary 2: 9:30 a.m. – 10:00 a.m.<br>
-Primary 3: 10:00 a.m. – 10:30 a.m. <br>
-Primary 4: 10:15 a.m. – 10:45 a.m.<br>
-Primary 5: 10:45 a.m. – 11:15 a.m.<br>
-Primary 6: 11:00 a.m. – 11:30 a.m. <br>
+### 
+
+Primary 1: 9:30 am – 10.00 am<br>
+Primary 2: 10:00 am – 10:30 am <br>
+Primary 3: 10:30 am – 11:00 am  <br>
+Primary 4: 10:45 am – 11:15 am <br>
+Primary 5: 9:45 am – 10:15 am <br>
+Primary 6: 10:15 am – 10:45 am
 
 ##### **CCA**
 
 Thursdays: 2:00 p.m. – 4:00 p.m. 
 
-* Certain CCAs may hold additional sessions on other weekday afternoons. The Boys' Brigade and Girls' Brigade hold sessions on Saturdays. 
+*Certain CCAs may hold additional sessions on other weekday afternoons. The Girls' Brigade holds sessions on Fridays while Boys' Brigade holds sessions on Saturdays. 
 
 ##### **Side Gate Opening Hours**
 
