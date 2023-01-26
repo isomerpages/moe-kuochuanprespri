@@ -385,6 +385,23 @@ More details of the competition results can be accessed at this link: [Click he
 | SENIOR 1 GIRLS 50 METRES BREASTSTROKE<br>        Charlotte Chew Jen Ee (6B) | 9th position |
 |  |  |
 
+
+
+**SPSSC Swimming National Junior Division 2022**
+
+  
+
+The competition was held at the OCBC Aquatic Center from 20 to 22 Jul. 17 pupils represented the school in the various events with many taking part in the competition for the first time. We are delighted to share that **Lin Ken, Liam (3F)** finished **8th** in the Boys 10 & Under 25 SC Meter Backstroke D Division competition!
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| BOYS 10 & UNDER 25 SC METRE BACKSTROKE – D DIVISION    | Lin Ken, Liam (3F)    | 8th position   |
+
+
+
+
 **2022 NSG Track & Field Championship**
 
 |  |  |
