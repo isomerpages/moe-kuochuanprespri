@@ -21,10 +21,10 @@ description: ""
 
 Developed by the Ministry of Education and GovTech, Parents Gateway is a one-stop portal that strengthens school-home partnership to support our children in their education journey. Our school will be sending letters and consent forms via Parents Gateway starting Term 2 2019. If you have not downloaded the app on your mobile phone, please go to [pg.moe.edu.sg](http://pg.moe.edu.sg/) to find out how. Please call the General Office if you need assistance on this.
 
-*  ##### [Schoolbag.sg](https://www.schoolbag.sg/)
+*  ##### [Schoolbag.edu.sg](https://www.schoolbag.edu.sg/)
 
 Schoolbag.sg is an online publication by the Ministry of Education, Singapore. It provides parents, educators and the general public with education news, school features and tips.
 
-* ##### [Support for Special Needs](https://www.moe.gov.sg/education/programmes/support-for-children-special-needs) **website unavailable**
+* ##### [Support for Special Needs](https://www.moe.gov.sg/special-educational-needs/) 
 
 The Ministry of Education, Singapore, has implemented many initiatives to support students with mild special educational needs in mainstream school. [This webpage](https://www.moe.gov.sg/education/programmes/support-for-children-special-needs) lists the resources available.
