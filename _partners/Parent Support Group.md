@@ -13,18 +13,22 @@ Their belief in us, their presence in school and their efforts in supporting the
 
 You can join the PSG and volunteer your services to the school. Please fill up the [PSG Recruitment Form](http://gg.gg/KCPPS-PSG) or you can send a request  via email to [kcppspsvg@gmail.com](mailto:kcppspsvg@gmail.com). In doing so, you will have a better understanding of our staff, our school and its programmes. For more information, please visit their Facebook page at [https://www.facebook.com/kcpps.psg](https://www.facebook.com/kcpps.psg).
 
-**PSG Exco:**<br>
-**Chairman:** Mrs Poh Wai Leng <br>
-**Vice-chairman:** Mrs Eileen Bean<br>
-**Treasurer:** Mrs Doris Cheng<br>
-**Secretary:** Mdm Cynthia Hong<br>
+You can join the PSG and volunteer your services to the school. Please fill up the [PSG Recruitment Form](http://gg.gg/KCPPS-PSG) or you can send a request  via email to [kcppspsvg@gmail.com](mailto:kcppspsvg@gmail.com). In doing so, you will have a better understanding of our staff, our school and its programmes. For more information, please visit their Facebook page at [https://www.facebook.com/kcpps.psg](https://www.facebook.com/kcpps.psg).
 
-**Members:**<br>
-Mrs Agnes Tham <br>
-Mdm Gillian Woo<br>
-Mr Kelvin Leong  <br>
-Mrs Lim Chion Ting  <br>
-Mrs Rachel Fong  <br>
+  
+
+PSG Exco:
+
+Chairman: Mr Edward Lim<br>
+Vice-Chairman: Mdm Tang Simin<br>
+Treasurer: Mrs Doris Cheng<br>
+Secretary: Mrs Eileen Bean
+
+  
+
+Members:<br>
+Mrs Poh Wai Leng<br>
 Mrs Valerie Ang  <br>
-Mrs Rae Wu<br>
-
+Mrs Lim Chion Ting  <br>
+Mrs Pavithra<br>
+Ms Gisele Chen
