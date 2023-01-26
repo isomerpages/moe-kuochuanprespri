@@ -23,8 +23,6 @@ Mrs Yee-Toh Gek Khiaw<br>
 Principal<br>
 Kuo Chuan Presbyterian Primary School
 </div>
-	
-
 
 <img src="/images/A%20new%20season%20to%20flourish%20banner.png">
 
