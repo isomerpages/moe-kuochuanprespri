@@ -285,7 +285,23 @@ This year, we are delighted to share that 16 of our boys were presented with the
 
 Our Boys’ Brigade 5J Singapore Company has been awarded the JM Fraser Award for Excellence for 2021 – **Silver Honour Roll**. This award is given in recognition of the BB companies' achievements for their programmes as well as administrative and operational efficiency. 
 
-  
+
+**Girls’ Brigade Dr Low Guat Tin Challenge – Gold Award**
+
+The Dr Low Guat Tin (LGT) Challenge encourages girls to seek creative ways to improve the lives of those around them, expanding the boundaries of their capabilities and empathy towards their world. The theme for 2022 – Better Together, for a Better Tomorrow calls for creative submissions to educate, encourage, foster empathy, dream of a radical invention, or depict an ideal Singapore that is concerned for those who have trouble catching up.
+
+33 girls from our 28th P Girls’ Brigade, led by Mdm Chong Li Chen (GB Officer and Teacher I/C), represented KCPPS with their outstanding works through the different mediums of writing, illustration and action. The following are the awards that the pupils have attained, and we are grateful that their collective efforts have attained the Gold Award for the school. Well done GB girls and teachers! Our school is blessed to be part of this meaningful challenge!
+
+
+
+| Gold | Silver | Bronze |
+| -------- | -------- | -------- |
+| Kang Xin Yu Eloise (5F)   | Sofia Joy Uy (4A)<br>Kwan Yu Yun (4B)<br>Kaitlyn Khong Kai Lin (4D)<br>Tan Le-Ann (4D)<br>Odelia Enxi Lee (5D)<br>Melissa Tham Hon Minn (5E)<br>Sophia Chrissabelle Sudjono (5E)<br>Tiffany Chan Jing Xuan (5F)<br>Chew An Rui Stacey (5G)<br>Grace Phang Hui En (5G) | Goh Song En Hannah (3C)<br>Vania Ang En Qi (3D)<br>Jermaine Chia Yahui (3F)<br>Fang Xin (4B)<br>Koh Zi Qi (4B)<br>Mikaela Ng Jin Xin (4B)<br>Sabrynna Quinn Tjandra (4B)<br>Skylar Tan Shing Ru (4B)<br>Zelyn Yeo Xin Ying (4C)<br>Desnia Leong Ruishan (4D)<br>Hannah Ng Qi Xin (4D)<br>Jewel Cheong Li Wen (4E)<br>Chloe Chen Luoyi (4F)<br>Elizabeth Arabelle Lim (5A)<br>Wong Sum Wai, Jenny (5A)<br>Janessa Fong Rui Min (5B)<br>Kaelyn Tan En Qi (5B)<br>Koh Yong Wei Janelle (5B)<br>Eunice Hong Li Jia (5D)<br>Joelle Tay Le En (5D)<br>Karyn Fong Yi Xuan (5D)<br>Koh Kai En Keanne (5D)  |
+
+
+
+
+
 
 **Girls’ Brigade Company Award 2021**  
 
