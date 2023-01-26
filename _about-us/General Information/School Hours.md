@@ -15,7 +15,7 @@ Dismissal: Daily, Staggered dismissal from 1:25 pm to 1:30 pm
 
 ##### **Recess Time**
 
-### 
+
 
 Primary 1: 9:30 am – 10.00 am<br>
 Primary 2: 10:00 am – 10:30 am <br>
