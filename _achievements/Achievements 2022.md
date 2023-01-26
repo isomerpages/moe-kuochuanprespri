@@ -11,7 +11,7 @@ We are pleased to announce that our school’s Drama Club CCA has clinched the 
 
   
 
-The team will now **represent Singapore in the Grand Finals** on Sat 27 Aug and compete with teams from Australia, Brunei, China, Philippines, Thailand and Nigeria! Congratulations to the Drama Club members on making it to the Grand Finals!
+The team represented Singapore in the Grand Finals of the International Science Drama Competition 2022 organised by the Singapore Science Centre together with Asia Pacific Network of Science & Technology Centres. On 27 Aug, our team competed with teams from Australia, Brunei, China, Malaysia, Philippines and Thailand and clinched the **Third Place (Junior Category)** with the performance. We would like to take this opportunity to congratulate the team!
 
 | Name                                                                                                                                                                                                                                                                                                                                                             | Role                                                                                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,7 +26,8 @@ The team will now **represent Singapore in the Grand Finals** on Sat 27 Aug an
 
 |  	|  	|
 |---	|---	|
-| Charlotte Chew Jen Ee (6B)<br>Avinaash Singh Sodhi (6C)<br>Tye Eng Kee Tania (5B)<br>Lee Tze Wai (5C)<br>Maggie Liu Minqi (5D)<br>Guo Chenyi (5G) 	| Silver<br>Bronze<br>Bronze<br>Bronze<br>Bronze<br>Bronze 	|
+|**Silver**|**Bronze**|
+| Charlotte Chew Jen Ee (6B)	| Avinaash Singh Sodhi (6C)<br>Guo Chenyi (5G)<br>Lee Tze Wai (5C)<br>Maggie Liu Minqi (5D)<br>Tye Eng Kee Tania (5B) 	|
 |
 
 Details of the competition and the artworks submitted from around the world can be found at the following website. This also includes our pupils’ exemplary pieces of works.
