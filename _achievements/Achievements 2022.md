@@ -192,7 +192,23 @@ We would like to congratulate the following pupils for their achievements in thi
 | Silver Award    | Lee Rui Ting Claire 李睿婷 (2G) | 《我爸爸是消防员》  |
 | Bronze Award    | Olivia Mou Zhiqi 牟芷琪 (3B)  | 《袋鼠在哪里》  |
 
-  
+ 
+| Lower Primary (Group) Category | |  |
+| -------- | -------- | -------- |
+| Silver Award    | Zhang Yichen Eason 张颐宸 (2A) <br>Lim Hsin Ju Sarah 林芯如 (2F)<br>Wang Zi Qin Angela 黄紫芹 (2G)  | 《青蛙和小草》  |
+| Silver Award    | Meng Chenxi 孟晨曦 (3B)<br> Joelle Andika 陈优珥 (3D)<br>Tan Xuan Ying Arielle 陈萱颖 (3D)| 《说句对不起》  | 
+
+| Upper Primary (Individual) Category | |  |
+| -------- | -------- | -------- |
+| Bronze Award    | Abbe Loo Kang Ning 吕康宁 (5F) |  《院子里的悄悄话》 |
+| Bronze Award    |  Yau Lok Ching 丘樂澄 (5G) |  《父亲的眼泪》  |
+
+| Upper Primary (Group) Category | |  |
+| -------- | -------- | -------- |
+| Bronze Award    | Wong Guan Yu 黄冠宇 (4D)<br> Cheah Yu Heng 谢宇恒 (4F)<br>Joshua Andika 陈优善 (4F) | 《金箍棒》  |
+| Bronze Award    | Roanne Wong 黄恩慧 (6B)<br>Avelia Teo Yi Xuan 张旖轩 (6G)<br>Jayna Chia Enhui 谢恩慧 (6G) |   | 
+
+
 
 **Chinnanj Chittukkal 2022 (Tamil Literary Competition 2022)** 
 
