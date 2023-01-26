@@ -89,13 +89,13 @@ third_nav_title: Staff Directory
 
 | Name | Class |
 |---|---|
-| Ms Christina Chang <br>Mr Manson Yip | 6 Agape |
-| Mdm Agnes Pang <br>Mdm Tay Hui Phing  | 6 Brilliance |
-| Mdm Ng Lenni<br>Mr Mohd Najib bin Mohidu Kunyalee  | 6 Courage |
-| Mrs Eugenie Yeoh <br>Mdm Lin Pei-Chen | 6 Diligence         |
-| Mdm Jerena Lee <br>Ms Joyce Tan  | 6 Excellence |
-| Mdm Koh Cheng Yeen<br>Mrs Agnes Tan | 6 Faith  |
-| Mdm Balasundram Priya Lisa<br>Mdm See Su Ying Eunice | 6 Grace  |
+| Mr Phua Ze Yong <br>Mdm Chong Li Chen | 6 Agape |
+| Mr Ang Gan Jie  | 6 Brilliance |
+| Mr Koh Tee Gay<br>Mdm Tay Hui Phing  | 6 Courage |
+| Ms Chee Jing Wei Joyce <br>Mdm Suhana Abdul Hamid | 6 Diligence         |
+| Mdm Tan Gim Hoon <br>Mdm Valiamay D/O Sathiah  | 6 Excellence |
+| Mdm Ong Shir Nee<br>Ms Joyce Tan Ser Yan | 6 Faith  |
+| Mr Joshua Lim<br>Mr Goh Khong Lim | 6 Grace  |
 |
 
 #### **Subject Teachers**
@@ -104,14 +104,13 @@ third_nav_title: Staff Directory
 |---|---|
 | Mdm Lee Soo Wah | English Language Teacher  |
 | Mdm Goh Siew Tee | Chinese Language Teacher |
-| Mdm Goh Gek Cher | Chinese Language Teacher  |
+| Mdm Cong Fang | Chinese Language Teacher  |
+| Mdm Kok Chooi Peng | Chinese Language Teacher  |
 | Ms Lee Choon Yen Joy | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm Kong Yin Han Esther | Chinese Language Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 | Ms Wong Siow Lai | Mathematics & Social Studies Teacher  |
-| Mdm Jenny Ong | English Language & Mathematics Teacher  |
-| Mr Chin Siew Loon | English Language & Mathematics Teacher    |
 | Mdm Jessica Tan Mei Shi | English Language & Music Teacher  |
 | Mr Tan Swee Meng James | Physical Education Teacher
 |
