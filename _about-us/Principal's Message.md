@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
 ---
-### **Principal's Message**
+<h3> Principal's Message</h3>
 
 <div class="container">
  <img src="/images/principal.jpg" style="width:60%; height:50%; padding:3%" align = "left" >
@@ -26,7 +26,7 @@ Blessings!<br><br>
 Mrs Yee-Toh Gek Khiaw<br>
 Principal<br>
 Kuo Chuan Presbyterian Primary School
-	</div>
+</div>
 	
 
 
