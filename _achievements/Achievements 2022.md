@@ -62,6 +62,19 @@ You can find more information and highlights of this year’s SAFMC on the event
 *   **Lim Jia Yi Naomi, Luo Peixin, Hannah Hope and Seah Yuxin from 6D (2022)**. Project 'Clean Burning for Religious Rites'.
 *   **Isaac Wong Tze Wen, Jacey Tan Xuan Yu and Tan Yi Kiat, Cayden from 6D (2022)**. Project 'Air Conditioner Compressor Cleaner’.
 
+**Singapore Primary Science Olympiad 2022**
+
+Congratulations to our Primary 5 pupils for their wonderful performance at the Singapore Primary Science Olympiad!
+
+
+
+
+| Bronze | Merit |
+| -------- | -------- |
+| **Benjamin Evan Tirtaatmadja (5B)**<br>**Chen Ke Shih (5D)**<br>**Oliver Yap Jie Jun (5B)**<br>**Xie Xinyi (5B)**<br>**Yan Mook Yong Bridget (5F)**     | **Aloysius Kerk Rui Zhe (5B)**<br>**Cher Hao En (5F)**<br>**Fung Lang Yu Kyron (5B)**<br>**Karyn Fong Yi Xuan (5D)**<br>**Lee Rui Jie Aydan (5B)**<br>**Rafael Gregory Oemaru (5B)**    |
+
+
+
 **Raffles Science Olympiad 2022**  
 
 We are pleased to share that **Oliver Yap Jie Jun (5B)** has received the **Merit Award** in the Raffles Science Olympiad organized by Raffles Institution. Congratulations Oliver!
