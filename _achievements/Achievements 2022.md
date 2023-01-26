@@ -443,6 +443,23 @@ Pupils competed in the classification round and then progressed to the tiered le
 | SINGLES - TIER 4    | Lee Zhi Heng (5F)   | 	1st position    |
 
 
+**SPSSC Table Tennis National Junior Division 2022**
+
+  
+
+Pupils competed in the classification round and then progressed to the tiered level competition. The following pupils achieved commendable results in their respective competition categories.
+
+
+
+
+|   |   |   |
+| -------- | -------- | -------- |
+| DOUBLES - TIER 1   | Fong Yik Ching Nathan (4E)<br>Cheng Jie En Ethan (4F) | 4th position<br>Gold Achievement Pin |
+| SINGLES - TIER 1    | Olivia Hew Chen Lin (4F)    | 4th position<br>Gold Achievement Pin  |
+
+
+
+
 
 **2022 SPSSC NSG Wushu Competition**
 
