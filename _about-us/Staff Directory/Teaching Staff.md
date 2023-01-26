@@ -22,28 +22,28 @@ third_nav_title: Staff Directory
 
 | Name | Class |
 |---|---|
-| Ms Sim Pueh Gek<br>Ms Ong Shi Han | 1 Agape |
-| Ms Sherry Tan Sock Miang<br>Ms Patience Leong  | 1 Brilliance  |
-| Ms Ong Xuan <br>Mdm Jumaina Binte Aman   | 1 Courage |
-| Mdm Nurulhana Bte Salim<br>Mdm Chua Yeong Joo Cynthia | 1 Diligence |
-| Mrs Wong Siew Hwee<br>Ms Tanti Nur Hidayu Zainal | 1 Excellence |
-| Ms Sukanya Ramanan<br>Mdm Veronica Ho | 1 Faith |
-| Mdm Rasheedah Bte Mohd Jin<br>Mdm Tan Shih Pin | 1 Grace |
-| Mdm Linda Tan<br>Dr Liu Mian Jin | 1 Hope |
+| Mdm Ong Hui Hui<br>Mrs Eveline Yeo | 1 Agape |
+| Mdm Lee Lay Hoon<br>Ms Monica Heng  | 1 Brilliance  |
+| Mdm Choo Boon Hiong <br>Mdm Ong Wee Chyun   | 1 Courage |
+| Mdm Tracia Ho<br>Ms Chew Jia Yi | 1 Diligence |
+| Ms Tan Pei Pei<br>Mdm Koh Xin Wei | 1 Excellence |
+| Ms Toh Bin Bin<br>Mrs Jolene Sze Toh | 1 Faith |
+| Mdm Lee Soo Wah<br>Ms Chia Hui Ning | 1 Grace |
+| Mdm Anna Shii<br>Mdm Kam Ee Ling | 1 Hope |
 |
 
 ##### Primary 2
 
 | Name | Class |
 |---|---|
-| Mdm Tracia Ho<br>Ms Monica Heng | 2 Agape |
-| Mdm Anna Shii<br>Mrs Jolene Sze Toh | 2 Brilliance |
-| Mdm Lee Lay Hoon<br>Ms Chia Hui Ning | 2 Courage |
-| Ms Chew Jia Yi<br>Ms Toh Bin Bin | 2 Diligence |
-| Mr Lim Chee Kng<br>Mdm Lee Soo Wah | 2 Excellence |
-| Mdm Choo Boon Hiong<br>Mdm Koh Xin Wei | 2 Faith |
-| Mdm Ong Hui Hui | 2 Grace |
-| Ms Janice Chee<br>Mdm Harunnisha d/o Mohd Jamaludeen | 2 Hope |
+| Ms Sim Pueh Gek<br>Ms Ong Shi Han | 2 Agape |
+| Ms Sherry Tan Sock Miang<br>Ms Patience Leong | 2 Brilliance |
+| Ms Ong Xuan<br>Mdm Jumaina Binte Aman | 2 Courage |
+| Mdm Nurulhana Bte Salim<br>Mdm Chua Yeong Joo Cynthia | 2 Diligence |
+| Mrs Wong Siew Hwee<br>Mdm Tay Hui Peng Bernie | 2 Excellence |
+| Ms Sukanya Ramanan<br>Mdm Veronica Ho | 2 Faith |
+| Mdm Rasheedah Bte Mohd Jin <br> Mdm Tan Shih Pin | 2 Grace |
+| Mdm Linda Tan<br>Mdm Chng Hui Lin Jacqueline | 2 Hope |
 |
 
 ##### **Middle Primary**
