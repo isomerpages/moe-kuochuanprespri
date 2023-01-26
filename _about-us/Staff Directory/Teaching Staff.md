@@ -51,12 +51,12 @@ third_nav_title: Staff Directory
 
 | Name | Class |
 |---|---|
-| Mrs November Teo <br>Ms Tan Wei Yu Mindy | 3 Agape |
-| Ms Winnie Lee<br>Mdm Kam Ee Ling  | 3 Brilliance |
-| Mdm Tang Shia Ling Shirley <br>Mr Sathiamoorti | 3 Courage   |
-| Ms Angeline Ang<br>Mr Soo Gham Seng | 3 Diligence  |
-| Mr Mohammed Nuraimi Osman <br>Mdm Choo Poh Ling | 3 Excellence  |
-| Ms Joanne Lim Hui Xiang<br>Ms Yao Hai Ping<br> | 3 Faith  |
+| Ms Ong Tan Fong <br>Ms Yao Hai Ping | 3 Agape |
+| Ms Janice Chee<br>Ms Ng Shi Hui | 3 Brilliance |
+| Mdm Junaina Bte Leman <br>Ms Thye Tzy Huoy| 3 Courage   |
+| Ms Kanagheswari<br>Mdm Chew Hwee Joo (Mrs Michelle Ng) | 3 Diligence  |
+| Mdm April Chew <br>Mdm Lim Fung Hwee | 3 Excellence  |
+| Mdm Tan Seo Pheng<br>Mdm Yew Seok Chun Lynn<br> | 3 Faith  |
 |
 
 ##### Primary 4
