@@ -472,6 +472,20 @@ The competition was held from 18 to 20 July. The following pupils achieved comme
 | POOM 1    | Cuff Asher Nathan (4B)  | Gold Achievement Pin    |
 | POOM 2     | Yang Jing, Yanique (4B)  | Gold Achievement Pin |
 
+**SPSSC Bowling National Junior Division 2022**
+
+  
+
+The competition was held from 25 to 27 July. Harikrishnan Rajsekhar (5B) and Tong Kay Hsen (5D) performed admirably well!
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| SINGLES    | Harikrishnan Rajsekhar (5B)   | 3rd position<br>Overall Score Average <br>(4th Position)    |
+| DOUBLES   | Harikrishnan Rajsekhar (5B)<br>Tong Kay Hsen (5D)    | 2nd position<br>Gold Achievement Pin   |
+
+
 
 **2022 SPSSC NSG Wushu Competition**
 
