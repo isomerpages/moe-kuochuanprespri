@@ -221,6 +221,23 @@ In conjunction with Tamil Language Month, which aims to promote the usage of spo
 | Anbu Raj Aparna (1A) – Consolation Prize<br>Sanaasri Narev Nagavijayan (2E) – 3rd Prize 	| Srinivasan Marushikha (6G) – Consolation Prize 	|
 |
 
+
+**Draw My Stamps Story Art Competition 2022**
+
+  
+
+Draw My Stamps Story Art Competition is organized by the Children’s Museum Singapore (formerly Singapore Philatelic Museum). The objectives of the competition include helping pupils understand and appreciate the importance of designs reflected on Singapore stamps as well as allow them think out of the box to express their creativity in the background design they create to complement the stamps(s). This year, 29 of our pupils took part in the competition and we are delighted to share their outstanding results. Well done pupils!
+
+
+
+
+| Silver Award| Bronze Award | Token of Appreciation |
+| -------- | -------- | -------- |
+| Mary Jane Laiman (5D)<br>Dhanesh Singam (6F)    | 	Ang Jun Yi Megan (5F)<br>Giselle Chen (6F)    | Joelle Andika (3D)<br>Chng Jun Ru, Elizabeth (4A)<br>Foo Xin Wei Heidi (4D)<br>Heidi Chen (4D)<br>Ong Chen Xi (4D)<br>Adelyn Tay Xin Ni (4E)<br>Jewel Cheong Li Wen (4E)<br>Kristen Loh Kai Xuan (4E)<br>Tee Kai Yue, Rheya (4E)<br>Teh Shi Yun (4E)<br>Seah Zu Ray (5B)<br>Audrina Soe (5C)<br>Ho Wen Xuan Eva (5C)<br>Kayra Chiang Zhi Xuan (5C)<br>Lee Tze Wai (5C)<br>Teo Lok Oon (5C)<br>Joelle Tay Le En (5D)<br>Sophie Tjhi (5D)<br>Elliot Kek (5F)<br>Emma Lim Jia Hui (5F)<br>Samantha Yeo (5F)<br>Chin Shi Xuan, Claire (6B)<br>Lee Min Xuan Evanna (6B)<br>Licia Ho En Tong (6B)<br>Yap Sze Yah Daphne (6F)    |
+
+
+
+
 **The Boys’ Brigade Adventure Quest – Gold Honour Roll**
 
   
