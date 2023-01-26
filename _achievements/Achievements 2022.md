@@ -79,6 +79,21 @@ Congratulations to our Primary 5 pupils for their wonderful performance at the S
 
 We are pleased to share that **Oliver Yap Jie Jun (5B)** has received the **Merit Award** in the Raffles Science Olympiad organized by Raffles Institution. Congratulations Oliver!
 
+**National Mathematical Olympiad of Singapore (NMOS) 2022**
+
+  
+Congratulations to our Primary 5 pupils for their wonderful performance at the NMOS competition organised by NUS High School of Mathematics and Science!
+
+
+
+| Silver Award | Bronze Award | 	Honourable Mention |
+| -------- | -------- | -------- |
+| Benjamin Evan Tirtaatmadja (5B)<br>Fang Quan (5B)<br>Isaac Luo Huaiyu (5B)<br>Xie Xinyi (5B)  | 	Aloysius Kerk Rui Zhe (5B)<br>	Aw Yu Heng Hans (5B)<br> 	David Koh Hao Yi (5B)<br>	Jaden Ee Jie Ren (5B)<br> 	Jairus Teo Yi Jie (5B)<br> Koh Yong Wei Janelle (5B)<br>Oliver Yap Jie Jun (5B)  | Aiden Winson Naing (5D)<br>	Joelle Tay Le En (5D)<br>	Lam Yik Kit (5B)<br>	Lee Min Ho Bosco (5B)<br>	Lee Rui Jie Aydan (5B)<br>Nikki Chong (5B)<br>	Rafael Gregory Oemaru (5B)  |
+
+
+
+
+
 **Singapore Mathematics Olympiad for Schools 2022 (SMOPS)**
 
 Our pupils participated in the above competition organised by Hwa Chong Institution in May. We are proud to announce that they have achieved 2 Silver and 2 Bronze awards!
