@@ -235,6 +235,20 @@ Draw My Stamps Story Art Competition is organized by the Children’s Museum Sin
 | -------- | -------- | -------- |
 | Mary Jane Laiman (5D)<br>Dhanesh Singam (6F)    | 	Ang Jun Yi Megan (5F)<br>Giselle Chen (6F)    | Joelle Andika (3D)<br>Chng Jun Ru, Elizabeth (4A)<br>Foo Xin Wei Heidi (4D)<br>Heidi Chen (4D)<br>Ong Chen Xi (4D)<br>Adelyn Tay Xin Ni (4E)<br>Jewel Cheong Li Wen (4E)<br>Kristen Loh Kai Xuan (4E)<br>Tee Kai Yue, Rheya (4E)<br>Teh Shi Yun (4E)<br>Seah Zu Ray (5B)<br>Audrina Soe (5C)<br>Ho Wen Xuan Eva (5C)<br>Kayra Chiang Zhi Xuan (5C)<br>Lee Tze Wai (5C)<br>Teo Lok Oon (5C)<br>Joelle Tay Le En (5D)<br>Sophie Tjhi (5D)<br>Elliot Kek (5F)<br>Emma Lim Jia Hui (5F)<br>Samantha Yeo (5F)<br>Chin Shi Xuan, Claire (6B)<br>Lee Min Xuan Evanna (6B)<br>Licia Ho En Tong (6B)<br>Yap Sze Yah Daphne (6F)    |
 
+**Boys’ Brigade Character Quest – Gold Honour Roll**
+
+  
+
+Two teams of boys took part in the Boys’ Brigade Character Quest (CQ) on 13 Aug. CQ is introduced to promote characteristics of adventure, teamwork, endurance and winning through fair means. It is designed to test the participants’ bible knowledge as well as allow them to connect with the characters in the bible based on their day-to-day experiences. The theme for this year’s CQ is ‘Perseverance’. Both our teams did exceedingly well and for their efforts, our company is placed on the Gold Honour Roll. Well done boys! The boys who participated in CQ are:
+
+
+
+
+| Name | Class | 
+| -------- | -------- | 
+| Cheah Yu Heng<br>Duan Hanyu<br>Oswald Tan Shu Xing<br>Aloysius Kerk Rui Zhe<br>Cavine Chong Nam Feng<br>Ezekiel Chioh Sheng Qiang<br>Lew Le Xiang Isaac<br>Lim Yi Xuan, Thaddeus     | 4F<br>4F<br>5A<br> 5B<br> 5D<br> 5D<br> 5F<br> 5G    | 
+
+
 
 
 
