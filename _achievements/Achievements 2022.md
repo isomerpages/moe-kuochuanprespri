@@ -427,9 +427,20 @@ The competition was held from 19 July to 2 August. 22 pupils represented the sch
 | JUNIOR GIRLS 40 METRES<br>MULTI-SKILL EVENT<br>JUNIOR BOYS 60 METRES HURDLES<br>JUNIOR GIRLS 80 METRES   | Megan Leong Suk Yee (4C)<br>Megan Leong Suk Yee (4C)<br>Keyon Tay Yu Chen (5A)<br>Lee Ying En, Gloria (5B)   | 2nd position<br>Silver Achievement Pin<br>3rd position<br>	1st position    |
 
 
+**SPSSC Badminton National Junior Division 2022**
+
+  
+
+Pupils competed in the classification round and then progressed to the tiered level competition. The following pupils achieved commendable results in their respective competition categories.
 
 
 
+|  |  |  |
+| -------- | -------- | -------- |
+| SINGLES - TIER 2     | Chan En En Samantha (4B)     | 2nd position<br>Silver Achievement Pin   |
+| SINGLES - TIER 2    | Sim Shang Ern, Isaac (5B)    | 1st position<br>Silver Achievement Pin   |
+| SINGLES - TIER 2     | Lam Yik Kit (5B)     | 3rd position<br>Silver Achievement Pin  |
+| SINGLES - TIER 4    | Lee Zhi Heng (5F)   | 	1st position    |
 
 
 
