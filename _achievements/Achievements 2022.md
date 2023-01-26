@@ -535,7 +535,9 @@ The championships were held from 1 May to 31 August. We are delighted to share t
 | Recurve <br>– Junior Division Men  | Text Yan Beng Jit Bryan (4B)    | 7th position  |
 | Recurve <br>– Senior Division Women    | Jaclyn Ng Yu Xuan (6D)    | 10th position   |
 
+**National Primary Schools Sports Climbing Championships 2022**
 
+We are delighted to share that **Elliot Kek (5F)** was placed **4th** in the Boulder Challenge Category of the National Primary Schools Sports Climbing Championship 2022 (Junior Division). Well done, Elliot!
 
 **15th Singapore Open Artistic Swimming Championship 2021**  
 
