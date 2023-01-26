@@ -6,10 +6,6 @@ description: ""
 <h3> Principal's Message</h3>
 
 <div class="container">
- <img src="/images/principal.jpg" style="width:60%; height:50%; padding:3%" align = "left" >
-</div>
-
-<div class="container">
  <img src="/images/principal.jpg" style="width:60%; height:50%;"></div>
 
 <p class="text">Blessed Semester 2, 2022!<br><br>
