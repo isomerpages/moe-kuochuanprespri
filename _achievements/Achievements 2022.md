@@ -486,14 +486,23 @@ The competition was held from 25 to 27 July. Harikrishnan Rajsekhar (5B) and Ton
 | DOUBLES   | Harikrishnan Rajsekhar (5B)<br>Tong Kay Hsen (5D)    | 2nd position<br>Gold Achievement Pin   |
 
 
+**Singapore Primary Schools Sports Council (SPSSC) Tennis National Junior Division 2022**
+
+The competition was held in Term 3. We are delighted to share that after the classification and tiered level competition, **Olivia Mou Zhiqi (3B)** emerged **1st** in Tier 3 of the competition. Well done, Olivia!
+
+
+
+
 
 **2022 SPSSC NSG Wushu Competition**
 
-|  |  |
-|---|---|
-| 1ST INTERNATIONAL SPEAR – SENIOR GIRLS         Elin Tham (6G) | 2nd position  |
-| 5-DUAN SWORD – SENIOR GIRLS         Elin Tham (6G)    | 2nd position  |
-|  |  |
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| 1st INTERNATIONAL SPEAR <br>– SENIOR GIRLS    | Elin Tham (6G)     | 2nd position  |
+| 5-DUAN SWORD <br>– SENIOR GIRLS     | Elin Tham (6G)   | 2nd position     |
+
 
 **15th Singapore Open Artistic Swimming Championship 2021**  
 
