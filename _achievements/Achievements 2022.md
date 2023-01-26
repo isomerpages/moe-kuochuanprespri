@@ -317,7 +317,22 @@ The Girls’ Brigade Company Award recognises the achievements of companies in d
 
 The Singapore Chess Federation held the 73rd National Schools Individuals Chess Championship 2022 as a virtual competition. The event was held from 15 to 17 March and 10 of our pupils took part in the competition. We are delighted to share that **Ke Yanqing (6F)**, who participated in the Under 12 Girls Category, was awarded **5th position** in the South Zone standings and **Adhi Somu Palaniappan (4F)**, who participated in the Under 10 Open Category, was also awarded **5th position** in the South Zone standings. Well done, pupils!
 
+
+**2nd NSSGeS 2022 Scrabble TournaVent**
+
   
+
+The 2nd NSSGeS 2022 Scrabble TournaVent was held from 27 & 28 April and 7 of our pupils represented the school in the virtual Scrabble competition. The following pupils achieved outstanding results in their respective categories. Our heartiest congratulations to all winners!
+
+
+
+|  |  | |
+| -------- | -------- | -------- |
+| J2 Sub-Division<br>CUP category    | Kong Yih Chern, Leon (3D)   | 1st position     |
+| J2 Sub-Division<br>PLATE category     | Chan Yan Kai, Neil (3F)  | 	4th position     |
+| J1 Sub-Division<br>PLATE category     | Timothy Lim Wei Ping (4B)    | 	1st position   |
+| S2 Sub-Division<br>PLATE category    | Kyrus Lee Jie Yang (5B) | 	3rd position   |
+
 
 **National School Games (NSG) Updates**  
 
