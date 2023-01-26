@@ -412,7 +412,7 @@ The competition was held at the OCBC Aquatic Center from 20 to 22 Jul. 17 pupils
 
 |  |  |  |
 | -------- | -------- | -------- |
-| BOYS 10 & UNDER 25 SC METRE BACKSTROKE – D DIVISION    | Lin Ken, Liam (3F)    | 8th position   |
+| BOYS 10 & UNDER 25 SC METRE <br>BACKSTROKE – D DIVISION    | Lin Ken, Liam (3F)    | 8th position   |
 
 
 
