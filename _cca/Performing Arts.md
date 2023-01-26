@@ -8,11 +8,11 @@ description: ""
 | CCA | Teachers In-charge | Venue |
 |:---:|:---:|:---:|
 | Chinese Dance | Ms Ong Shi Han<br>Mrs Wong Siew Hwee<br>Mdm Chua Yeong Joo Cynthia | PAL Rooms 1 & 2 |
-| Choir | Mdm November Teo Tua Sung<br>Mdm Koh Cheng Yeen (Mrs Tan) | Music Room<br>  |
-| Concert Band | Ms Nur Amalina<br>Ms Joyce Tan Ser Yan<br>Mdm Lee Lay Hoon<br>Mdm Jerena Lee<br>Ms Tan Wei Yu Mindy<br>Mdm Valiamay D/O Sathiah | Band Room & Adjacent classrooms |
-| Drama | Mdm Suhana Abdul Hamid<br>Ms Sukanya Ramanan<br>Ms Jolene Sze Toh | InnoHub & Green Room |
-| Guitar Club | Mrs Eugenie Yeoh<br>Mdm Priya Lisa Balasundram<br>Mdm Tang Shia Ling Shirley<br>Mdm Harunnisha | Music Room     |
-| Visual Arts Club  |  Mdm Ho Tracia<br>Mdm Veronica Ho<br>Ms Tanti Nur Hidayu | Art Room  |
+| Choir | Mdm Koh Cheng Yeen (Mrs Tan)<br>Mdm Chng Hui Lin Jacqueline | Music Room<br>  |
+| Concert Band | Ms Nur Amalina<br>Ms Joyce Tan Ser Yan<br>Mdm Lee Lay Hoon<br>Mdm Jerena Lee<br>Ms Tan Wei Yu Mindy<br>| Band Room & Adjacent classrooms |
+| Drama | Mdm Suhana Abdul Hamid<br>Ms Sukanya Ramanan<br>Ms Jolene Sze Toh<br>Mdm Choo Boon Hiong | InnoHub & Green Room |
+| Guitar Club | Mrs Eugenie Yeoh<br>Mdm Priya Lisa Balasundram<br>Mdm Tang Shia Ling Shirley<br> | Music Room     |
+| Visual Arts Club  |  Mdm Ho Tracia<br>Mdm Veronica Ho<br>Mdm Tay Hui Peng Bernie | Art Room  |
 |
 
 #### **Chinese Dance and Indian Dance**
