@@ -221,7 +221,7 @@ We would like to congratulate the following pupils for their achievements in thi
 | Upper Primary (Group) Category | |  |
 | -------- | -------- | -------- |
 | Bronze Award    | Wong Guan Yu 黄冠宇 (4D)<br> Cheah Yu Heng 谢宇恒 (4F)<br>Joshua Andika 陈优善 (4F) | 《金箍棒》  |
-| Bronze Award    | Roanne Wong 黄恩慧 (6B)<br>Avelia Teo Yi Xuan 张旖轩 (6G)<br>Jayna Chia Enhui 谢恩慧 (6G) |   | 
+| Bronze Award    | Roanne Wong 黄恩慧 (6B)<br>Avelia Teo Yi Xuan 张旖轩 (6G)<br>Jayna Chia Enhui 谢恩慧 (6G) |  《珍珠项链》 | 
 
 
 
