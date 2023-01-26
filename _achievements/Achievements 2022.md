@@ -71,7 +71,7 @@ Congratulations to our Primary 5 pupils for their wonderful performance at the S
 
 | Bronze | Merit |
 | -------- | -------- |
-| **Benjamin Evan Tirtaatmadja (5B)**<br>**Chen Ke Shih (5D)**<br>**Oliver Yap Jie Jun (5B)**<br>**Xie Xinyi (5B)**<br>**Yan Mook Yong Bridget (5F)**     | **Aloysius Kerk Rui Zhe (5B)**<br>**Cher Hao En (5F)**<br>**Fung Lang Yu Kyron (5B)**<br>**Karyn Fong Yi Xuan (5D)**<br>**Lee Rui Jie Aydan (5B)**<br>**Rafael Gregory Oemaru (5B)**    |
+| Benjamin Evan Tirtaatmadja (5B)<br>Chen Ke Shih (5D)<br>Oliver Yap Jie Jun (5B)<br>Xie Xinyi (5B)<br>Yan Mook Yong Bridget (5F)     | Aloysius Kerk Rui Zhe (5B)<br>Cher Hao En (5F)<br>Fung Lang Yu Kyron (5B)<br>Karyn Fong Yi Xuan (5D)<br>Lee Rui Jie Aydan (5B)<br>Rafael Gregory Oemaru (5B)    |
 
 
 
