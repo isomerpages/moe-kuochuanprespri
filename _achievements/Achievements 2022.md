@@ -524,6 +524,19 @@ This award is conferred by SPSSC and recognizes outstanding athletes who exhibit
 | Chan Le Xuan Faith (6D)    | 	SPSSC Track and Field Senior Division 2022     | 
 | Elin Tham (6G)   | 	SPSSC Wushu Championships Senior Division 2022    | 
 
+**11th National Inter School Archery Championships 2022**
+
+The championships were held from 1 May to 31 August. We are delighted to share the following outstanding results. Congratulations, pupils!
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Recurve <br>– Junior Division Men  | Text Yan Beng Jit Bryan (4B)    | 7th position  |
+| Recurve <br>– Senior Division Women    | Jaclyn Ng Yu Xuan (6D)    | 10th position   |
+
+
+
 **15th Singapore Open Artistic Swimming Championship 2021**  
 
 The Singapore Swimming Association recently held the 15th Singapore Open Artistic Championship 2021 as a virtual competition owing to the global COVID-19 pandemic. The webcast of the event was held on 11 Dec 2021 and showcased the respective athletes’ routines as well as the final scores given by the judges. We are delighted to share that **Emma Foo Hui Han (4B,** **2021)** participated in the 10 & Under Duet Free category and was awarded the **Bronze Medal**. Well done, Emma for your wonderful achievement!
