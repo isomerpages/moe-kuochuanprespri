@@ -63,12 +63,12 @@ third_nav_title: Staff Directory
 
 | Name | Class |
 |---|---|
-| Ms Ong Tan Fong<br>Mdm Lim Fung Hwee | 4 Agape |
-| Ms Kanagheswari<br>Ms Thye Tzy Huoy | 4 Brilliance |
-| Ms Ng Shi Hui <br>Mdm Tan Seo Pheng  | 4 Courage |
-| Ms Nur Amalina Bte Rais<br>Ms Pow Chen Xian | 4 Diligence |
-| Mdm April Chew<br>Ms Tan Pei Pei | 4 Excellence |
-| Mdm Junaina Bte Leman<br>Mrs Eveline Yeo  | 4 Faith
+| Ms Christina Chang<br>Ms Tan Wei Yu Mindy | 4 Agape |
+| Ms Winnie Lee<br>Mdm Suzana Bte Kamsir | 4 Brilliance |
+| Mdm Tang Shia Ling Shirley <br>Mdm Harunnisha d/o Mohd Jamaludeen  | 4 Courage |
+| Ms Angeline Ang<br>Mr Soo Gham Seng | 4 Diligence |
+| Mr Mohammed Nuraimi Osman<br>Ms Pow Chen Xian | 4 Excellence |
+| Ms Joanne Lim Hui Xiang<br>Mdm Jerena Lee  | 4 Faith
 |
 
 ##### **Upper Primary**
@@ -76,13 +76,13 @@ third_nav_title: Staff Directory
 
 | Name | Class |
 |---|---|
-| Mr Phua Ze Yong<br>Mdm Chong Li Chen | 5 Agape |
-| Mr Ang Gan Jie<br>Mdm N M Parvathi  | 5 Brilliance |
-| Mdm Stpal Kaur<br>Mr Darron Goh | 5 Courage |
-| Ms Chee Jing Wei Joyce<br>Mdm Suhana Abdul Hamid  | 5 Diligence  |
-| Mdm Tan Gim Hoon<br>Mdm Valiamay D/O Sathiah | 5 Excellence |
-| Mdm Ong Shir Nee <br>Ms Gu Tong   | 5 Faith |
-| Mr Koh Tee Gay<br>Mr Joshua Lim | 5 Grace |
+| Ms Nur Amalina Bte Rais<br>Mr Lim Chee Kng | 5 Agape |
+| Mdm Ng Lenni<br>Mr Goh Khong Lim | 5 Brilliance |
+| Mrs Eugenie Yeoh<br>Mr Mohd Najib bin Mohidu Kunyalee | 5 Courage |
+| Mr Manson Yip<br>Mdm See Su Ying Eunice  | 5 Diligence  |
+| Ms Gu Tong<br>Mdm Kerstin Wong Kai Xin | 5 Excellence |
+| Mdm Balasundram Priya Lisa <br>Mdm Koh Cheng Yeen   | 5 Faith |
+| Mdm Agnes Pang<br>Mr Sathiamoorthi | 5 Grace |
 |
 
 ##### Primary 6
