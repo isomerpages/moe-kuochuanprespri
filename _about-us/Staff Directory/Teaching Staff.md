@@ -13,6 +13,7 @@ third_nav_title: Staff Directory
 | Mdm Agnes Pang | Senior Teacher (English Language)  |
 | Mdm Stpal Kaur | Senior Teacher (Mathematics)  |
 | Mdm Koh Cheng Yeen | Senior Teacher (Music)  |
+| Mdm Harunnisha d/o Muhd Jamaludeen | 	Senior Teacher (Tamil Language)  |
 |
 
 #### **Form Teachers for 2022**
