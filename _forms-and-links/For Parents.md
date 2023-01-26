@@ -27,4 +27,4 @@ Schoolbag.sg is an online publication by the Ministry of Education, Singapore. I
 
 * ##### [Support for Special Needs](https://www.moe.gov.sg/special-educational-needs/) 
 
-The Ministry of Education, Singapore, has implemented many initiatives to support students with mild special educational needs in mainstream school. [This webpage](https://www.moe.gov.sg/education/programmes/support-for-children-special-needs) lists the resources available.
+The Ministry of Education, Singapore, has implemented many initiatives to support students with mild special educational needs in mainstream school. [This webpage](https://www.moe.gov.sg/special-educational-needs/) lists the resources available.
