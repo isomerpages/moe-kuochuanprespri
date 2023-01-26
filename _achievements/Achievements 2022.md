@@ -167,8 +167,7 @@ We are delighted to announce the following winners! Congratulations pupils! Well
 
 
 
-**2022 Memory Games Challenge** 
-
+**2022 Memory Games Challenge** <br>
 **全国《记忆游戏》线上比赛2022年**
 
   
@@ -178,6 +177,20 @@ This Memory Games Challenge is specially organized for pupils taking Foundation 
   
 
 We are pleased to share with you 2 Merit Award winners from KCPPS: **Joshua Ang Jun Wei 洪俊伟 (6E)** and **Valencia Heng Jia Yue王嘉悦 (6E)**. Congratulations Joshua and Valencia!
+
+**5th Text Recital Competition for Primary and Secondary Schools**<br>
+**第五届中小学课文朗诵比赛**
+
+This competition, organised by the Committee to Promote Chinese Language Learning (CPCLL) and supported by the Singapore Chinese Teachers Literary Recital Society, aims to raise the level of pupils’ Chinese Language reading proficiency, ignite their love for learning the Chinese Language and deepen their understanding of the texts in their textbooks through text recitals.
+
+We would like to congratulate the following pupils for their achievements in this competition!
+
+
+
+| Lower Primary (Individual) Category | |  |
+| -------- | -------- | -------- |
+| Silver Award    | Lee Rui Ting Claire 李睿婷 (2G) | 《我爸爸是消防员》  |
+| Bronze Award    | Olivia Mou Zhiqi 牟芷琪 (3B)  | 《袋鼠在哪里》  |
 
   
 
