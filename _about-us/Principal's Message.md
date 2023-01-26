@@ -32,4 +32,4 @@ Kuo Chuan Presbyterian Primary School
 
 <img src="/images/A%20new%20season%20to%20flourish%20banner.png">
 
-<em>The school mural we brought back from the Ang Mo Kio holding site to Bishan.</em>
+<p style="font-size:10px"><em>The school mural we brought back from the Ang Mo Kio holding site to Bishan.</em></p>
