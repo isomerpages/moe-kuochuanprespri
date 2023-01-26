@@ -338,7 +338,9 @@ The 2nd NSSGeS 2022 Scrabble TournaVent was held from 27 & 28 April and 7 of our
 
   
 
-The NSG resumed in April this year and we are delighted to share that our pupils have shown a strong spirit of excellence during the competitions, displayed strong sportsmanship and showcased amazing love for both their team-mates and opponents during the competitions. We would like to commend all our pupils who have taken part in the various NSG Senior division competitions in Artistic Gymnastics, Rhythmic Gymnastics, Badminton, Basketball, Football, Table Tennis, Track and Field, Rope Skipping, Swimming and Wushu. We are delighted to share the outstanding achievements in the following events.
+The NSG resumed in April this year and we are delighted to share that our pupils have shown a strong spirit of excellence during the competitions, displayed strong sportsmanship and showcased amazing love for both their team-mates and opponents during the competitions. 
+
+We would like to commend all our pupils who have taken part in the various NSG Senior division competitions in Artistic Gymnastics, Rhythmic Gymnastics, Badminton, Basketball, Football, Table Tennis, Track and Field, Rope Skipping, Swimming and Wushu. We are delighted to share the outstanding achievements in the following events.
 
   
 
@@ -346,7 +348,7 @@ The NSG resumed in April this year and we are delighted to share that our pupils
 
   
 
-Our Basketball Senior Boys have done the school proud. They attained 3rd placing in the NSG Basketball South Zone competition. Well done boys! 
+Our Basketball Senior Boys have done the school proud. They attained **3rd placing** in the NSG Basketball South Zone competition. Well done boys! 
 
   
 
