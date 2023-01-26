@@ -503,6 +503,26 @@ The competition was held in Term 3. We are delighted to share that after the cla
 | 1st INTERNATIONAL SPEAR <br>– SENIOR GIRLS    | Elin Tham (6G)     | 2nd position  |
 | 5-DUAN SWORD <br>– SENIOR GIRLS     | Elin Tham (6G)   | 2nd position     |
 
+**Celebrating Character in Sporting Excellence – SPSSC Sportsmanship Award**
+
+  
+
+This award is conferred by SPSSC and recognizes outstanding athletes who exhibit great sportsmanship during the NSG. We are delighted that the following pupils were awarded the SPSSC Sportsmanship Award in their respective competition!
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Wee Heng Wei, Mark (6D)    | SPSSC Badminton National Senior Division 2022     | 
+| Jaclyn Ng Yu Xuan (6D)   | SPSSC Rope Skipping Championships Senior Division 2022   | 
+| Matthew Tuvia Ong (6G)  | 	SPSSC Rope Skipping Championships Senior Division 2022  | 
+| Mandy Ng Min (4B)   | 	SPSSC Rope Skipping Championships Junior Division 2022  | 
+| Fong Yik Ching Nathan (4E)  | 	SPSSC Table Tennis National Junior Division 2022     | 
+| Ashley Ng Kay En (6F)   | 	SPSSC Swimming National Senior Division 2022   | 
+| Ng Yi Yang Jerome (6G)  |	SPSSC Swimming National Senior Division 2022   | 
+| Low Hao Yong (6B)  | 	SPSSC Table Tennis National Senior Division 2022     | 
+| Chan Le Xuan Faith (6D)    | 	SPSSC Track and Field Senior Division 2022     | 
+| Elin Tham (6G)   | 	SPSSC Wushu Championships Senior Division 2022    | 
 
 **15th Singapore Open Artistic Swimming Championship 2021**  
 
