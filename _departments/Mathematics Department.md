@@ -44,7 +44,7 @@ LSM is specially catered to selected Primary 1 and Primary 2 pupils for small gr
 
 **Excellence 2000 Mathematics Programme**<br>
 The E2K programme (developed by the Israel Centre for Excellence through Education (ICEE)) is part of our talent development effort for Primary 4 and Primary 5 pupils who demonstrate interest and ability in mathematics. It develops mathematical reasoning skills and deepens pupils’ conceptual understanding through an inquiry approach. Pupils have opportunities to collaborate with their peers and engage in mathematical thinking through puzzles, games and mathematical explorations.<br>
-Link: [https://www.moe.gov.sg/our-programmes/high-ability-learners](https://www.moe.gov.sg/our-programmes/high-ability-learners)
+Link: [https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners](https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners)
 
 **Mathematics Olympiad Competitions**<br>
 Pupils are invited to take part in Mathematics Olympiad Competitions organised by various schools in Singapore to display and receive recognition for their talent in Mathematics.
