@@ -420,15 +420,15 @@ The competition was held at the OCBC Aquatic Center from 20 to 22 Jul. 17 pupils
 
 **2022 NSG Track & Field Championship**
 
-|  |  |
-|---|---|
-| SENIOR 1 GIRLS 100 METRES         Chan Le Xuan Faith (6D)  | 7th position  |
-| SENIOR 1 GIRLS 200 METRES          Chan Le Xuan Faith (6D) |  4th position |
-|  SENIOR 1 BOYS 200 METRES         Ethan Roman (6C) |  4th position |
-|  SENIOR 1 BOYS 300 METRES         Joshua Ang Jun Wei (6E) |  5th position |
-| SENIOR 1 BOYS 300 METRES         Cruz Loh Yuan Kai (6A)   | 7th position  |
-|  |  |
 
+
+|  |  |  |
+| -------- | -------- | -------- |
+| SENIOR 1 GIRLS 100 METRES    | Chan Le Xuan Faith (6D)      | 	7th position    |
+| SENIOR 1 GIRLS 200 METRES  | Chan Le Xuan Faith (6D)      | 	4th position    |
+| SENIOR 1 BOYS 200 METRES    | 	Ethan Roman (6C)   | 	4th position     |
+| SENIOR 1 BOYS 300 METRES     | Joshua Ang Jun Wei (6E)     | 	5th position     |
+| SENIOR 1 BOYS 300 METRES   | Cruz Loh Yuan Kai (6A)      | 	7th position    |
 
 **SPSSC Track and Field Junior Division 2022**
 
