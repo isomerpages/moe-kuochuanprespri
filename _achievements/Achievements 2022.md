@@ -395,10 +395,11 @@ More details of the competition results can be accessed at this link: [Click he
 
 **2022 NSG Swimming Competition**
 
-|  |  |
-|---|---|
-| SENIOR 1 GIRLS 50 METRES BREASTSTROKE<br>        Charlotte Chew Jen Ee (6B) | 9th position |
-|  |  |
+
+|  |  |  |
+| -------- | -------- | -------- |
+|SENIOR 1 GIRLS 50 METRES <br> BREASTSTROKE   | Charlotte Chew Jen Ee (6B)    | 9th position  |
+
 
 
 
