@@ -12,7 +12,7 @@ third_nav_title: Staff Directory
 | Mr Toh Wei Min David | Administration Manager |
 | Mr Lum Sow Loon | Operations Manager |
 | Mdm May Ng | Admin Executive |
-| Ms Premela | Admin Executive |
+| Ms Pramela | Admin Executive |
 | Mr Ronnie Kuek | ICT Associate |
 | Mdm Teresa Choong | Corporate Support Officer |
 | Mdm Surini Samsudin | Corporate Support Officer |
