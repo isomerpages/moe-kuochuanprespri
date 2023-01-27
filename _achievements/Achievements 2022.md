@@ -548,7 +548,7 @@ The championships were held from 1 May to 31 August. We are delighted to share t
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Recurve <br>– Junior Division Men  | Text Yan Beng Jit Bryan (4B)    | 7th position  |
+| Recurve <br>– Junior Division Men  | Yan Beng Jit Bryan (4B)    | 7th position  |
 | Recurve <br>– Senior Division Women    | Jaclyn Ng Yu Xuan (6D)    | 10th position   |
 
 **National Primary Schools Sports Climbing Championships 2022**
