@@ -377,7 +377,7 @@ More details of the competition results can be accessed at this link: [Click he
 
 
 
-| Column 1 | Column 2 | Column 3 |
+|  |  |  |
 | -------- | -------- | -------- |
 | MIXED DOUBLE DUTCH   | Eva Cheong En Qi (5D)<br>Allyssa Lim (6B) <br> Jaclyn Ng Yu Xuan (6D) <br> Ang Wern Ni Gianna (6E)<br>Matthew Tuvia Ong (6G) | 1st position  |
 |  TEAM DOUBLE DUTCH <br>– MIXED GENDER| Ng Xin Ying (3C)<br>Ong Hui En (4A)<br>Tan Chen Byayden (4C) | 1st Position |
