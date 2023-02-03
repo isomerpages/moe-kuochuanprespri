@@ -36,11 +36,12 @@ b. Character and Citizenship Education (CCE)<br>
 
 7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-#### **At Kuo Chuan Presbyterian Primary School, the following Sexuality Education lessons will be taught in 2022:**
+#### **At Kuo Chuan Presbyterian Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
-##### **Primary 5**
+##### **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
 
-| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
+PRIMARY 5
+| CCE(FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW<br> | TIME PERIOD (e.g. Term 1 Week 2) |
 |---|---|---|---|
 | Gosh! I Am Changing | What Is Happening To Me?<br>(30 min) | · know what puberty is<br>· the physical changes during puberty | Term 1 |
 |  | What Can I Do? (Part 1)<br> (30 min) | · identify the stresses caused by physical and          emotional changes during puberty<br>· describe healthy ways to manage the stresses      caused by physical and emotional changes           during puberty<br>· describe the emotions caused by physical              changes during puberty<br>· recognise that one’s identity does not change       even when one’s body is experiencing change      due to puberty | Term 1 |
