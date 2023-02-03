@@ -25,12 +25,11 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 #### **Overview of Kuo Chuan Presbyterian Primary School’s Sexuality Education Programme for 2023**
 
-Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
-The subjects that incorporate topics on sexuality include: <br>
+5\. The subjects that incorporate topics on sexuality include: <br>
 a. Science  <br>
-b. Form Teacher Guidance Period (FTGP)  <br>
-c. Character and Citizenship Education (CCE)<br>
+b. Character and Citizenship Education (CCE)<br>
 
 #### **Sexuality Education**<br>"Curious Minds (2nd Edition)" (Primary 5 & 6) Teaching & Learning resource package
 
