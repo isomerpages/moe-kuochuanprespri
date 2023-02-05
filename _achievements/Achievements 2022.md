@@ -82,7 +82,7 @@ Congratulations to our Primary 5 pupils for their wonderful performance at the S
 
 | Bronze | Merit |
 | -------- | -------- |
-| Benjamin Evan Tirtaatmadja (5B)<br>Chen Ke Shih (5D)<br>Oliver Yap Jie Jun (5B)<br>Xie Xinyi (5B)<br>Yan Mook Yong Bridget (5F)     | Aloysius Kerk Rui Zhe (5B)<br>Cher Hao En (5F)<br>Fung Lang Yu Kyron (5B)<br>Karyn Fong Yi Xuan (5D)<br>Lee Rui Jie Aydan (5B)<br>Rafael Gregory Oemaru (5B)    |
+| **Benjamin Evan Tirtaatmadja (5B)**<br>**Chen Ke Shih (5D)**<br>**Oliver Yap Jie Jun (5B)**<br>**Xie Xinyi (5B)**<br>**Yan Mook Yong Bridget (5F)**     | **Aloysius Kerk Rui Zhe (5B)<br>Cher Hao En (5F)<br>Fung Lang Yu Kyron (5B)<br>Karyn Fong Yi Xuan (5D)<br>Lee Rui Jie Aydan (5B)<br>Rafael Gregory Oemaru (5B)**    |
 
 
 
@@ -99,7 +99,7 @@ Congratulations to our Primary 5 pupils for their wonderful performance at the N
 
 | Silver Award | Bronze Award | 	Honourable Mention |
 | -------- | -------- | -------- |
-| Benjamin Evan Tirtaatmadja (5B)<br>Fang Quan (5B)<br>Isaac Luo Huaiyu (5B)<br>Xie Xinyi (5B)  | 	Aloysius Kerk Rui Zhe (5B)<br>	Aw Yu Heng Hans (5B)<br> 	David Koh Hao Yi (5B)<br>	Jaden Ee Jie Ren (5B)<br> 	Jairus Teo Yi Jie (5B)<br> Koh Yong Wei Janelle (5B)<br>Oliver Yap Jie Jun (5B)  | Aiden Winson Naing (5D)<br>	Joelle Tay Le En (5D)<br>	Lam Yik Kit (5B)<br>	Lee Min Ho Bosco (5B)<br>	Lee Rui Jie Aydan (5B)<br>Nikki Chong (5B)<br>	Rafael Gregory Oemaru (5B)  |
+| **Benjamin Evan Tirtaatmadja (5B)<br>Fang Quan (5B)<br>Isaac Luo Huaiyu (5B)<br>Xie Xinyi (5B)**  | 	**Aloysius Kerk Rui Zhe (5B)<br>	Aw Yu Heng Hans (5B)<br> 	David Koh Hao Yi (5B)<br>	Jaden Ee Jie Ren (5B)<br> 	Jairus Teo Yi Jie (5B)<br> Koh Yong Wei Janelle (5B)<br>Oliver Yap Jie Jun (5B)**  | **Aiden Winson Naing (5D)<br>	Joelle Tay Le En (5D)<br>	Lam Yik Kit (5B)<br>	Lee Min Ho Bosco (5B)<br>	Lee Rui Jie Aydan (5B)<br>Nikki Chong (5B)<br>	Rafael Gregory Oemaru (5B)**  |
 
 
 
@@ -111,8 +111,8 @@ Our pupils participated in the above competition organised by Hwa Chong Institut
 
   | Silver Award | Bronze Award |
 |---|---|
-| Leong Yuen Sheng Abel (6B) | Aloysius Kerk Rui Zhe (5B) |
-| Seah Yuxin (6D) | Koh Yong Wei Janelle (5B) |
+| **Leong Yuen Sheng Abel (6B)** | **Aloysius Kerk Rui Zhe (5B)** |
+| **Seah Yuxin (6D)** | **Koh Yong Wei Janelle (5B)** |
 
 **SOTA Primary 6 Creative Writing Competition 2022**
 
@@ -132,7 +132,7 @@ The 23rd International Chinese Language Competition 2022, hosted by Holy Innocen
 
 | Gold Award | Bronze Award |
 |---|---|
-| Zou Zixi 邹子熙 (6B) | Zhang Yuyan张彧嫣 (5G) |
+| **Zou Zixi 邹子熙 (6B)** | **Zhang Yuyan张彧嫣 (5G)** |
 |  |  |
 
 **13th GoodTalk (Global Village) International Children & Youth Bilingual Speech Conference**  <br>
@@ -153,7 +153,7 @@ This contest is organised by Asia Art Association and sponsored by PaperOneTM, i
 
 | Platinum<br>特等奖 | Gold<br>金奖 | Silver<br>银奖 |
 |---|---|---|
-| Zou Zixi (5B)<br>邹子熙 | Eva Cheong En Qi (4A), <br>Guo Chenyi (4A) <br>张恩琦, 郭晨艺<br> <br>Melanie Koh Xin Yue (4A), <br>Zhang Yuyan (4A) <br>许新悦, 张彧嫣<br> <br>Huang Xin Tong (4B), <br>Abbe Loo Kang Ning (4F)<br>黄新桐, 吕康宁<br> <br>Low Hui Qi Megan (4C), <br>Tiffany Chan Jing Xuan (4C)<br>刘卉淇, 曾敬轩<br> <br>Chan Xin-Yann Binnie (5B),<br> Chin Shi Xuan Claire (5B)<br>陈欣恩, 陈湜轩<br> <br>Ang Jia Ning (6A) , <br>Foo Chiao Lin Sophia (6A) <br>洪嘉嬣, 胡巧遴<br> <br>Kwan Xinlin (6E) 关馨琳 | Janessa Fong Rui Min (4A), <br>Joelle Tay Le En (4A)<br>方瑞敏, 郑乐恩<br> <br>Emma Foo Hui Han (4B),<br>Xie Xinyi (4C) <br>符惠涵, 谢馨逸<br> <br>Sophie Tjhi (4C), <br>Zoey Tian Yu Ying (4C) <br>张佳萱, 邓钰颖<br> <br>Li Ziyu Judy (5B) <br>李梓妤<br> <br>Huang Songhua Ilianna (6C)<br>黄頌華 |
+| **Zou Zixi (5B)<br>邹子熙** | **Eva Cheong En Qi (4A), <br>Guo Chenyi (4A) <br>张恩琦, 郭晨艺<br> <br>Melanie Koh Xin Yue (4A), <br>Zhang Yuyan (4A) <br>许新悦, 张彧嫣<br> <br>Huang Xin Tong (4B), <br>Abbe Loo Kang Ning (4F)<br>黄新桐, 吕康宁<br> <br>Low Hui Qi Megan (4C), <br>Tiffany Chan Jing Xuan (4C)<br>刘卉淇, 曾敬轩<br> <br>Chan Xin-Yann Binnie (5B),<br> Chin Shi Xuan Claire (5B)<br>陈欣恩, 陈湜轩<br> <br>Ang Jia Ning (6A) , <br>Foo Chiao Lin Sophia (6A) <br>洪嘉嬣, 胡巧遴<br> <br>Kwan Xinlin (6E) 关馨琳** | **Janessa Fong Rui Min (4A), <br>Joelle Tay Le En (4A)<br>方瑞敏, 郑乐恩<br> <br>Emma Foo Hui Han (4B),<br>Xie Xinyi (4C) <br>符惠涵, 谢馨逸<br> <br>Sophie Tjhi (4C), <br>Zoey Tian Yu Ying (4C) <br>张佳萱, 邓钰颖<br> <br>Li Ziyu Judy (5B) <br>李梓妤<br> <br>Huang Songhua Ilianna (6C)<br>黄頌華** |
 |
 
 **Winners of Best Writing, Best Design and Most Original** (_classes stated as of 2021_)
