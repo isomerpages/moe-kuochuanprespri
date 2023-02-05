@@ -11,7 +11,7 @@ description: ""
 |---|---|
 | 1. | [Application for School Placement.pdf](https://kuochuanpresbyterianpri-moe-edu-sg-admin.cwp.sg/qql/slot/u524/Publications/Form%20Downloads/Application%20for%20School%20Placement%202016.pdf)
 | 2. | [Informing School of Child's Absence During School Term.pdf](https://kuochuanpresbyterianpri-moe-edu-sg-admin.cwp.sg/qql/slot/u524/Forms/Absence%20During%20School%20Term.pdf)|
-| 3. | [Travel declaration using Parents Gateway guide](/files/Travel%20declaration%20using%20Parents%20Gateway%20guide.pdf) |
+| 3. | [Travel declaration using Parents Gateway guide.pdf](https://kuochuanpresbyterianpri-moe-edu-sg-admin.cwp.sg/qql/slot/u524/Parents_Guide_for_PG_Travel_Declaration_Update_Particulars_-_23_Jan_2020.pdf) |
 | 4. | [Updating of Contact Information](/files/Updating%20of%20Contact%20Information.pdf) |
 |
 
