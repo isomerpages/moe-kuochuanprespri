@@ -7,13 +7,13 @@ description: ""
 
 |       CCA       |                        Teachers In-charge                        |        Venue       |
 |:---------------:|:----------------------------------------------------------------:|:------------------:|
-|     Eco Club    |   Mdm Nurulhana Bte Salim<br>  Mr Joshua Lim  |       <br>Science      |
+|     Eco Club    |   Mdm Nurulhana Bte Salim<br>  Mr Joshua Lim  |       <br>Science Lab      |
 | Mind Games Club | Mdm April Chew<br> Mdm Agnes Pang<br> Mdm Suzana Bte Kamsir | <br>Level 3 classrooms |
 |  New Media Club |             Mr Mohammed Nuraimi Osman<br>  Ms Ong Tan Fong           |    Computer Lab    |
 
 **Eco Club**  
 
-Pupils are engaged in activities weekly to promote environmental awareness and active care for the school and nation. Selected pupils compete in **national** competitions. They will also showcase their projects on 'Clean & Green' and promote Biodiversity and Earth Day.
+Pupils are engaged in activities weekly to promote environmental awareness and active care for the school and nation. Selected pupils compete in national competitions. They will also showcase their projects on 'Clean & Green' and promote Biodiversity and Earth Day.
 
 **Mind Games Club _(Chess & Scrabble)_**
 
@@ -31,4 +31,4 @@ Pupils will be equipped with relevant ICT skills and knowledge, focused on photo
 
 **Visual Arts Club**
 
-Pupils learn life skills such as developing an informed perception; articulating a vision; learning to solve problems and make decisions. They learn to develop the ability to imagine what might be. Pupils learn about different art forms. Selected pupils submit their art pieces for **zonal / national** competitions.
+Pupils learn life skills such as developing an informed perception; articulating a vision; learning to solve problems and make decisions. They learn to develop the ability to imagine what might be. Pupils learn about different art forms. Selected pupils submit their art pieces for zonal / national competitions.
