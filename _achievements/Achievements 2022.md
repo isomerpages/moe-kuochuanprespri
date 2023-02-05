@@ -484,8 +484,8 @@ Pupils competed in the classification round and then progressed to the tiered le
 
 |   |   |   |
 | -------- | -------- | -------- |
-| DOUBLES - TIER 1   | Fong Yik Ching Nathan (4E)<br>Cheng Jie En Ethan (4F) | 4th position<br>Gold Achievement Pin |
-| SINGLES - TIER 1    | Olivia Hew Chen Lin (4F)    | 4th position<br>Gold Achievement Pin  |
+| DOUBLES - TIER 1   | **Fong Yik Ching Nathan (4E)<br>Cheng Jie En Ethan (4F)** | **4th position<br>Gold Achievement Pin** |
+| SINGLES - TIER 1    | **Olivia Hew Chen Lin (4F)**    | **4th position<br>Gold Achievement Pin**  |
 
 **SPSSC Taekwondo (Poomsae) Junior Division 2022**
 
@@ -497,10 +497,10 @@ The competition was held from 18 to 20 July. The following pupils achieved comme
 
 |  |  |  |
 | -------- | -------- | -------- |
-| JUNIOR BLUE 4 BELT    | Aidan Elan Bin Muhammad Amin (3F)     | 3rd position  |
-| POOM 1     | Ayden Yeo Yu Hang (2G)    | Gold Achievement Pin    |
-| POOM 1    | Cuff Asher Nathan (4B)  | Gold Achievement Pin    |
-| POOM 2     | Yang Jing, Yanique (4B)  | Gold Achievement Pin |
+| JUNIOR BLUE 4 BELT    | **Aidan Elan Bin Muhammad Amin (3F)**     | **3rd position**  |
+| POOM 1     | **Ayden Yeo Yu Hang (2G)**    | **Gold Achievement Pin**    |
+| POOM 1    | **Cuff Asher Nathan (4B)**  | **Gold Achievement Pin**    |
+| POOM 2     | **Yang Jing, Yanique (4B)**  | **Gold Achievement Pin** |
 
 **SPSSC Bowling National Junior Division 2022**
 
