@@ -19,13 +19,13 @@ According to the work of Dr. Philip Vincent and Dr. Doug Grove, enforcing sound�
 In our school, we adopt ‘The Five Practices of Exemplary Leadership’ as the focus for our student leadership development. All pupils first learn to be a personal leader through our values-based curriculum.  Being personal leaders allow pupils to learn self-management skills and be good role models. Peer Leadership allows all pupils to have opportunities to be peer leaders in class.  The Student Councillors, CCA leaders and House Captains form the next tier of leader – People Leadership. Through the different training platforms, pupils learn various leadership skills to equip them for their leadership roles.
 
 <img src="/images/DSL%201.jpg" 
-     style="width:65%">
+     style="width:%">
 **Student leaders engaging in a team activity during the student leadership camp**		 
 		 
 <img src="/images/DSL%202.jpg" 
-     style="width:65%">
+     style="width:%">
 **Student leaders in action: Interacting with the elderly during a home visit**		 
 		 
 <img src="/images/DSL%203.jpg" 
-     style="width:65%">
+     style="width:">
 **Student leaders in action: Being a docent in KCPPS Heritage Experiential Hub**
