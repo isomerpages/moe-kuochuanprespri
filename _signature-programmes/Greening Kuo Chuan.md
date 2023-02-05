@@ -13,8 +13,7 @@ In the 21st Century, sustainable development is the key to progress. The Greenin
 		 
 ![](/images/terrarium.jpg)**Learning about photosyntheis and the water cycle through terrarium-making at the P6 Environmental Camp**
 		 
-<img src="/images/greening%20kc%204.jpg" 
-     style="width:100%">		 
+![](/images/red_packet.jpg)**Pupil-initiated red packet recycling campaign**		 
 		 
 <img src="/images/greening%20kc%205.jpg" 
      style="width:100%">
