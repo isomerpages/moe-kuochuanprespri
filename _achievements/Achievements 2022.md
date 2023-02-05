@@ -259,7 +259,7 @@ Draw My Stamps Story Art Competition is organized by the Children’s Museum Sin
 
 | Silver Award| Bronze Award | Token of Appreciation |
 | -------- | -------- | -------- |
-| Mary Jane Laiman (5D)<br>Dhanesh Singam (6F)    | 	Ang Jun Yi Megan (5F)<br>Giselle Chen (6F)    | Joelle Andika (3D)<br>Chng Jun Ru, Elizabeth (4A)<br>Foo Xin Wei Heidi (4D)<br>Heidi Chen (4D)<br>Ong Chen Xi (4D)<br>Adelyn Tay Xin Ni (4E)<br>Jewel Cheong Li Wen (4E)<br>Kristen Loh Kai Xuan (4E)<br>Tee Kai Yue, Rheya (4E)<br>Teh Shi Yun (4E)<br>Seah Zu Ray (5B)<br>Audrina Soe (5C)<br>Ho Wen Xuan Eva (5C)<br>Kayra Chiang Zhi Xuan (5C)<br>Lee Tze Wai (5C)<br>Teo Lok Oon (5C)<br>Joelle Tay Le En (5D)<br>Sophie Tjhi (5D)<br>Elliot Kek (5F)<br>Emma Lim Jia Hui (5F)<br>Samantha Yeo (5F)<br>Chin Shi Xuan, Claire (6B)<br>Lee Min Xuan Evanna (6B)<br>Licia Ho En Tong (6B)<br>Yap Sze Yah Daphne (6F)    |
+| **Mary Jane Laiman (5D)<br>Dhanesh Singam (6F)**    | 	**Ang Jun Yi Megan (5F)<br>Giselle Chen (6F)**    | **Joelle Andika (3D)<br>Chng Jun Ru, Elizabeth (4A)<br>Foo Xin Wei Heidi (4D)<br>Heidi Chen (4D)<br>Ong Chen Xi (4D)<br>Adelyn Tay Xin Ni (4E)<br>Jewel Cheong Li Wen (4E)<br>Kristen Loh Kai Xuan (4E)<br>Tee Kai Yue, Rheya (4E)<br>Teh Shi Yun (4E)<br>Seah Zu Ray (5B)<br>Audrina Soe (5C)<br>Ho Wen Xuan Eva (5C)<br>Kayra Chiang Zhi Xuan (5C)<br>Lee Tze Wai (5C)<br>Teo Lok Oon (5C)<br>Joelle Tay Le En (5D)<br>Sophie Tjhi (5D)<br>Elliot Kek (5F)<br>Emma Lim Jia Hui (5F)<br>Samantha Yeo (5F)<br>Chin Shi Xuan, Claire (6B)<br>Lee Min Xuan Evanna (6B)<br>Licia Ho En Tong (6B)<br>Yap Sze Yah Daphne (6F)**    |
 
 **Boys’ Brigade Character Quest – Gold Honour Roll**
 
@@ -272,7 +272,7 @@ Two teams of boys took part in the Boys’ Brigade Character Quest (CQ) on 13 Au
 
 | Name | Class | 
 | -------- | -------- | 
-| Cheah Yu Heng<br>Duan Hanyu<br>Oswald Tan Shu Xing<br>Aloysius Kerk Rui Zhe<br>Cavine Chong Nam Feng<br>Ezekiel Chioh Sheng Qiang<br>Lew Le Xiang Isaac<br>Lim Yi Xuan, Thaddeus     | 4F<br>4F<br>5A<br> 5B<br> 5D<br> 5D<br> 5F<br> 5G    | 
+| **Cheah Yu Heng<br>Duan Hanyu<br>Oswald Tan Shu Xing<br>Aloysius Kerk Rui Zhe<br>Cavine Chong Nam Feng<br>Ezekiel Chioh Sheng Qiang<br>Lew Le Xiang Isaac<br>Lim Yi Xuan, Thaddeus**     | **4F<br>4F<br>5A<br> 5B<br> 5D<br> 5D<br> 5F<br> 5G**    | 
 
 
 
@@ -302,7 +302,7 @@ This year, we are delighted to share that 16 of our boys were presented with the
 
 | Name 	| Class 	|
 |---	|---	|
-| Cruz Loh Yuan Kai<br>Leong Yong Jie Caleb<br>Zan Li Lok Sin<br>Han Zhi Yuan Zyan<br>Seah Jun Xi Javier<br>Gabrian Huang Kang’En<br>Soon Zheng Kai, Nathan<br>Keagan Tan Yan San<br>Lee Zheng Rong Daylon<br>Quak Qi Wen<br>Richard Lee Jinn Wing<br>Eaxan Soh<br>Lai Jing Teng<br>Matthew Tuvia Ong <br>Tay Kai De Cody <br>Trey Kenwyn Fung  	| 6A<br>6A<br>6A<br>6B<br>6B<br>6D<br>6D<br>6E<br>6F<br>6F<br>6F<br>6G<br>6G<br>6G<br>6G <br>6G 	|
+| **Cruz Loh Yuan Kai<br>Leong Yong Jie Caleb<br>Zan Li Lok Sin<br>Han Zhi Yuan Zyan<br>Seah Jun Xi Javier<br>Gabrian Huang Kang’En<br>Soon Zheng Kai, Nathan<br>Keagan Tan Yan San<br>Lee Zheng Rong Daylon<br>Quak Qi Wen<br>Richard Lee Jinn Wing<br>Eaxan Soh<br>Lai Jing Teng<br>Matthew Tuvia Ong <br>Tay Kai De Cody <br>Trey Kenwyn Fung**  	| **6A<br>6A<br>6A<br>6B<br>6B<br>6D<br>6D<br>6E<br>6F<br>6F<br>6F<br>6G<br>6G<br>6G<br>6G <br>6G** 	|
 |
 
 **Boys’ Brigade JM Fraser Award 2021**  
