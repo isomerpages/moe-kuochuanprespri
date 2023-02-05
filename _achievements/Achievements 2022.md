@@ -322,7 +322,7 @@ The Dr Low Guat Tin (LGT) Challenge encourages girls to seek creative ways to im
 
 | Gold | Silver | Bronze |
 | -------- | -------- | -------- |
-| Kang Xin Yu Eloise (5F)   | Sofia Joy Uy (4A)<br>Kwan Yu Yun (4B)<br>Kaitlyn Khong Kai Lin (4D)<br>Tan Le-Ann (4D)<br>Odelia Enxi Lee (5D)<br>Melissa Tham Hon Minn (5E)<br>Sophia Chrissabelle Sudjono (5E)<br>Tiffany Chan Jing Xuan (5F)<br>Chew An Rui Stacey (5G)<br>Grace Phang Hui En (5G) | Goh Song En Hannah (3C)<br>Vania Ang En Qi (3D)<br>Jermaine Chia Yahui (3F)<br>Fang Xin (4B)<br>Koh Zi Qi (4B)<br>Mikaela Ng Jin Xin (4B)<br>Sabrynna Quinn Tjandra (4B)<br>Skylar Tan Shing Ru (4B)<br>Zelyn Yeo Xin Ying (4C)<br>Desnia Leong Ruishan (4D)<br>Hannah Ng Qi Xin (4D)<br>Jewel Cheong Li Wen (4E)<br>Chloe Chen Luoyi (4F)<br>Elizabeth Arabelle Lim (5A)<br>Wong Sum Wai, Jenny (5A)<br>Janessa Fong Rui Min (5B)<br>Kaelyn Tan En Qi (5B)<br>Koh Yong Wei Janelle (5B)<br>Eunice Hong Li Jia (5D)<br>Joelle Tay Le En (5D)<br>Karyn Fong Yi Xuan (5D)<br>Koh Kai En Keanne (5D)  |
+| **Kang Xin Yu Eloise (5F)**   | **Sofia Joy Uy (4A)<br>Kwan Yu Yun (4B)<br>Kaitlyn Khong Kai Lin (4D)<br>Tan Le-Ann (4D)<br>Odelia Enxi Lee (5D)<br>Melissa Tham Hon Minn (5E)<br>Sophia Chrissabelle Sudjono (5E)<br>Tiffany Chan Jing Xuan (5F)<br>Chew An Rui Stacey (5G)<br>Grace Phang Hui En (5G)** | **Goh Song En Hannah (3C)<br>Vania Ang En Qi (3D)<br>Jermaine Chia Yahui (3F)<br>Fang Xin (4B)<br>Koh Zi Qi (4B)<br>Mikaela Ng Jin Xin (4B)<br>Sabrynna Quinn Tjandra (4B)<br>Skylar Tan Shing Ru (4B)<br>Zelyn Yeo Xin Ying (4C)<br>Desnia Leong Ruishan (4D)<br>Hannah Ng Qi Xin (4D)<br>Jewel Cheong Li Wen (4E)<br>Chloe Chen Luoyi (4F)<br>Elizabeth Arabelle Lim (5A)<br>Wong Sum Wai, Jenny (5A)<br>Janessa Fong Rui Min (5B)<br>Kaelyn Tan En Qi (5B)<br>Koh Yong Wei Janelle (5B)<br>Eunice Hong Li Jia (5D)<br>Joelle Tay Le En (5D)<br>Karyn Fong Yi Xuan (5D)<br>Koh Kai En Keanne (5D)**  |
 
 
 
@@ -354,10 +354,10 @@ The 2nd NSSGeS 2022 Scrabble TournaVent was held from 27 & 28 April and 7 of our
 
 |  |  | |
 | -------- | -------- | -------- |
-| J2 Sub-Division<br>CUP category    | Kong Yih Chern, Leon (3D)   | 1st position     |
-| J2 Sub-Division<br>PLATE category     | Chan Yan Kai, Neil (3F)  | 	4th position     |
-| J1 Sub-Division<br>PLATE category     | Timothy Lim Wei Ping (4B)    | 	1st position   |
-| S2 Sub-Division<br>PLATE category    | Kyrus Lee Jie Yang (5B) | 	3rd position   |
+| J2 Sub-Division<br>CUP category    | **Kong Yih Chern, Leon (3D)**   | **1st position**     |
+| J2 Sub-Division<br>PLATE category     | **Chan Yan Kai, Neil (3F)**  | 	**4th position**     |
+| J1 Sub-Division<br>PLATE category     | **Timothy Lim Wei Ping (4B)**    | 	**1st position**   |
+| S2 Sub-Division<br>PLATE category    | **Kyrus Lee Jie Yang (5B)** | 	**3rd position**   |
 
 
 **National School Games (NSG) Updates**  
@@ -390,16 +390,16 @@ More details of the competition results can be accessed at this link: [Click he
 
 |  |  |  |
 | -------- | -------- | -------- |
-| MIXED DOUBLE DUTCH   | Eva Cheong En Qi (5D)<br>Allyssa Lim (6B) <br> Jaclyn Ng Yu Xuan (6D) <br> Ang Wern Ni Gianna (6E)<br>Matthew Tuvia Ong (6G) | 1st position  |
-|  TEAM DOUBLE DUTCH <br>– MIXED GENDER| Ng Xin Ying (3C)<br>Ong Hui En (4A)<br>Tan Chen Byayden (4C) | 1st Position |
-| DOUBLE DUTCH <br>– SENIOR GIRLS | Galene Lau Yarn Kei (5A) <br>Jaelyn Yeo Jia Nin (5G)<br> Katrina Kwong Yixin (6A)<br> Rykiel Lee Jia En (6A)<br>Maegan Lim Min En (6F)| 4th Position |
-| TEAM DOUBLE DUTCH <br>– JUNIOR BOYS | Chew Siu Zit Mathias (3B)<br>Matthew Leong Hou Yaan (3F)<br>Isaac Ang Rui Bin (4A) | 8th Position |
-| TEAM DOUBLE DUTCH <br>– JUNIOR GIRLS | Kwan Yu Yun (4B)<br>Hannah Ng Qi Xin (4D)<br>Chan Ashrielle (4F) | 8th Position |
-| PAIR FREESTYLE <br>– SENIOR GIRLS  | Allyssa Lim (6B)<br>Alynna Lim (6D)  | 4th Position |
-| INDIVIDUAL FREESTYLE <br>– JUNIOR GIRLS | Mandy Ng Min (4B) | 3rd Position |
-| SPEED RELAY <br>– SENIOR GIRLS  | Tan Sze Jing (5A)<br>Eva Cheong En Qi (5D)<br>Jaelyn Yeo Jia Nin (5G)<br>Alynna Lim (6D)<br>Jaclyn Ng Yu Xuan (6D) | 7th Position |
-| INDIVIDUAL FREESTYLE <br>– SENIOR GIRLS  | Allyssa Lim (6B) | 7th Position |
-| INDIVIDUAL SPEED <br>– SENIOR GIRLS  | Tan Sze Jing (5A)  | 7th Position |
+| MIXED DOUBLE DUTCH   | **Eva Cheong En Qi (5D)<br>Allyssa Lim (6B) <br> Jaclyn Ng Yu Xuan (6D) <br> Ang Wern Ni Gianna (6E)<br>Matthew Tuvia Ong (6G)** | **1st position**  |
+|  TEAM DOUBLE DUTCH <br>– MIXED GENDER| **Ng Xin Ying (3C)<br>Ong Hui En (4A)<br>Tan Chen Byayden (4C)** | **1st Position** |
+| DOUBLE DUTCH <br>– SENIOR GIRLS | **Galene Lau Yarn Kei (5A) <br>Jaelyn Yeo Jia Nin (5G)<br> Katrina Kwong Yixin (6A)<br> Rykiel Lee Jia En (6A)<br>Maegan Lim Min En (6F)**| **4th Position** |
+| TEAM DOUBLE DUTCH <br>– JUNIOR BOYS | **Chew Siu Zit Mathias (3B)<br>Matthew Leong Hou Yaan (3F)<br>Isaac Ang Rui Bin (4A)** | **8th Position** |
+| TEAM DOUBLE DUTCH <br>– JUNIOR GIRLS | **Kwan Yu Yun (4B)<br>Hannah Ng Qi Xin (4D)<br>Chan Ashrielle (4F)** | **8th Position** |
+| PAIR FREESTYLE <br>– SENIOR GIRLS  | **Allyssa Lim (6B)<br>Alynna Lim (6D)**  | **4th Position** |
+| INDIVIDUAL FREESTYLE <br>– JUNIOR GIRLS | **Mandy Ng Min (4B)** | **3rd Position** |
+| SPEED RELAY <br>– SENIOR GIRLS  | **Tan Sze Jing (5A)<br>Eva Cheong En Qi (5D)<br>Jaelyn Yeo Jia Nin (5G)<br>Alynna Lim (6D)<br>Jaclyn Ng Yu Xuan (6D)** | **7th Position** |
+| INDIVIDUAL FREESTYLE <br>– SENIOR GIRLS  | **Allyssa Lim (6B)** | **7th Position** |
+| INDIVIDUAL SPEED <br>– SENIOR GIRLS  | **Tan Sze Jing (5A)**  | **7th Position** |
 
 
 
