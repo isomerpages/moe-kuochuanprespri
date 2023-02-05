@@ -15,5 +15,4 @@ In the 21st Century, sustainable development is the key to progress. The Greenin
 		 
 ![](/images/red_packet.jpg)**Pupil-initiated red packet recycling campaign**		 
 		 
-<img src="/images/greening%20kc%205.jpg" 
-     style="width:100%">
+![](/images/lunchbox.jpg)**"Bring-Your-Own-Lunchbox" whole-school approach to reduce the use of disposables**
