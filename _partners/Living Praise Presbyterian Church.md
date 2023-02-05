@@ -13,4 +13,3 @@ During devotions and Values Education lessons, the pupils enjoy a fun time of so
 #### **Recess Engagement**
 The chaplaincy team also comes alongside our pupils during recess to interact and befriend them to support their emotional well being.
 
-![](/images/christian%20values%20education.jpg)
