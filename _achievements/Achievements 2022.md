@@ -447,11 +447,11 @@ The competition was held at the OCBC Aquatic Center from 20 to 22 Jul. 17 pupils
 
 The competition was held from 19 July to 2 August. 22 pupils represented the school in the various events with many taking part in the competition for the first time. We are delighted to share the following outstanding results.
 
-
-
 |  |  |  |
 | -------- | -------- | -------- |
-| JUNIOR GIRLS 40 METRES<br>MULTI-SKILL EVENT<br>JUNIOR BOYS 60 METRES HURDLES<br>JUNIOR GIRLS 80 METRES   | Megan Leong Suk Yee (4C)<br>Megan Leong Suk Yee (4C)<br>Keyon Tay Yu Chen (5A)<br>Lee Ying En, Gloria (5B)   | 2nd position<br>Silver Achievement Pin<br>3rd position<br>	1st position    |
+| JUNIOR GIRLS 40 METRES|**Megan Leong Suk Yee (4C)**|**2nd position**<br>
+MULTI-SKILL EVENT|**Megan Leong Suk Yee (4C)**|**Silver Achievement Pin**<br>
+JUNIOR BOYS 60 METRES HURDLES|<br>JUNIOR GIRLS 80 METRES   | Megan Leong Suk Yee (4C)<br>Megan Leong Suk Yee (4C)<br>Keyon Tay Yu Chen (5A)<br>Lee Ying En, Gloria (5B)   | <br>3rd position<br>	1st position    |
 
 
 **SPSSC Badminton National Junior Division 2022**
