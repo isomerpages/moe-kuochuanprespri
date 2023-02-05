@@ -451,7 +451,9 @@ The competition was held from 19 July to 2 August. 22 pupils represented the sch
 | -------- | -------- | -------- |
 | JUNIOR GIRLS 40 METRES|**Megan Leong Suk Yee (4C)**|**2nd position**<br>
 MULTI-SKILL EVENT|**Megan Leong Suk Yee (4C)**|**Silver Achievement Pin**<br>
-JUNIOR BOYS 60 METRES HURDLES|<br>JUNIOR GIRLS 80 METRES   | Megan Leong Suk Yee (4C)<br>Megan Leong Suk Yee (4C)<br>Keyon Tay Yu Chen (5A)<br>Lee Ying En, Gloria (5B)   | <br>3rd position<br>	1st position    |
+JUNIOR BOYS 60 METRES HURDLES|**Keyon Tay Yu Chen (5A)**|**3rd position**<br>
+JUNIOR GIRLS 80 METRES   | **Lee Ying En, Gloria (5B)**   |**1st position**<br>
+|
 
 
 **SPSSC Badminton National Junior Division 2022**
