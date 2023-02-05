@@ -506,14 +506,15 @@ The competition was held from 18 to 20 July. The following pupils achieved comme
 
   
 
-The competition was held from 25 to 27 July. Harikrishnan Rajsekhar (5B) and Tong Kay Hsen (5D) performed admirably well!
+The competition was held from 25 to 27 July. **Harikrishnan Rajsekhar (5B)** and **Tong Kay Hsen (5D)** performed admirably well!
 
 
 
 |  |  |  |
 | -------- | -------- | -------- |
-| SINGLES    | Harikrishnan Rajsekhar (5B)   | 3rd position<br>Overall Score Average <br>(4th Position)    |
-| DOUBLES   | Harikrishnan Rajsekhar (5B)<br>Tong Kay Hsen (5D)    | 2nd position<br>Gold Achievement Pin   |
+| SINGLES    | **Harikrishnan Rajsekhar (5B)**   | **3rd position<br>Overall Score Average <br>(4th Position)**    |
+| DOUBLES   | **Harikrishnan Rajsekhar (5B)<br>Tong Kay Hsen (5D)**    | **2nd position<br>Gold Achievement Pin** <br>
+|
 
 
 **Singapore Primary Schools Sports Council (SPSSC) Tennis National Junior Division 2022**
@@ -530,8 +531,8 @@ The competition was held in Term 3. We are delighted to share that after the cla
 
 |  |  |  |
 | -------- | -------- | -------- |
-| 1st INTERNATIONAL SPEAR <br>– SENIOR GIRLS    | Elin Tham (6G)     | 2nd position  |
-| 5-DUAN SWORD <br>– SENIOR GIRLS     | Elin Tham (6G)   | 2nd position     |
+| 1st INTERNATIONAL SPEAR <br>– SENIOR GIRLS    | **Elin Tham (6G)**     | **2nd position**  |
+| 5-DUAN SWORD <br>– SENIOR GIRLS     | **Elin Tham (6G)**   | **2nd position**     |
 
 **Celebrating Character in Sporting Excellence – SPSSC Sportsmanship Award**
 
