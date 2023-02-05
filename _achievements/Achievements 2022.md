@@ -160,7 +160,7 @@ This contest is organised by Asia Art Association and sponsored by PaperOneTM, i
 
 | Best Writing<br>最佳书写 | Best Design<br>最佳设计 | Most Original<br>最佳原创 |
 |---|---|---|
-| Zou Zixi (5B)<br>邹子熙<br><br>Ang Jia Ning (6A),<br>Foo Chiao Lin Sophia (6A)<br>洪嘉嬣, 胡巧遴<br><br>Low Hui Qi Megan (4C),<br>Tiffany Chan Jing Xuan (4C)<br>刘卉淇, 曾敬轩<br><br>Huang Xin Tong (4B),<br>Abbe Loo Kang Ning (4F)<br>黄新桐, 吕康宁 | Zou Zixi (5B)<br>邹子熙<br><br>Ang Jia Ning (6A),<br>Foo Chiao Lin Sophia (6A)<br>洪嘉嬣, 胡巧遴<br><br>Chan Xin-Yann Binnie (5B),<br>Chin Shi Xuan Claire (5B)<br>陈欣恩, 陈湜轩<br><br>Kwan Xinlin (6E)<br>关馨琳 | Zou Zixi (5B)<br>邹子熙<br><br>Low Hui Qi Megan (4C),<br>Tiffany Chan Jing Xuan (4C)<br> 刘卉淇, 曾敬轩<br><br>Huang Xin Tong (4B),<br>Abbe Loo Kang Ning (4F)<br>黄新桐, 吕康宁 |
+| **Zou Zixi (5B)<br>邹子熙<br><br>Ang Jia Ning (6A),<br>Foo Chiao Lin Sophia (6A)<br>洪嘉嬣, 胡巧遴<br><br>Low Hui Qi Megan (4C),<br>Tiffany Chan Jing Xuan (4C)<br>刘卉淇, 曾敬轩<br><br>Huang Xin Tong (4B),<br>Abbe Loo Kang Ning (4F)<br>黄新桐, 吕康宁** | **Zou Zixi (5B)<br>邹子熙<br><br>Ang Jia Ning (6A),<br>Foo Chiao Lin Sophia (6A)<br>洪嘉嬣, 胡巧遴<br><br>Chan Xin-Yann Binnie (5B),<br>Chin Shi Xuan Claire (5B)<br>陈欣恩, 陈湜轩<br><br>Kwan Xinlin (6E)<br>关馨琳** | **Zou Zixi (5B)<br>邹子熙<br><br>Low Hui Qi Megan (4C),<br>Tiffany Chan Jing Xuan (4C)<br> 刘卉淇, 曾敬轩<br><br>Huang Xin Tong (4B),<br>Abbe Loo Kang Ning (4F)<br>黄新桐, 吕康宁** |
 |
 
 
@@ -187,8 +187,8 @@ We are delighted to announce the following winners! Congratulations pupils! Well
 
 |  | 	 | 
 | -------- | -------- |
-| Honourable Mention Award佳作品     | 	Ng Kai Qi Caris 黄塏淇 (4D)     |
-| Honourable Mention Award 佳作品 | 	Kaitlyn Khong Kai Lin 邝凱琳 (4D) | 
+| **Honourable Mention Award佳作品**     | 	**Kaitlyn Khong Kai Lin 邝凱琳 (4D)**     |
+| **Honourable Mention Award 佳作品** | 	**Ng Kai Qi Caris 黄塏淇 (4D)** | 
 
 
 
