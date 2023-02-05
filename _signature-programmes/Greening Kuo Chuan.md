@@ -9,11 +9,9 @@ In the 21st Century, sustainable development is the key to progress. The Greenin
 
 ![](/images/NParks%20Green%20Wave%2002.jpg)**Promoting conservation of biodiversity in conjunction with the annual Nparks Green Wave**
 		 
-<img src="/images/greening%20kc%202.jpg" 
-     style="width:100%">
+![](/images/NParks%20Bioblitz_02.jpg)**Appreciating flora and fauna at the Roof Garden**
 		 
-<img src="/images/greening%20kc%203.jpg" 
-     style="width:100%">
+![](/images/terrarium.jpg)**Learning about photosyntheis and the water cycle through terrarium-making at the P6 Environmental Camp**
 		 
 <img src="/images/greening%20kc%204.jpg" 
      style="width:100%">		 
