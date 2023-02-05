@@ -409,7 +409,7 @@ More details of the competition results can be accessed at this link: [Click he
 
 |  |  |  |
 | -------- | -------- | -------- |
-|SENIOR 1 GIRLS 50 METRES <br> BREASTSTROKE   | Charlotte Chew Jen Ee (6B)    | 9th position  |
+|SENIOR 1 GIRLS 50 METRES <br> BREASTSTROKE   | **Charlotte Chew Jen Ee (6B)**    | **9th position**  |
 
 
 
@@ -424,7 +424,7 @@ The competition was held at the OCBC Aquatic Center from 20 to 22 Jul. 17 pupils
 
 |  |  |  |
 | -------- | -------- | -------- |
-| BOYS 10 & UNDER 25 SC METRE <br>BACKSTROKE – D DIVISION    | Lin Ken, Liam (3F)    | 8th position   |
+| BOYS 10 & UNDER 25 SC METRE <br>BACKSTROKE – D DIVISION    | **Lin Ken, Liam (3F)**    | **8th position**   |
 
 
 
@@ -435,11 +435,11 @@ The competition was held at the OCBC Aquatic Center from 20 to 22 Jul. 17 pupils
 
 |  |  |  |
 | -------- | -------- | -------- |
-| SENIOR 1 GIRLS 100 METRES    | Chan Le Xuan Faith (6D)      | 	7th position    |
-| SENIOR 1 GIRLS 200 METRES  | Chan Le Xuan Faith (6D)      | 	4th position    |
-| SENIOR 1 BOYS 200 METRES    | 	Ethan Roman (6C)   | 	4th position     |
-| SENIOR 1 BOYS 300 METRES     | Joshua Ang Jun Wei (6E)     | 	5th position     |
-| SENIOR 1 BOYS 300 METRES   | Cruz Loh Yuan Kai (6A)      | 	7th position    |
+| SENIOR 1 GIRLS 100 METRES    | **Chan Le Xuan Faith (6D)**      | 	**7th position**    |
+| SENIOR 1 GIRLS 200 METRES  | **Chan Le Xuan Faith (6D)**      | 	**4th position**    |
+| SENIOR 1 BOYS 200 METRES    | 	**Ethan Roman (6C)**   | 	**4th position**     |
+| SENIOR 1 BOYS 300 METRES     | **Joshua Ang Jun Wei (6E)**     | 	**5th position**     |
+| SENIOR 1 BOYS 300 METRES   | **Cruz Loh Yuan Kai (6A)**      | 	**7th position**    |
 
 **SPSSC Track and Field Junior Division 2022**
 
