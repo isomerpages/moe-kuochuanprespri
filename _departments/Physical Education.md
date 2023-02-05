@@ -21,14 +21,14 @@ For development of broad-based competencies, pupils work on the acquisition of s
 Our department’s key programmes include KClympics, Primary 5 Outdoor Adventure Learning Cohort Camp, Play@Recess and Programme for Active Learning (PAL) Games and Sports module as well as PAL Outdoor Education module. These programmes provide authentic platforms for our pupils to learn and apply the knowledge, skills and concepts they have picked up. In addition to our Physical Education (PE) programme, our school offers a suite of Sports Co-Curricular Activities (CCA) where pupils have opportunities for recreational participation and competition experience.
 
 <img src="/images/pe%20dept%201.jpg" 
-     style="width:65%">
+     style="width:%">
 **Annual KClmpics: At play in the inter-house handball competition**
 
 <img src="/images/pe%20dept%202.jpg" 
-     style="width:65%">
+     style="width:%">
 **Outdoor Adventure Camp: On the high elements course**
 
 <img src="/images/pe%20dept%203.jpg" 
-     style="width:65%">
+     style="width:%">
 **Play@Recess: Opportunities to bond and work on skills**
 Link: [https://sites.google.com/kcpps.edu.sg/kcppspe/home](https://sites.google.com/kcpps.edu.sg/kcppspe/home)
