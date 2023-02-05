@@ -34,8 +34,7 @@ Celebrations of festivals (Chinese New Year, Hari Raya Puasa, Deepavali) are int
 Annually, the Mid-Autumn Festival Celebration “月儿圆圆庆中秋” is an evening celebratory event for our lower and middle primary pupils and their parents. As part of our cultural programme, the celebration aims to immerse KCPPians in the festive mood as they bond with their families to create awareness of the Chinese traditional culture and customs.
 
 <img src="/images/mother%20tongue%20dept%201.jpeg" 
-     style="width:65%">
-**Lantern Design**
+     style="width:%">	**Lantern Design**
 
 The department seizes opportunities at annual festive seasons to encourage our pupils to show Amazing Love for the residents of Bishan Home for the Intellectually Disabled: Food donation drive - “Share The Joy!” is done through Primary 5 Hamper Wrapping Competition during Chinese New Year and the Mooncake donation drive - “A Thoughtful Mid-Autumn!” is organised for Primary 1 to Primary 3 pupils.
 
