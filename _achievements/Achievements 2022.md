@@ -466,10 +466,11 @@ Pupils competed in the classification round and then progressed to the tiered le
 
 |  |  |  |
 | -------- | -------- | -------- |
-| SINGLES - TIER 2     | Chan En En Samantha (4B)     | 2nd position<br>Silver Achievement Pin   |
-| SINGLES - TIER 2    | Sim Shang Ern, Isaac (5B)    | 1st position<br>Silver Achievement Pin   |
-| SINGLES - TIER 2     | Lam Yik Kit (5B)     | 3rd position<br>Silver Achievement Pin  |
-| SINGLES - TIER 4    | Lee Zhi Heng (5F)   | 	1st position    |
+| SINGLES - TIER 2     | **Chan En En Samantha (4B)**     | **2nd position<br>Silver Achievement Pin**   |
+| SINGLES - TIER 2    | **Sim Shang Ern, Isaac (5B)**    | **1st position<br>Silver Achievement Pin**   |
+| SINGLES - TIER 2     | **Lam Yik Kit (5B)**     | **3rd position<br>Silver Achievement Pin**  |
+| SINGLES - TIER 4    | **Lee Zhi Heng (5F)**   | 	**1st position**<br>
+|
 
 
 **SPSSC Table Tennis National Junior Division 2022**
