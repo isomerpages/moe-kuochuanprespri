@@ -14,7 +14,7 @@ The learning content for the Arts Instructional Programme encompasses knowledge,
 At KCPPS, arts come alive and relevant as pupils take their learning beyond the confines of the classroom. They experience exhibitions of artwork and enjoy musical concerts while applying their conceptual understanding of art and music. The following platforms and key department programmes provide such experience for our pupils: Learning for Life Programme (LLP) in Visual Art and Design, Kuo Chuan’s Got Talent, Exhibition in Curriculum, Museum-Based Learning Journey and Programme for Active Learning (PAL) Visual Arts module as well as PAL Performing Arts module.
 
 <img src="/images/aes%20dept%201.jpg" 
-     style="width:65%">
+     style="width:%">
 **Kuo Chuan’s Got Talent!: Uncovering Creativity and Talent**
 
 **Music Instructional Programme**<br>
@@ -24,5 +24,5 @@ The pedagogical framework of exploration, imitation, improvisation and compositi
 With broad exposure to knowledge and skills in Art for all pupils, our art programme aims to develop visual literacy in pupils to observe, understand and communicate through a pedagogical framework entitled ArtThink.
 
 <img src="/images/aes%20dept%202.jpg" 
-     style="width:65%">
+     style="width:%">
 **KCPPS Artists @ Work**
