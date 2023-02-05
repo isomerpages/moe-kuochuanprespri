@@ -28,7 +28,7 @@ The team represented Singapore in the Grand Finals of the International Science 
 **Avelia Teo Yi Xuan (6G)**|Scientist 3<br>
 **Jovine Lum Kar Xun (6G)**|Turtle<br>
 **Muhammad Aidan Bin Mohammed Rizal (6G)**|Traditional Fisherman<br>
-
+|
 
 
 **New Hope: World Charity Painting Competition 2021**  
@@ -38,7 +38,7 @@ The team represented Singapore in the Grand Finals of the International Science 
 |  	|  	|
 |---	|---	|
 |**Silver**|**Bronze**|
-| Charlotte Chew Jen Ee (6B)	| Avinaash Singh Sodhi (6C)<br>Guo Chenyi (5G)<br>Lee Tze Wai (5C)<br>Maggie Liu Minqi (5D)<br>Tye Eng Kee Tania (5B) 	|
+|**Charlotte Chew Jen Ee (6B)**| **Avinaash Singh Sodhi (6C)<br>Guo Chenyi (5G)<br>Lee Tze Wai (5C)<br>Maggie Liu Minqi (5D)<br>Tye Eng Kee Tania (5B)** 	|
 |
 
 Details of the competition and the artworks submitted from around the world can be found at the following website. This also includes our pupils’ exemplary pieces of works.
