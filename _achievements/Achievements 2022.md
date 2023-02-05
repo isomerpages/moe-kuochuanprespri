@@ -544,16 +544,16 @@ This award is conferred by SPSSC and recognizes outstanding athletes who exhibit
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Wee Heng Wei, Mark (6D)    | SPSSC Badminton National Senior Division 2022     | 
-| Jaclyn Ng Yu Xuan (6D)   | SPSSC Rope Skipping Championships Senior Division 2022   | 
-| Matthew Tuvia Ong (6G)  | 	SPSSC Rope Skipping Championships Senior Division 2022  | 
-| Mandy Ng Min (4B)   | 	SPSSC Rope Skipping Championships Junior Division 2022  | 
-| Fong Yik Ching Nathan (4E)  | 	SPSSC Table Tennis National Junior Division 2022     | 
-| Ashley Ng Kay En (6F)   | 	SPSSC Swimming National Senior Division 2022   | 
-| Ng Yi Yang Jerome (6G)  |	SPSSC Swimming National Senior Division 2022   | 
-| Low Hao Yong (6B)  | 	SPSSC Table Tennis National Senior Division 2022     | 
-| Chan Le Xuan Faith (6D)    | 	SPSSC Track and Field Senior Division 2022     | 
-| Elin Tham (6G)   | 	SPSSC Wushu Championships Senior Division 2022    | 
+| **Wee Heng Wei, Mark (6D)**    | **SPSSC Badminton National Senior Division 2022**     | 
+| **Jaclyn Ng Yu Xuan (6D)**   | **SPSSC Rope Skipping Championships Senior Division 2022**   | 
+| **Matthew Tuvia Ong (6G)**  | 	**SPSSC Rope Skipping Championships Senior Division 2022**  | 
+| **Mandy Ng Min (4B)**   | 	**SPSSC Rope Skipping Championships Junior Division 2022**  | 
+| **Fong Yik Ching Nathan (4E)**  | 	**SPSSC Table Tennis National Junior Division 2022**     | 
+| **Ashley Ng Kay En (6F)**   | 	**SPSSC Swimming National Senior Division 2022**   | 
+| **Ng Yi Yang Jerome (6G)**  |	**SPSSC Swimming National Senior Division 2022**   | 
+| **Low Hao Yong (6B)**  | 	**SPSSC Table Tennis National Senior Division 2022**     | 
+| **Chan Le Xuan Faith (6D)**    | 	**SPSSC Track and Field Senior Division 2022**     | 
+| **Elin Tham (6G)**   | 	**SPSSC Wushu Championships Senior Division 2022**    | 
 
 **11th National Inter School Archery Championships 2022**
 
