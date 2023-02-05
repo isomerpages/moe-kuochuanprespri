@@ -41,8 +41,7 @@ The department seizes opportunities at annual festive seasons to encourage our p
 
 Mother Tongue Fortnight cum Racial Harmony Day Celebration is another highlight of KCPPS MT Cultural Programme. During the fortnight, the MT Department creates an environment that encourages pupils to use MTL and appreciate the cultures associated with the languages. Apart from concerts, an array of exciting classroom activities for the levels are organised to allow pupils to experience a wide range of cross cultural activities related to the Chinese, Malay, Indian languages and cultures. Different traditional games and culture activities, as well as food, are introduced to the pupils during the recess activities.
 
-<img src="/images/mother%20tongue%20dept%202.jpeg" 
-     style="width:45%">
+![](/images/Batik%20painting.jpg)
 **Mother Tongue Fortnight Classroom activities: Batik painting**
 
 MT Assembly is another platform to promote linguistic and cultural diversity through various assembly programmes and activities that are held termly/semesterly for the pupils in their respective languages.
