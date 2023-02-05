@@ -20,7 +20,7 @@ To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@
 
 | Name | Designation |
 |---|---|
-| Mdm Kerstin Wong Kai Xin | HOD/ English |
+| Mdm Kerstin Wong Kai Xin | HOD/ English Language |
 | Mdm Tay Hui Phing  | HOD/ Mathematics |
 | Mdm Koh Xin Wei | HOD/ Mother Tongue Languages |
 | Mr Soo Gham Seng | HOD/ Science  |
