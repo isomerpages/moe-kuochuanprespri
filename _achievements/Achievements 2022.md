@@ -244,7 +244,7 @@ In conjunction with Tamil Language Month, which aims to promote the usage of spo
 
 | Poem Recitation: 	| Creative Story Writing: 	|
 |---	|---	|
-| Anbu Raj Aparna (1A) – Consolation Prize<br>Sanaasri Narev Nagavijayan (2E) – 3rd Prize 	| Srinivasan Marushikha (6G) – Consolation Prize 	|
+| **Anbu Raj Aparna (1A) – Consolation Prize<br>Sanaasri Narev Nagavijayan (2E) – 3rd Prize** 	| **Srinivasan Marushikha (6G) – Consolation Prize** 	|
 |
 
 
