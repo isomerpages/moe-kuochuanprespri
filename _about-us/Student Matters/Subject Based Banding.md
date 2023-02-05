@@ -47,7 +47,7 @@ Offering subjects at the foundation level is not a disadvantage to your child. I
 
 |At the end of P5  |  |  |
 |---|---|---|
-| Takes 1 or more foundation subjects (s) and does very well in the subject(s)<br> | Takes standard subjects and has difficulty coping | All other children |
+| **Takes 1 or more foundation subjects (s) and does very well in the subject(s)**<br> | **Takes standard subjects and has difficulty coping** | **All other children** |
 | School may allow him to upgrade 1 or 2 subjects to standard level if school believes he can cope; or continue the same combination in P6 | School may allow him to take 1 or more subjects at foundation level in P6 | School will allow them to continue the same subject combination in P6 
 |
 
@@ -68,5 +68,3 @@ More information on secondary school courses can be found at MOE website
 #### **Where can I find more information on SBB?**
 Please refer to SBB factsheets distributed to Primary 4 pupils & information at MOE Internet website
 [https://www.moe.gov.sg/primary/curriculum/subject-based-banding/](https://www.moe.gov.sg/primary/curriculum/subject-based-banding/)
-
-
