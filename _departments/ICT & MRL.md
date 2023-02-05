@@ -17,14 +17,14 @@ Communication, collaboration and information skills are important 21st Century C
 Our pupils are introduced to touch-typing, MS Word, PowerPoint, Excel as well as performing online search with different Boolean expressions. With the acquisition of these Baseline ICT skills, pupils come together to curate, create and connect. On E-Learning and Home-based Learning days, platforms are created for pupils to practise self-directed and collaborative learning as they complete digital tasks independently or in groups.
 
 <img src="/images/ict%201.jpg" 
-     style="width:65%">
+     style="width:%">
 **Independent Learning during Full Home-based Learning**
 
 **Cyber Wellness Programmes**<br>
 Pupils learn to be responsible digital natives through assembly talks and Form Teacher Guidance Period lessons. On Safer Internet Day, hands-on activities give pupils the opportunity to apply and reflect on what they have learnt on digital use. Student leaders who are appointed Cyber Wellness Ambassadors lead the way to inculcate cyber wellness habits among their peers.
 
 <img src="/images/ict%202.jpeg" 
-     style="width:65%">
+     style="width:%">
 **Cyber Wellness Ambassadors in action**
 
 **Media Resource Library (MRL)**<br>
