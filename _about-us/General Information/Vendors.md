@@ -9,7 +9,7 @@ third_nav_title: General Information
 Pacific Bookstores Pte Ltd <br>
 Telephone : 6334 1275<br>
 Operating hours : Monday to Friday, 8:30 a.m. to 3 p.m.<br>
-(No transactions with parents will be allowed during pupils' recesses from 9.45 - 10.45 a.m.
+(No transactions with parents will be allowed during pupils' recesses from 9.45 a.m. - 10.45 a.m.
 
 #### **School Dental Clinic**
 Telephone : 6268 4356<br>
