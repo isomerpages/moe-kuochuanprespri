@@ -24,8 +24,8 @@ Participating in the **‘Read for Books’** charity drive, pupils read purpo
 **Read for Books @ KCPPS** <br>
 Link: [https://www.nationalreadingmovement.sg/readfest/readforbooks](https://www.nationalreadingmovement.sg/readfest/readforbooks)
 
-**Reading Support Programme**<br>
-This programme includes **Learning Support (LSP) and Reading Remediation** **Programmes (RRP)**, which provides pupils with basic learning foundational skills through phonemic awareness, word attack strategies and extensive reading. In partnership with reading volunteers from the Standard Chartered Bank, the school has arranged for additional support for reluctant readers under the KCPPS-StanChart Reading Programme since 2013.
+**Reading Support Programmes**<br>
+The **Learning Support Programme (LSP) and Reading Remediation Programmes (RRP)** develop pupils' foundational reading skills through phonemic awareness, word attack strategies and extensive reading. In partnership with volunteers from the Standard Chartered Bank, the school has arranged for additional support for reluctant readers under the KCPPS-StanChart Reading Programme since 2013.
 
 **EL ShowTime** <br>
 This is an annual event for Primary 1 and 2 pupils to showcase their talents and oral skills as they enunciate clearly, sing, act and dance on stage to an audience of peers and parents.
