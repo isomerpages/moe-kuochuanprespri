@@ -6,11 +6,11 @@ description: ""
 ### **English Department**
 
 #### **Philosophy**
-We prepare every KCPPian to be a lifelong learner, future-ready, grounded in values. At KCPPS, we believe in equipping all pupils with the language skills and 21st Century Competencies so as to empower them with the knowledge, dispositions and values to realise their potential and excel holistically in their areas of strength.
+We prepare every KCPPian to be a lifelong learner, who is future-ready and grounded in values. At KCPPS, we believe in equipping all pupils with the language skills and 21st Century Competencies so as to empower them with the knowledge, dispositions and values to realise their potential and excel holistically in their areas of strength.
 
 #### **Key Programmes & Approaches**
 **Literacy Development Programme** <br>
-A comprehensive instructional programme aligned to the English Language Syllabuses of 2010 and 2020. The school has adopted STELLAR since 2008, delivering the programme using the approaches in the STELLAR Pedagogic Framework. In line with the learner outcomes of Syllabus 2020, the department leverages effective questioning to deepen pupils’ learning with thinking routines to guide pupils in their thought processes so as to develop sound reasoning and decision-making skills. Effective communication is one key focus of the department’s literacy programme. Through its Co-Curriculum, E-Cube, drama is a pedagogical tool deployed to equip pupils with the skills to communicate with confidence and sensitivity in cognizance of purpose, audience, context and culture.
+The school has a comprehensive instructional programme which is aligned to the English Language Syllabuses (ELS) of 2010 and 2020. The approaches in the STELLAR Pedagogic Framework have been delivered and implemented since 2008. In line with the learner outcomes of EL 2020, the department leverages effective questioning techniques to deepen pupils’ learning. Thinking routines are explicitly taught to guide pupils in their thought processes so as to develop sound reasoning and decision-making skills. Effective communication is one of the key foci of the department’s literacy programme. Through E-Cube, a co-curriculum initiative, drama is deployed to equip pupils with the skills to communicate with confidence and sensitivity, in cognizance of purpose, audience, context and culture.
 
 **KidzRead Programme** <br>
 This programme aims to promote reading and language development through the approaches advocated by STELLAR for a shared reading experience in the classroom.
@@ -19,10 +19,7 @@ The school works in collaboration with the National Library Board (NLB) under th
 
 Participating in the **‘Read for Books’** charity drive, pupils read purposefully for a worthy cause.
 
-<img src="/images/KidzRead.jpeg" 
-     style="width:%">
-**Read for Books @ KCPPS** <br>
-Link: [https://www.nationalreadingmovement.sg/readfest/readforbooks](https://www.nationalreadingmovement.sg/readfest/readforbooks)
+
 
 **Reading Support Programmes**<br>
 The **Learning Support Programme (LSP) and Reading Remediation Programmes (RRP)** develop pupils' foundational reading skills through phonemic awareness, word attack strategies and extensive reading. In partnership with volunteers from the Standard Chartered Bank, the school has arranged for additional support for reluctant readers under the KCPPS-StanChart Reading Programme since 2013.
