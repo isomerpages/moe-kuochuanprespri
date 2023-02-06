@@ -17,6 +17,7 @@ Our Applied Learning Programme (ALP), E-Cube, leverages inquiry-based learning t
 
 **Readers Theatre: Fight Against Communicable Diseases: Zika**
 
+![](/images/Save%20the%20Animals_new.jpeg)
 **Save the Animals, Save our Environment!**
 
 ![](/images/Championing%20a%20Worthy%20Cause%20on%20“Conservation”%20@%20KCPPS.jpg)
