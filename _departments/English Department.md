@@ -15,11 +15,7 @@ The school has a comprehensive instructional programme which is aligned to the E
 **KidzRead Programme** <br>
 This programme aims to promote reading and language development through the approaches advocated by STELLAR for a shared reading experience in the classroom.
 
-The school works in collaboration with the National Library Board (NLB) under the **Read@School Programme** to nurture reading among our pupils and cultivate a passion for reading for lifelong learning.
-
-Participating in the **‘Read for Books’** charity drive, pupils read purposefully for a worthy cause.
-
-
+The school works in collaboration with the National Library Board (NLB) under the **Read@School Programme** to nurture a love for reading among our pupils and cultivate a passion to read for lifelong learning.
 
 **Reading Support Programmes**<br>
 The **Learning Support Programme (LSP) and Reading Remediation Programmes (RRP)** develop pupils' foundational reading skills through phonemic awareness, word attack strategies and extensive reading. In partnership with volunteers from the Standard Chartered Bank, the school has arranged for additional support for reluctant readers under the KCPPS-StanChart Reading Programme since 2013.
