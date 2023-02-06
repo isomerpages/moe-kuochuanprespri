@@ -3,7 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /Signature-Programmes/ALP/
 description: ""
 ---
-### **Applied Learning Programme (ALP) − Engage Excite Express (E-cube)**
+![](/images/Readers%20Theatre%20Fight%20Against%20Zika.jpg)### **Applied Learning Programme (ALP) − Engage Excite Express (E-cube)**
 
 Our Applied Learning Programme (ALP), E-Cube, leverages inquiry-based learning to arouse in our pupils a sense of curiosity about the world and inculcate in them a sense of civic-mindedness to ‘advocate’ for a worthy cause on  environmental issues. Engaged and guided, pupils make self-discovery to enrich their learning as they carry out research on local and global issues that impact the environment. Through drama, pupils express their thoughts and learning as they read in chorus and play out their skits. What is unique about ALP is that the pupils co-write the scripts for their performances with their teachers! Such pupil-centric approaches allow for pupils to draw learning from multimodal sources and apply them in real world contexts. By encouraging pupils to give back to the society with their ‘voices’ as advocates of conservation and sustainability, KCPPians have the platform and opportunity to share one of the school's values "Amazing Love" with all.
 
@@ -14,7 +14,7 @@ Our Applied Learning Programme (ALP), E-Cube, leverages inquiry-based learning t
 
 **'Little Heroes, Big Footprints': Love Food Waste Not**
 
-
+![]()
 **Readers Theatre: Fight Against Communicable Diseases: Zika**
 
 ![](/images/Save%20the%20Animals_new.jpeg)
