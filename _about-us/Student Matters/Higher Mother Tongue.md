@@ -36,14 +36,14 @@ This posting advantage applies before the tie-breakers for S1 posting. If multip
 *   The eligibility criteria for taking HMTL is intended to ensure that students can cope with the higher academic load, and takes reference from the current criteria.
 
 **Eligibility criteria for Secondary School HMTL**:
-   
-	* PSLE Score of **8 or better**
 
-       OR
-
-	*  PSLE Score of 9 to 14 inclusive; **and** attain
-
-		*  AL1 / AL2 in MTL **or**
-		*   Distinction / Merit in HMTL
-
-*   For students who do not meet the above criteria, secondary schools will continue to have the flexibility to offer HMTL to students, if they are assessed to have high ability and interest in MTL and are able to take HMTL without affecting their performance in other subjects.
+    * PSLE score of 8 or better
+	  
+		OR
+		
+		* PSLE Score of 9 to 14 inclusive;
+		   and attain 
+       - AL1 / AL2 in MTL or
+			 - Distinction / Merit in HMTL
+			 
+ *   For students who do not meet the above criteria, secondary schools will continue to have the flexibility to offer HMTL to students, if they are assessed to have high ability and interest in MTL and are able to take HMTL without affecting their performance in other subjects.
