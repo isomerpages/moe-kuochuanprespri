@@ -11,10 +11,11 @@ Our Applied Learning Programme (ALP), E-Cube, leverages inquiry-based learning t
 ![](/images/Say%20NO%20to%20Plastic_new.jpeg)
 **'Little Heroes, Big Footprints': Say NO to Plastic! Save Marine Life!**
 
-
+![](/images/P2%20Love%20Food%20Waste%20Not.jpg)<br>
+![](/images/Love%20Food%20Waste%20Not.jpg)
 **'Little Heroes, Big Footprints': Love Food Waste Not**
 
-![]()
+![](/images/Zika.jpeg)
 **Readers Theatre: Fight Against Communicable Diseases: Zika**
 
 ![](/images/Save%20the%20Animals_new.jpeg)
@@ -25,19 +26,3 @@ Our Applied Learning Programme (ALP), E-Cube, leverages inquiry-based learning t
 
 ![](/images/Our%20Voice%20on%20“Sustainability”%20Sustainable%20Agriculture%20For%20A%20Better%20Future.jpg)
 **Our Voice on "Sustainability": Sustainable Agriculture for a Better Future**
-
-![](/images/alp%201.jpg)
-
-![](/images/alp%202.jpg)
-
-<img src="/images/alp%203.jpg" 
-     style="width:65%">
-
-<img src="/images/alp%204.jpg" 
-     style="width:65%">
-		 
-<img src="/images/alp%205.jpg" 
-     style="width:65%">
-		 
-<img src="/images/alp%206.jpg" 
-     style="width:65%">
