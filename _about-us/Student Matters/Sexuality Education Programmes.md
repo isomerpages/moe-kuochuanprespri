@@ -49,6 +49,15 @@ PRIMARY 5
 |
 
 ##### **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
+PRIMARY 6
+
+
+
+|CCE(FTGP) THEME|LESSON TITLE / DURATION|LESSON OVERVIEW|TIME PERIOD (e.g. Term 1 Week 2)|
+| -------- | -------- | -------- | ------ |
+|Growing Years|Are We More than Friends?<br>Lesson 1<br>(60 min)|In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.|  Text  |
+| Text     | Text     | Text     |  Text  |
+| Text     | Text     | Text     |  Text  |
 
 PRIMARY 6
 | CCE(FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD (e.g. Term 1 Week 2)|
