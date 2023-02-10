@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Sports and Games**
 
-| CCA | Teachers In-charge | Venue |
+|CCA | Teachers In-charge | Venue |
 |:---:|:---:|:---:|
 |  Artistic Gymnastics | Ms Monica Heng<br>Ms Chew Jia Yi<br>Ms Sim Pueh Gek | KCPPS Hall Of Faith |
 | Badminton | Ms Yao Hai Ping<br>Ms Patience Leong Ying Ai<br>Ms Pow Chen Xian<br>Mdm Stpal Kaur | KCPPS Indoor Sports Hall |
