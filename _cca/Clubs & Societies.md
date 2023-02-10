@@ -7,9 +7,9 @@ description: ""
 
 |       CCA       |                        Teachers In-charge                        |        Venue       |
 |:---------------:|:----------------------------------------------------------------:|:------------------:|
-|     Eco Club    |   Mdm Nurulhana Bte Salim<br>  Mr Joshua Lim  |       <br>Science Lab      |
-| Mind Games Club | Mdm April Chew<br> Mdm Agnes Pang<br> Mdm Suzana Bte Kamsir | <br>Level 3 classrooms |
-|  New Media Club |             Mr Mohammed Nuraimi Osman<br>  Ms Ong Tan Fong           |    Computer Lab    |
+|     Eco Club    |   Mdm Nurulhana Bte Salim<br>  Mr Joshua Lim  |       Science Lab      |
+| Mind Games Club | Mdm April Chew<br> Mdm Agnes Pang<br> Mdm Suzana Bte Kamsir | Level 3 classrooms |
+|  New Media Club |             Mr Mohammed Nuraimi Osman<br>  Ms Ong Tan Fong           |   Computer Lab    |
 
 **Eco Club**  
 
