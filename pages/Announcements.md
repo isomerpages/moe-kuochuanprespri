@@ -13,4 +13,4 @@ description: ""
 
 #### Letter to Parents		 
 27-01-23<br>
-A copy of the latest Letter to Parents has been sent via the Parents Gateway app. Please email us at [kcpps@moe.edu.sg](mailto:kcpps@moe.edu.sg) if you have issues accessing.  
+A copy of the latest Letter to Parents has been sent via the Parents Gateway app. Please email us at [kcpps@moe.edu.sg](mailto:kcpps@moe.edu.sg) if you have issues accessing.
