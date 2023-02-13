@@ -7,11 +7,11 @@ third_nav_title: History and Heritage
 ### **Our Story**
 
 <img src="/images/ourstory%201.gif" 
-     style="width:35%" align=left>
+     style="width:45%" align=left>
 <img src="/images/ourstory%202.gif" 
-     style="width:35%" align=left>
+     style="width:45%" align=left>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 In 1924, two Christian Ministers, the Reverend Tay Sek Tin and the Reverend Tan Leng Tian, who saw the need to provide a school which would also serve as an evangelistic centre, founded Katong Girls' School at 1 Joo Chiat Terrace. It had a modest enrolment of 11 pupils, both boys and girls. English and Chinese classes were conducted.
 
