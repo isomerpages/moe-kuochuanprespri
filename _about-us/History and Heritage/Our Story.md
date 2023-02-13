@@ -7,9 +7,9 @@ third_nav_title: History and Heritage
 ### **Our Story**
 
 <img src="/images/ourstory%201.gif" 
-     style="width:50%" align=left>
+     style="width:40%" align=left>
 <img src="/images/ourstory%202.gif" 
-     style="width:50%" align=left>
+     style="width:40%" align=left>
 
 <br><br><br><br><br><br>
 
