@@ -10,6 +10,3 @@ The school works closely with Living Praise Presbyterian Church to instill Chris
 
 During devotions and Values Education lessons, the pupils enjoy a fun time of songs and interesting Bible stories which also relate to the school’s character values.
 
-#### **Recess Engagement**
-The chaplaincy team also comes alongside our pupils during recess to interact and befriend them to support their emotional well being.
-
