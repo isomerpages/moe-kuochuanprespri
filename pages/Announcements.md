@@ -5,10 +5,11 @@ description: ""
 ---
 ### Announcements
 
-<img src="/images/Announcements.jpg" 
-     style="width:35%" align=left>
-		 
-<br><br><br><br><br><br>
+![](/images/A%20new%20season%20to%20flourish%20banner.png)
+
+#### Parent Volunteer (PV) Scheme
+**(for eligibility of 2025 P1 Registration Exercise)**
+<br>Application for KCPPS PV Scheme for children born in 2019 will be open in January 20. For more information, please contact us at 62595396 or email: kcpps@moe.edu.sg.
 
 #### Letter to Parents		 
 29-07-22<br>
