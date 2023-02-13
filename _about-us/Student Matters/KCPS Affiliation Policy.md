@@ -13,14 +13,6 @@ The affiliation policy has fostered a strong culture of camaraderie and belongin
 
 *   indicate KCPSS as their first choice at Secondary 1 Posting
 
-The table below shows the AMR and indicative PSLE Score ranges for KCPSS:
-
-| Course | Affiliate Minimum Requirement (AMR) | Indicative PSLE Score Ranges for KCPSS |  |
-|:---:|:---:|:---:|:---:|
-|  |  | Affiliated | Non-Affiliated |
-|  Express |  20 | 11 - 20 |  8 - 13 |
-|  Normal (Academic) |  25 |  21 - 25 |  21 - 24 |
-|
 
 [Click here for any updated information on PSLE score ranges](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=kuo-chuan-presbyterian-secondary-school)
 
