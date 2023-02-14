@@ -34,42 +34,21 @@ Students can take a mix of standard and foundation subjects through SBB at P5 an
 
 #### **What are the subject combinations available?**
 
-| If your child (at the end of P4) | Your child may be recommended to take |
-|:---:|:---:|
-| Passes all 4 subjects (English, Mathematics, Science and Mother Tongue Language), and performs very well in Mother Tongue Language |  4 standard subjects + Higher Mother Tongue Language |
-|  Passes all 4 subjects     |  4 standard subjects |
-|  Passes 3 subjects |  4 standard subjects |
-|  Passes 2 subjects or fewer |  4 standard subjects; or<br> 3 standard subjects + 1 foundation subject; or<br> 1 standard subject + 3 other foundation subjects; or<br> 4 foundation subjects  |
-|
+* English Language
+* Mother Tongue Language
+* Mathematics
+* Science
 
-#### **How does Subject-based Banding Work?**
+Higher Mother Tongue Language may also be offered if your child passes 4 subjects and does very well for Mother Tongue Language.
 
-| P4 |
-|---|
-| **Your child sits for school-based examinations at P4**<br>School recommends a subject combination based on the student's results. Parents fill up an option form (given after the P4 final year exams) indicating preferred combination.  |
+Students who pass 2 subjects or less will be offered the following choices:
+* 4 standard subjects
+* 3 standard subjects + 1 foundation subject
+* 2 standard subjects + 2 foundation subject
+* 4 foundation subjects
 
-| P5 |
-|---|
-| **Your chid takes subject combination chosen by parents** <br>English, Mathematics, Science and Mother Tongue Language are available at standard and foundation levels. Mother Tongue is also available at the higher level. |
-|
-
-|At the end of P5  |  |  |
-|---|---|---|
-| **Takes 1 or more foundation subjects (s) and does very well in the subject(s)**<br> | **Takes standard subjects and has difficulty coping** | **All other children** |
-| School may allow him to upgrade 1 or 2 subjects to standard level if school believes he can cope; or continue the same combination in P6 | School may allow him to take 1 or more subjects at foundation level in P6 | School will allow them to continue the same subject combination in P6 
-|
-
-|At P6  |
-|---|
-| Your child takes subject combination decided by school
-|
-
-|**At the end of P6**  |
-|---|
-| Your child sits for the Primary School Leaving Examination (PSLE)
-|
+Taking subjects at the foundation level is not a disadvantage for your child. It will help them to build up the fundamentals for the subjects and better prepare them for the progression to secondary school.
 
 #### **Where can I find more information on secondary school courses?**
 More information on secondary school courses can be found at MOE website
 [https://www.moe.gov.sg/secondary/courses](https://www.moe.gov.sg/secondary/courses)
-
