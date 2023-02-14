@@ -52,3 +52,5 @@ Taking subjects at the foundation level is not a disadvantage for your child. It
 #### **Where can I find more information on secondary school courses?**
 More information on secondary school courses can be found at MOE website
 [https://www.moe.gov.sg/secondary/courses](https://www.moe.gov.sg/secondary/courses)
+
+For more information on full SBB in secondary schools, please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
