@@ -1,0 +1,13 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Department.md
+      - Mathematics Department.md
+      - Science Department.md
+      - Mother Tongue.md
+      - Aesthetic Department.md
+      - Physical Education.md
+      - ICT & MRL.md
+      - CCE Department.md
+      - Discipline and Student Leadership.md

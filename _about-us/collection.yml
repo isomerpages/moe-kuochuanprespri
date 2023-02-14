@@ -1,0 +1,30 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - History and Heritage/Our Story.md
+      - History and Heritage/Our Crest.md
+      - History and Heritage/Our School Song.md
+      - History and Heritage/Our Motto.md
+      - History and Heritage/.keep
+      - Vision, Mission and Values.md
+      - Philosophy, Culture and Ethos.md
+      - School Rules.md
+      - Staff Directory/Executive Committee.md
+      - Staff Directory/Teaching Staff.md
+      - Staff Directory/Non teaching Staff.md
+      - Staff Directory/.keep
+      - General Information/School Hours.md
+      - General Information/School Calender.md
+      - General Information/School Map.md
+      - General Information/Vendors.md
+      - General Information/.keep
+      - Corporate Information.md
+      - Student Matters/Direct School Admission.md
+      - Student Matters/Higher Mother Tongue.md
+      - Student Matters/KCPS Affiliation Policy.md
+      - Student Matters/Sexuality Education Programmes.md
+      - Student Matters/Subject Based Banding.md
+      - Student Matters/.keep
+      - FAQ.md
