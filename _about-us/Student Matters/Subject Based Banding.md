@@ -4,27 +4,35 @@ permalink: /about-us/Student-Matters/subject-based-banding/
 description: ""
 third_nav_title: Student Matters
 ---
-### **Subject-based Banding**
+### **Subject-based banding for primary school**
 
-#### **What is Subject-based Banding?**
-Subject-based Banding provides greater flexibility for your child by offering him the option of a combination of standard and foundation subjects, depending on his strengths.
+#### **What is Subject-based banding for primary school?**
+Subject-based banding (SBB) gives your child the opportunity to take a combination of subjects at standard and foundation levels based on their strengths. Learn how it works and how to prepare your child.
+<br><br>
+Students can take a mix of standard and foundation subjects through SBB at P5 and P6. This would allow your child to:
+* Stretch their potential in subjects they are strong in.
+* Build up their understanding in subjects they need more with.
 
-Such a choice will allow your child to focus on and stretch his potential in the subjects that he is strong in while building up the fundamentals in the subjects that he needs more support in.
+#### **How does SBB work??**
+**Primary 4**
+<br>
+* Your child sits for the school exams.
+* School recommends a subject combination based on their exam results at the end of the year.
+* You will need to fill up an option form to indicate your child's preferred subject combination.
 
-#### **Why introduce Subject-based Banding?**
-*   To recognise the different abilities of students and give them greater flexibility to concentrate on the subjects they are good at.
-*   To encourage more interaction among students with different strengths.
+**Primary 5**
+<br>
+* Your child takes their preferred subject combination.
+* School assesses their child's ability to cope with the subjects at the end of the year.
+* Adjustments to the subject levels are made if needed.
 
-#### **Subject-based Banding and Secondary School admission: How are they related?**
-Progression to secondary level depends on your child's PSLE score. The different expectations of standard and foundation subjects will be taken into account when your child's PSLE score is calculated.
+**Primary 6**
+<br>
+* Your child takes the subject combination recommended by the school and sits for the Primary School Leaving School Examination (PSLE).
+* Your child's progression to secondary level depends on their PSLE results.
+* If your child excels in certain subjects, they can pursue higher level options in secondary school.
 
-Previously, students from EM3 stream would mostly enter the Normal (Technical) course at secondary level.
-
-With Subject-based Banding, some students with clear strengths in some areas are able to offer at least one subject at the standard level. If they excel in these subjects, they will then have the opportunity to pursue higher-level options at secondary school.
-
-Offering subjects at the foundation level is not a disadvantage to your child. It enables him to focus on building up strong fundamentals in these subjects and better prepares him for progression to secondary school.
-
-#### **What are some choices available?**
+#### **What are the subject combinations available?**
 
 | If your child (at the end of P4) | Your child may be recommended to take |
 |:---:|:---:|
@@ -65,6 +73,3 @@ Offering subjects at the foundation level is not a disadvantage to your child. I
 More information on secondary school courses can be found at MOE website
 [https://www.moe.gov.sg/secondary/courses](https://www.moe.gov.sg/secondary/courses)
 
-#### **Where can I find more information on SBB?**
-Please refer to SBB factsheets distributed to Primary 4 pupils & information at MOE Internet website
-[https://www.moe.gov.sg/primary/curriculum/subject-based-banding/](https://www.moe.gov.sg/primary/curriculum/subject-based-banding/)
