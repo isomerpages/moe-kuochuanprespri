@@ -643,25 +643,25 @@ In 2022, the SYF Arts Presentation was held to provide our pupils with the oppor
 | **JAVIS ONG YIN HENG (4B)**   | Concert Band - Flexible Band     | 
 | **CHAN SI JIE DARYL (4C)**   | Concert Band - Flexible Band     | 
 | **ALDRICH YEO YU FENG (4C)**   | Concert Band - Flexible Band     | 
-| **CHARISSA PUAH 4C**   | Concert Band - Flexible Band     | 
-| **HEIDI CHEN 4D**   | Concert Band - Flexible Band     | 
-| **CHER HAO YI 4D**   | Concert Band - Flexible Band     | 
-| **YEO ECLAIRE 4D**   | Concert Band - Flexible Band     | 
-| **POH PIN WEI,ILIAS 4D**   | Concert Band - Flexible Band     | 
-| **WONG GUAN YU 4D**   | Concert Band - Flexible Band     | 
-| **AW KAI LE BENJAMIN 4E**   | Concert Band - Flexible Band     | 
-| **JERNELLE CHONG YU XUAN 4E**   | Concert Band - Flexible Band     | 
-| **ANUSHASHREE SARAVANAKUMAR 4F**   | Concert Band - Flexible Band     | 
-| **MEGUMI KATAOKA 4F**   | Concert Band - Flexible Band     | 
-| **WOON JAYNE RU 4F**   | Concert Band - Flexible Band     | 
-| **ANG JUNZE 5A**   | Concert Band - Flexible Band     | 
-| **RAFAEL GREGORY OEMARU 5B**   | Concert Band - Flexible Band     | 
-| **JADEN EE JIE REN 5B**   | Concert Band - Flexible Band     | 
-| **VINCENT CHEN 5B**   | Concert Band - Flexible Band     | 
-| **CHU ZIHAN 5B**   | Concert Band - Flexible Band     | 
-| **SEE EU JANE 5C**  | Concert Band - Flexible Band     | 
-| **ERLENE KOH KAI XIN 5D**   | Concert Band - Flexible Band     | 
-|**CAVINE CHONG NAM FENG 5D**   | Concert Band - Flexible Band     | 
+| **CHARISSA PUAH (4C)**   | Concert Band - Flexible Band     | 
+| **HEIDI CHEN (4D)**   | Concert Band - Flexible Band     | 
+| **CHER HAO YI (4D)**   | Concert Band - Flexible Band     | 
+| **YEO ECLAIRE (4D)**   | Concert Band - Flexible Band     | 
+| **POH PIN WEI,ILIAS (4D)**   | Concert Band - Flexible Band     | 
+| **WONG GUAN YU (4D)**   | Concert Band - Flexible Band     | 
+| **AW KAI LE BENJAMIN (4E)**   | Concert Band - Flexible Band     | 
+| **JERNELLE CHONG YU XUAN (4E)**   | Concert Band - Flexible Band     | 
+| **ANUSHASHREE SARAVANAKUMAR (4F)**   | Concert Band - Flexible Band     | 
+| **MEGUMI KATAOKA (4F)**   | Concert Band - Flexible Band     | 
+| **WOON JAYNE RU (4F)**   | Concert Band - Flexible Band     | 
+| **ANG JUNZE (5A)**   | Concert Band - Flexible Band     | 
+| **RAFAEL GREGORY OEMARU (5B)**   | Concert Band - Flexible Band     | 
+| **JADEN EE JIE REN (5B)**   | Concert Band - Flexible Band     | 
+| **VINCENT CHEN (5B)**   | Concert Band - Flexible Band     | 
+| **CHU ZIHAN (5B)**   | Concert Band - Flexible Band     | 
+| **SEE EU JANE (5C)**  | Concert Band - Flexible Band     | 
+| **ERLENE KOH KAI XIN (5D)**   | Concert Band - Flexible Band     | 
+|**CAVINE CHONG NAM FENG (5D)**   | Concert Band - Flexible Band     | 
 | **SOPHIA CHRISSABELLE SUDJONO (5E)**   | Concert Band - Flexible Band     | 
 | **ANG XIN YI CHELSEA (5F)**   | Concert Band - Flexible Band     | 
 | **KANG XIN YU ELOISE (5F)**   | Concert Band - Flexible Band     | 
