@@ -578,71 +578,71 @@ In 2022, the SYF Arts Presentation was held to provide our pupils with the oppor
 
 |  |  |
 | -------- | -------- |
-| **HAYLEY MAGHERRA 5A**     | Chinese Dance     | 
-| **TYE ENG KEE TANIA 5B**     | Chinese Dance    | 
-| **SASHA TAN RUIXI 5B**     |Chinese Dance     | 
-| **KARYN FONG YI XUAN 5D**     | Chinese Dance     | 
-| **MAGGIE LIU MINQI 5D**     | Chinese Dance     | 
-| **GRACELYNN GAN YUN EN 5F**   | Chinese Dance     | 
-| **GRACE PHANG HUI EN 5G**     | Chinese Dance     | 
-| **JACQUELINE TEO HUI EN 5G**     | Chinese Dance     | 
-| **ZHANG YUYAN 5G**     | Chinese Dance     | 
-| **CHARLOTTE CHEW JEN EE 6B**     | Chinese Dance     | 
-| **KWAN YU LIN 6B**     | Chinese Dance     | 
-| **WANG WENXIN 6C**     | Chinese Dance     | 
-| **CHEW LI TING, JONELLE 6D**    | Chinese Dance     | 
-| **LEE ZHI WEI  6D**    | Chinese Dance     | 
-|  **CHEW XIN YING MEGAN 6F**    | Chinese Dance     | 
-| **FAITH LEE KAI XIN  6F**     | Chinese Dance     | 
-| **LEE GA ON	 6F**     | Chinese Dance     | 
-| **YAP SZE YAH DAPHNE 6F**    | Chinese Dance     | 
-| **ALEXA DHARMAWAN CHUA 6G**    | Chinese Dance     | 
-| **NUR FADILAH BINTE ABDULLAH 3A**     | Choir     | 
-| **NUR QASHRINA BINTE MUHAMMAD FADHIL 3A**    | Choir     | 
-| **AW MIN HUI, HEATHER 3B**   | Choir     | 
-| **SIEW XUAN RU FAITH 3B**     | Choir     | 
-| **YAP QI LE, SOPHIE 3C**     | Choir     | 
-| **KAYLIN ANNABELLE CENDRA 3E**     | Choir     | 
-| **LIM ENXI ESTHER 3E**     | Choir     | 
-| **YEOW KAI NING 3E**     | Choir     | 
-| **TEY YUN YIN MELINDA 3F**     | Choir     | 
-| **ANGELINA OH 4A**     | Choir     | 
-| **CHNG JUN RU, ELIZABETH 4A**     | Choir     | 
-| **JOLENE CHONG YI HAN 4B**     | Choir     | 
-| **PHUA XUAN HUI, NATALIE 4B**     | Choir     | 
-| **SKYLAR TAN SHING RU 4B**     | Choir     | 
-| **HUMAIRA CHARIF 4C**     | Choir     | 
-| **ONG CHEN XI 4D**     | Choir     | 
-| **ANG SHI'EN 4F**     | Choir     | 
-| **LIM RUI EN ELEANOR 4E**     | Choir     | 
-| **LIM SYNNE 4F**     | Choir     | 
-| **TAN SU-ANN 4F**     | Choir     | 
-| **ELIZABETH ARABELLE LIM 5A**    | Choir     | 
-| **PHOON ZHI YA LEAN 5A**     | Choir     | 
-| **JOVIANNE CHUA LE XIN 5C**     | Choir     | 
-| **CHEN KAI XIN 5D**     | Choir     | 
-| **EMMA FOO HUI HAN 5D**     | Choir     | 
-| **ANG YU XUAN STELLA 5E**     | Choir     | 
-| **ARMUGAM ALVEROLYN BAUTISTA 5E**     | Choir     | 
-| **AVA TAN KEXIN 5E**     | Choir     | 
-| **SIM XIN YU 5E**     | Choir     | 
-| **SAMANTHA YEO 5F**     | Choir     | 
-| **YNESSA LOH XUAN EN 5F**     | Choir     | 
-| **LEONG LE YI 5G**     | Choir     | 
-| **NIKAASHKUMAR S/O SARAVANAKUMAR 3B**     | Concert Band - Percussion Ensemble     | 
-| **LAM WING YAN GRACE 3C**     | Concert Band - Percussion Ensemble     | 
-| **CHARISSA PUAH 4C**     | Concert Band - Percussion Ensemble     | 
-| **WONG GUAN YU 4D**| Concert Band - Percussion Ensemble     | 
-| **WOON JAYNE RU 4F**     | Concert Band - Percussion Ensemble     | 
-| **SEE EU JANE 5C**    | Concert Band - Percussion Ensemble     | 
-| **SOPHIA CHRISSABELLE SUDJONO 5E**     | Concert Band - Percussion Ensemble     | 
-| **HENG WEI EN, CHARISSE 5G**     | Concert Band - Percussion Ensemble     | 
-| **NIKAASHKUMAR S/O SARAVANAKUMAR 3B**   | Concert Band - Flexible Band     | 
-| **LAM WING YAN GRACE 3C**   | Concert Band - Flexible Band     | 
-| **KAYSON CHEW GUAN YAN 3D**   | Concert Band - Flexible Band     | 
-| **JAVIS ONG YIN HENG 4B**   | Concert Band - Flexible Band     | 
-| **CHAN SI JIE DARYL 4C**   | Concert Band - Flexible Band     | 
-| **ALDRICH YEO YU FENG 4C**   | Concert Band - Flexible Band     | 
+| **HAYLEY MAGHERRA (5A)**     | Chinese Dance     | 
+| **TYE ENG KEE TANIA (5B)**     | Chinese Dance    | 
+| **SASHA TAN RUIXI (5B)**     |Chinese Dance     | 
+| **KARYN FONG YI XUAN (5D)**     | Chinese Dance     | 
+| **MAGGIE LIU MINQI (5D)**     | Chinese Dance     | 
+| **GRACELYNN GAN YUN EN (5F)**   | Chinese Dance     | 
+| **GRACE PHANG HUI EN (5G)**     | Chinese Dance     | 
+| **JACQUELINE TEO HUI EN (5G)**     | Chinese Dance     | 
+| **ZHANG YUYAN (5G)**     | Chinese Dance     | 
+| **CHARLOTTE CHEW JEN EE (6B)**     | Chinese Dance     | 
+| **KWAN YU LIN (6B)**     | Chinese Dance     | 
+| **WANG WENXIN (6C)**     | Chinese Dance     | 
+| **CHEW LI TING, JONELLE (6D)**    | Chinese Dance     | 
+| **LEE ZHI WEI  (6D)**    | Chinese Dance     | 
+|  **CHEW XIN YING MEGAN (6F)**    | Chinese Dance     | 
+| **FAITH LEE KAI XIN  (6F)**     | Chinese Dance     | 
+| **LEE GA ON	 (6F)**     | Chinese Dance     | 
+| **YAP SZE YAH DAPHNE (6F)**    | Chinese Dance     | 
+| **ALEXA DHARMAWAN CHUA (6G)**    | Chinese Dance     | 
+| **NUR FADILAH BINTE ABDULLAH (3A)**     | Choir     | 
+| **NUR QASHRINA BINTE MUHAMMAD FADHIL (3A)**    | Choir     | 
+| **AW MIN HUI, HEATHER (3B)**   | Choir     | 
+| **SIEW XUAN RU FAITH (3B)**     | Choir     | 
+| **YAP QI LE, SOPHIE (3C)**     | Choir     | 
+| **KAYLIN ANNABELLE CENDRA (3E)**     | Choir     | 
+| **LIM ENXI ESTHER (3E)**     | Choir     | 
+| **YEOW KAI NING (3E)**     | Choir     | 
+| **TEY YUN YIN MELINDA (3F)**     | Choir     | 
+| **ANGELINA OH (4A)**     | Choir     | 
+| **CHNG JUN RU, ELIZABETH (4A)**     | Choir     | 
+| **JOLENE CHONG YI HAN (4B)**     | Choir     | 
+| **PHUA XUAN HUI, NATALIE (4B)**     | Choir     | 
+| **SKYLAR TAN SHING RU (4B)**     | Choir     | 
+| **HUMAIRA CHARIF (4C)**     | Choir     | 
+| **ONG CHEN XI (4D)**     | Choir     | 
+| **ANG SHI'EN (4F)**     | Choir     | 
+| **LIM RUI EN ELEANOR (4E)**     | Choir     | 
+| **LIM SYNNE (4F)**     | Choir     | 
+| **TAN SU-ANN (4F)**     | Choir     | 
+| **ELIZABETH ARABELLE LIM (5A)**    | Choir     | 
+| **PHOON ZHI YA LEAN (5A)**     | Choir     | 
+| **JOVIANNE CHUA LE XIN (5C)**     | Choir     | 
+| **CHEN KAI XIN (5D)**     | Choir     | 
+| **EMMA FOO HUI HAN (5D)**     | Choir     | 
+| **ANG YU XUAN STELLA (5E)**     | Choir     | 
+| **ARMUGAM ALVEROLYN BAUTISTA (5E)**     | Choir     | 
+| **AVA TAN KEXIN (5E)**     | Choir     | 
+| **SIM XIN YU (5E)**     | Choir     | 
+| **SAMANTHA YEO (5F)**     | Choir     | 
+| **YNESSA LOH XUAN EN (5F)**     | Choir     | 
+| **LEONG LE YI (5G)**     | Choir     | 
+| **NIKAASHKUMAR S/O SARAVANAKUMAR (3B)**     | Concert Band - Percussion Ensemble     | 
+| **LAM WING YAN GRACE (3C)**     | Concert Band - Percussion Ensemble     | 
+| **CHARISSA PUAH (4C)**     | Concert Band - Percussion Ensemble     | 
+| **WONG GUAN YU (4D)**| Concert Band - Percussion Ensemble     | 
+| **WOON JAYNE RU (4F)**     | Concert Band - Percussion Ensemble     | 
+| **SEE EU JANE (5C)**    | Concert Band - Percussion Ensemble     | 
+| **SOPHIA CHRISSABELLE SUDJONO (5E)**     | Concert Band - Percussion Ensemble     | 
+| **HENG WEI EN, CHARISSE (5G)**     | Concert Band - Percussion Ensemble     | 
+| **NIKAASHKUMAR S/O SARAVANAKUMAR (3B)**   | Concert Band - Flexible Band     | 
+| **LAM WING YAN GRACE (3C)**   | Concert Band - Flexible Band     | 
+| **KAYSON CHEW GUAN YAN (3D)**   | Concert Band - Flexible Band     | 
+| **JAVIS ONG YIN HENG (4B)**   | Concert Band - Flexible Band     | 
+| **CHAN SI JIE DARYL (4C)**   | Concert Band - Flexible Band     | 
+| **ALDRICH YEO YU FENG (4C)**   | Concert Band - Flexible Band     | 
 | **CHARISSA PUAH 4C**   | Concert Band - Flexible Band     | 
 | **HEIDI CHEN 4D**   | Concert Band - Flexible Band     | 
 | **CHER HAO YI 4D**   | Concert Band - Flexible Band     | 
@@ -662,28 +662,28 @@ In 2022, the SYF Arts Presentation was held to provide our pupils with the oppor
 | **SEE EU JANE 5C**  | Concert Band - Flexible Band     | 
 | **ERLENE KOH KAI XIN 5D**   | Concert Band - Flexible Band     | 
 |**CAVINE CHONG NAM FENG 5D**   | Concert Band - Flexible Band     | 
-| **SOPHIA CHRISSABELLE SUDJONO 5E**   | Concert Band - Flexible Band     | 
-| **ANG XIN YI CHELSEA 5F**   | Concert Band - Flexible Band     | 
-| **KANG XIN YU ELOISE 5F**   | Concert Band - Flexible Band     | 
-| **ELLIOT KEK 5F**   | Concert Band - Flexible Band     | 
-| **RAINE LI LOK WING 5F**   | Concert Band - Flexible Band     | 
-| **SOPHIA HENG YEE SHUANN 5G**   | Concert Band - Flexible Band     | 
-| **CHEN YIXUAN 5G**   | Concert Band - Flexible Band     | 
+| **SOPHIA CHRISSABELLE SUDJONO (5E)**   | Concert Band - Flexible Band     | 
+| **ANG XIN YI CHELSEA (5F)**   | Concert Band - Flexible Band     | 
+| **KANG XIN YU ELOISE (5F)**   | Concert Band - Flexible Band     | 
+| **ELLIOT KEK (5F)**   | Concert Band - Flexible Band     | 
+| **RAINE LI LOK WING (5F)**   | Concert Band - Flexible Band     | 
+| **SOPHIA HENG YEE SHUANN (5G)**   | Concert Band - Flexible Band     | 
+| **CHEN YIXUAN (5G)**   | Concert Band - Flexible Band     | 
 | **HENG WEI EN, CHARISSE**   | Concert Band - Flexible Band     |
-| **CHEN ZHEYU 5A**   | GUITAR ENSEMBLE     |
-| **JAIRUS TEO 5B**   | GUITAR ENSEMBLE     |
-| **KEITH LIM 5B**  | GUITAR ENSEMBLE     |
-| **KRISLEY TAN 5D**   | GUITAR ENSEMBLE     |
-| **KEITH EMMANUEL 5E**   | GUITAR ENSEMBLE     |
-| **JAYDEN HONG 5F**   | GUITAR ENSEMBLE     |
-| **ANNABELLE SOH 5F**   | GUITAR ENSEMBLE     |
-| **CHIN JUN HAO 5G**   | GUITAR ENSEMBLE     |
-| **ELIEZER TONG 6A**   | GUITAR ENSEMBLE     |
-| **EANN KOH 6B**   | GUITAR ENSEMBLE     |
-| **PRITIKA DHEVI 6B**   | GUITAR ENSEMBLE     |
-| **CANA YU 6D**   | GUITAR ENSEMBLE     |
-| **HANAE KATAOKA 6D**   | GUITAR ENSEMBLE     |
-| **JACEY TAN 6D**   | GUITAR ENSEMBLE     |
+| **CHEN ZHEYU (5A)**   | GUITAR ENSEMBLE     |
+| **JAIRUS TEO (5B)**   | GUITAR ENSEMBLE     |
+| **KEITH LIM (5B)**  | GUITAR ENSEMBLE     |
+| **KRISLEY TAN (5D)**   | GUITAR ENSEMBLE     |
+| **KEITH EMMANUEL (5E)**   | GUITAR ENSEMBLE     |
+| **JAYDEN HONG (5F)**   | GUITAR ENSEMBLE     |
+| **ANNABELLE SOH (5F)**   | GUITAR ENSEMBLE     |
+| **CHIN JUN HAO (5G)**   | GUITAR ENSEMBLE     |
+| **ELIEZER TONG (6A)**   | GUITAR ENSEMBLE     |
+| **EANN KOH (6B)**   | GUITAR ENSEMBLE     |
+| **PRITIKA DHEVI (6B)**   | GUITAR ENSEMBLE     |
+| **CANA YU (6D)**   | GUITAR ENSEMBLE     |
+| **HANAE KATAOKA (6D)**   | GUITAR ENSEMBLE     |
+| **JACEY TAN (6D)**   | GUITAR ENSEMBLE     |
 
 **15th Singapore Open Artistic Swimming Championship 2021**  
 
