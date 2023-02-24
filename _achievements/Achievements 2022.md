@@ -669,7 +669,7 @@ In 2022, the SYF Arts Presentation was held to provide our pupils with the oppor
 | **RAINE LI LOK WING (5F)**   | Concert Band - Flexible Band     | 
 | **SOPHIA HENG YEE SHUANN (5G)**   | Concert Band - Flexible Band     | 
 | **CHEN YIXUAN (5G)**   | Concert Band - Flexible Band     | 
-| **HENG WEI EN, CHARISSE**   | Concert Band - Flexible Band     |
+| **HENG WEI EN, CHARISSE (5G)**   | Concert Band - Flexible Band     |
 | **CHEN ZHEYU (5A)**   | GUITAR ENSEMBLE     |
 | **JAIRUS TEO (5B)**   | GUITAR ENSEMBLE     |
 | **KEITH LIM (5B)**  | GUITAR ENSEMBLE     |
