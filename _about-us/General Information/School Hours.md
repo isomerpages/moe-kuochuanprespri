@@ -36,8 +36,8 @@ Mornings: <br>
 Daily: 6:30 a.m. – 7:30 a.m. 
 
 Dismissal times: <br>
-Mondays: 1:20 p.m. to 2:00 p.m., 3:15 p.m. to 3:45 p.m.<br>
-Tuesdays: 1:20 p.m. to 2:00 p.m.<br>
-Wednesdays: 1:20 p.m. to 2:00 p.m., 3:15 p.m. to 3:45 p.m.<br>
-Thursdays: 1:20 p.m. to 2:00 p.m., 4:00 p.m. to 4:30 p.m.<br>
-Fridays: 1:20 p.m. to 2:00 p.m.
+Mondays: 1:30 p.m. to 2:00 p.m., 3:15 p.m. to 3:45 p.m.<br>
+Tuesdays: 1:30 p.m. to 2:00 p.m.<br>
+Wednesdays: 1:30 p.m. to 2:00 p.m., 3:15 p.m. to 3:45 p.m.<br>
+Thursdays: 1:30 p.m. to 2:00 p.m., 4:00 p.m. to 4:30 p.m.<br>
+Fridays: 1:30 p.m. to 2:00 p.m.
