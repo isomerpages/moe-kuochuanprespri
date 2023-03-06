@@ -10,7 +10,7 @@ description: ""
 |  Artistic Gymnastics | Ms Monica Heng<br>Ms Chew Jia Yi<br>Ms Sim Pueh Gek | KCPPS Hall Of Faith |
 | Badminton | Ms Yao Hai Ping<br>Ms Patience Leong Ying Ai<br>Ms Pow Chen Xian<br>Mdm Stpal Kaur | KCPPS Indoor Sports Hall |
 | Basketball | Mr Lim Chee Kng<br>Mr Phua Ze Yong<br>Mr Ang Gan Jie<br>Mdm Harunnisha d/o Muhd Jamaludeen | KCPPS Basketball Court |
-| Football | Mr Najib Kunyalee<br>Mr Sathiamoorthi<br>Ms Ng Shi Hui<br>Ms Angeline Ang | School Field |
+| Football | Mr Mohd Najib Bin Mohidu Kunyalee<br>Mr Sathiamoorthi<br>Ms Ng Shi Hui<br>Ms Angeline Ang | School Field |
 | Rope Skipping | Mdm Kam Ee Ling<br>Mdm Ong Wee Chyun<br>Mrs Eveline Yeo<br>Mdm Nurulhana Bte Salim | PAC |
 | Swimming | Ms Sherry Tan<br>Ms Mahalingam Kanagheswari<br>Mdm Valiamay D/O Sathiah | Bishan Swimming Complex |
 | Table Tennis | Mdm Tan Shih Pin<br>Mr Jensen Lee<br>Ms Toh Bin Bin<br>Mdm Jumaina Bte Aman | KCPPS Hall of Faith |
