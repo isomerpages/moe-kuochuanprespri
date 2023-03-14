@@ -12,5 +12,5 @@ description: ""
 <br>Application for KCPPS PV Scheme for children born in 2019 will be open in January 2024. For more information, please contact us at 62595396 or email: kcpps@moe.edu.sg.
 
 #### Letter to Parents		 
-27-01-23<br>
+24-02-23<br>
 A copy of the latest Letter to Parents has been sent via the Parents Gateway app. Please email us at [kcpps@moe.edu.sg](mailto:kcpps@moe.edu.sg) if you have issues accessing.
