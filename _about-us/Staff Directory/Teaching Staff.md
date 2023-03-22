@@ -25,7 +25,7 @@ third_nav_title: Staff Directory
 | Mdm Ong Hui Hui<br>Mrs Eveline Yeo | 1 Agape |
 | Mdm Lee Lay Hoon<br>Ms Monica Heng  | 1 Brilliance  |
 | Mdm Choo Boon Hiong <br>Mdm Ong Wee Chyun   | 1 Courage |
-| Mdm Tracia Ho<br>Ms Chew Jia Yi | 1 Diligence |
+| Mr Kong Chee Meng<br>Ms Chew Jia Yi | 1 Diligence |
 | Ms Tan Pei Pei<br>Mdm Koh Xin Wei | 1 Excellence |
 | Ms Toh Bin Bin<br>Mrs Jolene Sze Toh | 1 Faith |
 | Mdm Lee Soo Wah<br>Ms Chia Hui Ning | 1 Grace |
@@ -80,7 +80,7 @@ third_nav_title: Staff Directory
 | Mdm Ng Lenni<br>Mr Goh Khong Lim | 5 Brilliance |
 | Mrs Eugenie Yeoh<br>Mr Mohd Najib bin Mohidu Kunyalee | 5 Courage |
 | Mr Manson Yip<br>Mdm See Su Ying Eunice  | 5 Diligence  |
-| Ms Gu Tong<br>Mdm Kerstin Wong Kai Xin | 5 Excellence |
+| Ms Christina Wong<br>Mdm Kerstin Wong Kai Xin | 5 Excellence |
 | Mdm Balasundram Priya Lisa <br>Mdm Koh Cheng Yeen   | 5 Faith |
 | Mdm Agnes Pang<br>Mr Sathiamoorthi | 5 Grace |
 |
@@ -90,7 +90,7 @@ third_nav_title: Staff Directory
 | Name | Class |
 |---|---|
 | Mr Phua Ze Yong <br>Mdm Chong Li Chen | 6 Agape |
-| Mr Ang Gan Jie  | 6 Brilliance |
+| Mr Ang Gan Jie<br>Mdm Kong Yin Han Esther  | 6 Brilliance |
 | Mr Koh Tee Gay<br>Mdm Tay Hui Phing  | 6 Courage |
 | Ms Chee Jing Wei Joyce <br>Mdm Suhana Abdul Hamid | 6 Diligence         |
 | Mdm Tan Gim Hoon <br>Mdm Valiamay D/O Sathiah  | 6 Excellence |
@@ -108,7 +108,6 @@ third_nav_title: Staff Directory
 | Mdm Kok Chooi Peng | Chinese Language Teacher  |
 | Ms Lee Choon Yen Joy | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
-| Mdm Kong Yin Han Esther | Chinese Language Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 | Ms Wong Siow Lai | Mathematics & Social Studies Teacher  |
 | Mdm Jessica Tan Mei Shi | English Language & Music Teacher  |
