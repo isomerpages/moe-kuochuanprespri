@@ -26,7 +26,7 @@ third_nav_title: Staff Directory
 | Mdm Choo Poh Ling  | Allied Educator (Teaching & Learning) |
 | Ms Lee Yew Kheng Adelina  | Allied Educator (Learning & Behavioural Support) |
 | Mr Sacil Lorenz Jed Carpio | Desktop Engineer |
-| Ms Nur'Ain Binte Juma'In | Desktop Engineer |
+| Mr Jegan Sukumaran | Desktop Engineer |
 | Ms Margaret Tan Lee Gek | Library Assistant |
 | Mdm Pritam Saraswathi | Operations Support Officer |
 | Mdm Low Lian Huay | Operations Support Officer |
