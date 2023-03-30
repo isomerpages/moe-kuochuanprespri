@@ -3,7 +3,7 @@ title: Achievements 2022
 permalink: /achievements-2022/Overview/
 description: ""
 ---
-### **Achievements 2022**
+### **2022**
 
 **International Science Drama Competition 2022**
 
