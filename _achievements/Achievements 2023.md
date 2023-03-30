@@ -57,4 +57,29 @@ The Junior Brigader Brooch (JBB) is the highest award that a primary school girl
 |**Tiffany Chan Jing Xuan**	|**6 Faith**
 |**Chew An Rui Stacey**|**6 Grace**
 |**Grace Phang Hui En**|**6 Grace**
+|
 
+**Girls’ Brigade Junior Leadership Training Camp (GB JLTC)**
+
+The GB JLTC is a national camp aimed to equip girls with relevant knowledge and skills to lead confidently. The camp provides the experiential learning for girls to build character, courage and resilience. This year, parents were also invited to participate in the game segment organised by the girls and be involved in the promotion ceremony.
+
+We are proud to announce that 14 girls from the 28th (P) Girls’ Brigade have successfully completed the JLTC and are officially appointed as Junior Leaders. We would like to thank parents of the girls for their participation in the camp.
+
+
+
+| Name | Class 
+| -------- | -------- 
+| **Zelyn Yeo Xin Ying**     | **5 Agape** |
+|**Khoo Rui Qi, Sophie**|	**5 Courage**
+|**Lee Yi Chen**|	**5 Courage**
+|**Hannah Ng Qi Xin**|	**5 Diligence**
+|**Kaitlyn Khong Kai Lin**|	**5 Diligence**
+|**Kwan Yu Yun**|	**5 Diligence**
+|**Sabrynna Quinn Tjandra**|	**5 Diligence**
+|**Skylar Tan Shing Ru**|	**5 Diligence**
+|**Faith Loo Sze Qi**|	**5 Excellence**
+|**Koh Zi Qi**|	**5 Excellence**
+|**Tan Le-Ann**|	**5 Excellence**
+|**Desnia Leong Ruishan**	|**5 Grace**
+|**Wong Chien Yieng Sophie**|	**5 Grace**
+|
