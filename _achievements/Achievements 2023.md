@@ -39,4 +39,22 @@ We are delighted to share that **Roanne Wong (6 Brilliance 2022)** was awarded t
 
 The 28th (P) GB Company has recently been awarded the Gold Company Award. This award is presented to companies based on their programmes, activities and badges achieved by the girls. This is a testament of the great team effort by the officers, teachers, girls and parents. We would like to take this opportunity to thank all parents for their love and support over the past year.
 
+**Girls’ Brigade Junior Brigader Brooch Awards 2022**
+
+The Junior Brigader Brooch (JBB) is the highest award that a primary school girl can attain. It is awarded to girls with a sense of responsibility, outstanding character and leadership qualities. The girls prepared their personal portfolio and reflected on their GB journey. We are pleased to announce that 10 of our Junior Leaders will be receiving this award. Congratulations, girls! We are very proud of you!
+
+
+
+| Name| Class |
+| -------- | -------- | 
+| **Wong Sum Wai, Jenny**     | **6 Agape**|
+|**Janessa Fong Rui Min**|	**6 Brilliance**
+|**Kaelyn Tan En Qi**|	**6 Brilliance**
+|**Koh Yong Wei Janelle**	|**6 Brilliance**
+|**Ho Wen Xuan Eva**|**6 Courage**
+|**Karyn Fong Yi Xuan**|	**6 Diligence**
+|**Kang Xin Yu Eloise**|	**6 Faith**
+|**Tiffany Chan Jing Xuan**	|**6 Faith**
+|**Chew An Rui Stacey**|**6 Grace**
+|**Grace Phang Hui En**|**6 Grace**
 
