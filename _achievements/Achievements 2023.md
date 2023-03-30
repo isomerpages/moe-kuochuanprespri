@@ -13,3 +13,4 @@ This year’s topics are:<br>
 • Topic 2: The "AI" Around Me / The Present And Future Of AI (主题二: 我身边的“人工智能”/ 人工智能的现在与未来) where participants lead us to open the door between the virtual world and the real world, and share the "AI" situation they have seen, felt, and foreseen.
 
 Congratulations to the following pupils for their achievements in the Preliminary Round!
+
