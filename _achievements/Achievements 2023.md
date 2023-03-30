@@ -34,3 +34,9 @@ Congratulations to the following pupils for their achievements in the Preliminar
 Organised by Singapore Young Writers Press, the National English Writing Competition (NEW-C) is an on-the-spot writing competition for children between 8 to 12 years old to promote works by children, for children. Through this competition and the publication of the entries, the organisation hopes to inspire children to believe that it is possible to write good stories under time constraints when they see their peers doing so. In addition, they will also benefit from reading quality works. The competition also serves to recognise and encourage budding talents. 
 
 We are delighted to share that **Roanne Wong (6 Brilliance 2022)** was awarded the **1st Prize** for Category 2 (Primary 5 and Primary 6). Congratulations to her!
+
+**Girls’ Brigade (GB) Company Award 2022**
+
+The 28th (P) GB Company has recently been awarded the Gold Company Award. This award is presented to companies based on their programmes, activities and badges achieved by the girls. This is a testament of the great team effort by the officers, teachers, girls and parents. We would like to take this opportunity to thank all parents for their love and support over the past year.
+
+
