@@ -83,3 +83,15 @@ We are proud to announce that 14 girls from the 28th (P) Girls’ Brigade have s
 |**Desnia Leong Ruishan**	|**5 Grace**
 |**Wong Chien Yieng Sophie**|	**5 Grace**
 |
+
+**11th Singapore Inter-Schools Diving Championships 2023**
+
+The championships were held from Sat 04 Mar to Sun 05 Mar. We are delighted to share the following outstanding results. Well done, pupils!
+
+
+
+| **Level 2 Junior Boys 1m Springboard** | **Micah Tan Derui (2F)** |**4th position** |
+| -------- | -------- | -------- |
+| **Level 2 Junior Girls 1m Springboard**   | **Milla Tan Ruiqi (2F)**    | **4th position**     |
+|
+
