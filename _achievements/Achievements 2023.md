@@ -94,4 +94,3 @@ The championships were held from Sat 04 Mar to Sun 05 Mar. We are delighted to s
 | -------- | -------- | -------- |
 | **Level 2 Junior Girls 1m Springboard**   | **Milla Tan Ruiqi (2F)**    | **4th position**     |
 |
-
