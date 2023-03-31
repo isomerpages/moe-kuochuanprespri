@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Achievements 2023**
 
-**14th GoodTalk (Global Village) International Children & Youth Bilingual Speech Conference<br>第14届 GoodTalk(地球村)国际青少年双语演讲大会**
+**14th GoodTalk (Global Village) International Children &amp; Youth Bilingual Speech Conference<br>第14届 GoodTalk(地球村)国际青少年双语演讲大会**
 
 The objectives of the conference are to promote the understanding and appreciation of the language and culture of the pupil participants from Singapore and China. In addition, the conference aims to support the Speak Mandarin Campaign in Singapore. Participants in Singapore could learn to converse and express themselves in the Chinese language.
 This year’s topics are:<br>
