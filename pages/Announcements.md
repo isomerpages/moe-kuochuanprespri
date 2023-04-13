@@ -13,7 +13,7 @@ A copy of the latest Letter to Parents has been sent via the Parents Gateway app
 
 #### E-Learning Day
 E-Learning Day falls on 14 April 2023, Friday. Pupils do not need to report to school and will be given tasks to complete on that day. The tasks will be a combination of online work via SLS and hardcopy assignments. Please refer to the attached document for the assignments.
-[2023 April 14 E-Learning Plan]()
+[2023 April E-Learning Assignment](https://drive.google.com/file/d/1GrZc60XnAv6UIjFZMoUTBD6yC_DrqcwN/view?usp=sharing)
 
 **Technical Support**<br>
 **School Operating Hours**
