@@ -12,8 +12,8 @@ description: ""
 A copy of the latest Letter to Parents has been sent via the Parents Gateway app. Please email us at [kcpps@moe.edu.sg](mailto:kcpps@moe.edu.sg) if you have issues accessing.
 
 #### E-Learning Day
-E-Learning Day falls on 14 April 2023, Friday. Pupils do not need to report to school and will be given tasks to complete on that day. The tasks will be a combination of online work via SLS and hardcopy assignments. Please refer to the attached document for the assignments.
-[2023 April E-Learning Assignment](https://drive.google.com/file/d/1GrZc60XnAv6UIjFZMoUTBD6yC_DrqcwN/view?usp=sharing)
+E-Learning Day falls on 12 May 2023, Friday. Pupils do not need to report to school and will be given tasks to complete on that day. The tasks will be a combination of online work via SLS and hardcopy assignments. Please refer to the attached document for the assignments.
+[2023 May E-Learning Assignment](https://drive.google.com/file/d/1T5S7v-pBVv9-c23-3PRZPEAEAmtf2uF6/view?usp=sharing)
 
 **Technical Support**<br>
 **School Operating Hours**
