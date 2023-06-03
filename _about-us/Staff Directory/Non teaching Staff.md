@@ -13,7 +13,7 @@ third_nav_title: Staff Directory
 | Mr Lum Sow Loon | Operations Manager |
 | Mdm May Ng | Admin Executive |
 | Ms Pramela | Admin Executive |
-| Mr Ronnie Kuek | ICT Associate |
+| Mr Ronnie Kuek | ICT Manager |
 | Mdm Teresa Choong | Corporate Support Officer |
 | Mdm Surini Samsudin | Corporate Support Officer |
 |
@@ -25,6 +25,8 @@ third_nav_title: Staff Directory
 | Mdm Soh Ai Bee  | Senior School Counsellor |
 | Mdm Choo Poh Ling  | Allied Educator (Teaching & Learning) |
 | Ms Lee Yew Kheng Adelina  | Allied Educator (Learning & Behavioural Support) |
+|Noorjahan d/o Sikander Batcha|Special Educational Needs Officer|
+|Ms Usha Devi d/o Chelliah Rajindran| Special Educational Needs Officer|
 | Mr Sacil Lorenz Jed Carpio | Desktop Engineer |
 | Mr Jegan Sukumaran | Desktop Engineer |
 | Ms Margaret Tan Lee Gek | Library Assistant |
