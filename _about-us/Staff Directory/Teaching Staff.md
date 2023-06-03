@@ -56,7 +56,7 @@ third_nav_title: Staff Directory
 | Mdm Junaina Bte Leman <br>Ms Thye Tzy Huoy| 3 Courage   |
 | Ms Kanagheswari<br>Mdm Chew Hwee Joo (Mrs Michelle Ng) | 3 Diligence  |
 | Mdm April Chew <br>Mdm Lim Fung Hwee | 3 Excellence  |
-| Mdm Tan Seo Pheng<br>Mdm Yew Seok Chun Lynn<br> | 3 Faith  |
+| Mdm Tan Seo Pheng<br>Mdm&nbsp;Yew Seok Chun Lynn<br> | 3 Faith  |
 |
 
 ##### Primary 4
@@ -104,12 +104,11 @@ third_nav_title: Staff Directory
 |---|---|
 | Mdm Lee Soo Wah | English Language Teacher  |
 | Mdm Goh Siew Tee | Chinese Language Teacher |
-| Mdm Cong Fang | Chinese Language Teacher  |
 | Mdm Kok Chooi Peng | Chinese Language Teacher  |
 | Ms Lee Choon Yen Joy | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
-| Ms Wong Siow Lai | Mathematics & Social Studies Teacher  |
-| Mdm Jessica Tan Mei Shi | English Language & Music Teacher  |
+| Ms Wong Siow Lai | Mathematics &amp; Social Studies Teacher  |
+| Mdm Jessica Tan Mei Shi | English Language &amp; Music Teacher  |
 | Mr Tan Swee Meng James | Physical Education Teacher
 |
