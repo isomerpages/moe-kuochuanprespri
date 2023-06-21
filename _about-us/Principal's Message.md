@@ -31,7 +31,7 @@ I am certain that as a big Kuo Chuan community, so long as we stay strong, stay 
 
 To God be the Glory!   
 
-Blessings! <br> 
+Blessings! <br> <br>
 
 Mrs Yee-Toh Gek Khiaw<br>
 Principal<br>
