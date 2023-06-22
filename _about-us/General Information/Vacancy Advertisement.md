@@ -8,7 +8,7 @@ third_nav_title: General Information
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Stall 6: Malay Stall     | 31 May 2023     | Malay Cuisine (Halal)  |
+| Stall 6: Malay Stall     | 31 July 2023     | Malay Cuisine (Halal)  |
 
 
 **Application Procedure**
@@ -29,9 +29,7 @@ third_nav_title: General Information
 * Email: kcpps@moe.edu.sg
 * Contact Person: Mr David Toh
 
-**How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance
+
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
