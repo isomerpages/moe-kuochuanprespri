@@ -25,7 +25,7 @@ third_nav_title: Staff Directory
 | Mdm Ong Hui Hui<br>Mrs Eveline Yeo | 1 Agape |
 | Mdm Lee Lay Hoon<br>Ms Monica Heng  | 1 Brilliance  |
 | Mdm Choo Boon Hiong <br>Mdm Ong Wee Chyun   | 1 Courage |
-| Mr Kong Chee Meng<br>Ms Chew Jia Yi | 1 Diligence |
+| Mdm Tracia Ho<br>Ms Chew Jia Yi | 1 Diligence |
 | Ms Tan Pei Pei<br>Mdm Koh Xin Wei | 1 Excellence |
 | Ms Toh Bin Bin<br>Mrs Jolene Sze Toh | 1 Faith |
 | Mdm Lee Soo Wah<br>Ms Chia Hui Ning | 1 Grace |
@@ -103,12 +103,13 @@ third_nav_title: Staff Directory
 | Name | Designation |
 |---|---|
 | Mdm Lee Soo Wah | English Language Teacher  |
+| Mr Tan Chin Saeng Vernon| English Language Teacher|
 | Mdm Goh Siew Tee | Chinese Language Teacher |
 | Mdm Kok Chooi Peng | Chinese Language Teacher  |
 | Ms Lee Choon Yen Joy | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
+| Mdm Koh Yi Guan Patricia| Chinese Language Teacher|
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
-| Ms Wong Siow Lai | Mathematics &amp; Social Studies Teacher  |
 | Mdm Jessica Tan Mei Shi | English Language &amp; Music Teacher  |
 | Mr Tan Swee Meng James | Physical Education Teacher
 |
