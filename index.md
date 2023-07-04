@@ -15,7 +15,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcement/
-        - title: School Calender
+        - title: School Calendar
           description: ""
           url: https://calendar.google.com/calendar/u/0/embed?src=kuochuanpri@gmail.com&ctz=Asia/Singapore
         - title: Parents Gateway

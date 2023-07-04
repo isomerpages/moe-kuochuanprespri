@@ -40,10 +40,10 @@ third_nav_title: Staff Directory
 | Ms Sherry Tan Sock Miang<br>Ms Patience Leong | 2 Brilliance |
 | Ms Ong Xuan<br>Mdm Jumaina Binte Aman | 2 Courage |
 | Mdm Nurulhana Bte Salim<br>Mdm Chua Yeong Joo Cynthia | 2 Diligence |
-| Mrs Wong Siew Hwee<br>Mdm Tay Hui Peng Bernie | 2 Excellence |
+| Mrs Wong Siew Hwee<br>Ms Tay Hui Peng Bernie | 2 Excellence |
 | Ms Sukanya Ramanan<br>Mdm Veronica Ho | 2 Faith |
 | Mdm Rasheedah Bte Mohd Jin <br> Mdm Tan Shih Pin | 2 Grace |
-| Mdm Linda Tan<br>Mdm Chng Hui Lin Jacqueline | 2 Hope |
+| Mdm Linda Tan<br>Ms Chng Hui Lin Jacqueline | 2 Hope |
 |
 
 ##### **Middle Primary**
