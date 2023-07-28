@@ -46,3 +46,42 @@ third_nav_title: General Information
 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
+
+        
+
+#### School Bus Advertisement
+
+To apply, please refer to the Service Requirements and the Application Procedure below.
+
+**Service Requirements**
+
+1.           [Call for Proposal[](/files/kcpps%20call%20for%20proposal%20annex%20a%20july%202023.pdf)]
+
+2.           [Agreement for Appointment of School Bus Operator]
+
+**Application Procedure**
+
+1\. Complete the \[Call for Proposal - Annex A\]
+
+2\. Submit the completed Call for Proposal – Annex A by closing date, 15 August 2023[\[SYS(4\]](#_msocom_4) , to the School’s General Office.
+
+\* Address: xxxx S737777
+
+\* Contact No: 6666 4444
+
+\* Email: abc\_ps@moe.edu.sg
+
+\* Contact Person: Mdm Sally Tan
+
+
+* * *
+
+ [\[AK(1\]](#_msoanchor_1)School to upload PDF here
+
+ [\[AK(2\]](#_msoanchor_2)School to upload PDF here
+
+ [\[AK(3\]](#_msoanchor_3)School to upload PDF here
+
+ [\[SYS(4\]](#_msoanchor_4)School to update Closing Date
+
+ [\[AK(5\]](#_msoanchor_5)School to update details
