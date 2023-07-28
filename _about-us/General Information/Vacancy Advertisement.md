@@ -8,7 +8,7 @@ third_nav_title: General Information
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Stall 6: Malay Stall     | 31 July 2023     | Malay Cuisine (Halal)  |
+| Stall 6: Malay Stall     | 31 August 2023     | Malay Cuisine (Halal)  |
 
 
 **Application Procedure**
@@ -46,3 +46,31 @@ third_nav_title: General Information
 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
+
+        
+
+#### School Bus Advertisement
+
+To apply, please refer to the Service Requirements and the Application Procedure below.
+
+**Service Requirements**
+
+ 
+1.           [[Call for Proposal](/files/kcpps%20call%20for%20proposals%20july%202023.pdf)]
+
+2.           [[Agreement for Appointment of School Bus Operator](/files/kcpps%20agreement%20for%20appointment%20of%20school%20bus%20operator%20july%202023.pdf)]
+
+**Application Procedure**
+
+1. Complete the [[Call for Proposal - Annex A](/files/kcpps%20call%20for%20proposal%20annex%20a%20july%202023.pdf)]
+
+2. Submit the completed Call for Proposal – Annex A by closing date, 15 August 2023, to the School’s General Office.
+
+
+* Address: 8 Bishan Street 13 Singapore 579793
+* Contact No: [+65 6259 5396](tel:+6562595396)
+* Email: kcpps@moe.edu.sg
+* Contact Person: Mr David Toh
+
+
+* * *
