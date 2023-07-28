@@ -56,7 +56,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Service Requirements**
 
  
-1.           [[Call for Proposal](/files/kcpps%20call%20for%20proposals%20july%202023.pdf)]
+1.           [[Call for Proposal](/files/kcpps%20call%20for%20proposal%20annex%20a%20july%202023%20updated.pdf)]
 
 2.           [[Agreement for Appointment of School Bus Operator](/files/kcpps%20agreement%20for%20appointment%20of%20school%20bus%20operator%20july%202023.pdf)]
 
