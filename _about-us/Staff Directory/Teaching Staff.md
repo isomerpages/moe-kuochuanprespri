@@ -112,4 +112,6 @@ third_nav_title: Staff Directory
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 | Mdm Jessica Tan Mei Shi | English Language &amp; Music Teacher  |
 | Mr Tan Swee Meng James | Physical Education Teacher
-|
+| Mdm Chung Hui Yee | Physical Education Teacher
+| Mr Marcus Lim Jun Hong | Physical Education Teacher
+| Ms Chong Mei | Physical Education Teacher
