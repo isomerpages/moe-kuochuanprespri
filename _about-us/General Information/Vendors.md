@@ -12,17 +12,8 @@ Operating hours : Monday to Friday, 8:30 a.m. to 3 p.m.<br>
 (No transactions with parents will be allowed during pupils' recesses from 9.45 a.m. - 10.45 a.m.
 
 #### **School Dental Clinic**
-Telephone : 6268 4356<br>
 
-Opening hours: <br>
-Monday, Wednesdays and Thursdays&nbsp; 8 a.m. to 1 p.m. &amp; 2 p.m. to 5:30 p.m.<br>
-Fridays 8 a.m. to 1 p.m. &amp; 2 p.m. to 5 p.m.<br>
-First appointment is at 8:40 a.m.<br>
-Last appointment is at 4 p.m.<br>
-
-For dental emergencies on other days, please contact Catholic High Primary School Dental Clinic at 87648243 for assistance.
-
-Clinic operating days are subject to change. Please call to make an appointment before proceeding to the school dental clinic.
+For dental appointment please call or whatsapp 87648243 for assistance.
 
 #### **School Bus Operator**
 
