@@ -17,13 +17,22 @@ For dental appointment please call or whatsapp 87648243 for assistance.
 
 #### **School Bus Operator**
 
-Company : Loh Gim Chong Transport<br>
-Telephone : 6659 2318<br>
+Company : myBus Pte Ltd<br>
+Telephone : 6555 1716<br>
 Fax : 6659 2187<br>
 Mobile phone : 9437 8280 (Mr Loh Kian Meng)
 <br>
 email:&nbsp;[meng@mybus.com.sg](mailto:meng@mybus.com.sg)<br>
 Mobile phone : 9628 4743 (Mr Louis Loh) email:&nbsp;[louis@mybus.com.sg](mailto:louis@mybus.com.sg)
+
+**Bus fares applicable from 3 January 2024 to 31 December 2025:**
+     
+| Distance | Up to 15-seater | &nbsp; | \&gt;15-seater | &nbsp; |
+| --- | --- | --- | --- | --- |
+| &nbsp; | 1 way | 2 way | 1 way | 2 way |
+| Up to 2km | $200 | $320 | $90 | $120 |
+| \&gt;2 – 4km | $300 | $400 | $120 | $200 |
+
 
 #### **School Uniform Services**
 
