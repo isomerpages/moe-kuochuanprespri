@@ -10,3 +10,26 @@ description: ""
 #### Letter to Parents		 
 08-09-23<br>
 A copy of the latest Letter to Parents has been sent via the Parents Gateway app. Please email us at [kcpps@moe.edu.sg](mailto:kcpps@moe.edu.sg) if you have issues accessing.
+
+#### E-Learning Day (28 September 2023)
+
+Primary 3 pupils will be having their e-learning on 28 September (Thursday). Please click on the attached file for the e-learning day assignments. Pupils will be able to access the online assignments from 28 September, 7.00 a.m. onwards.
+
+Should you encounter any issues with SLS, you can contact the following helplines:
+
+School Based SLS Helpline
+Tel no: (65) 6259 5396
+Tel no: 6230 8571 (WhatsApp only)
+Email: ronnie_kuek_kia_wee@moe.edu.sg
+
+Operating hours:
+Mondays to Fridays: 8.00 a.m. – 4.00 p.m.
+
+SLS Helpdesk
+Tel no: (65) 6702 6513
+Email: helpdesk@sls.ufinity.com
+
+Operating hours: 
+Mondays to Fridays: 4.00 p.m. – 9.00 p.m.
+Saturdays: 9.00 a.m. – 3.00 p.m.
+* Closed on Sundays &amp; Public Holidays
