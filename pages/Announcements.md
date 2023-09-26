@@ -17,19 +17,19 @@ Primary 3 pupils will be having their e-learning on 28 September (Thursday). Ple
 
 Should you encounter any issues with SLS, you can contact the following helplines:
 
-School Based SLS Helpline
-Tel no: (65) 6259 5396
-Tel no: 6230 8571 (WhatsApp only)
+School Based SLS Helpline<br>
+Tel no: (65) 6259 5396<br>
+Tel no: 6230 8571 (WhatsApp only)<br>
 Email: ronnie_kuek_kia_wee@moe.edu.sg
 
-Operating hours:
+Operating hours:<br>
 Mondays to Fridays: 8.00 a.m. – 4.00 p.m.
 
-SLS Helpdesk
-Tel no: (65) 6702 6513
+SLS Helpdesk<br>
+Tel no: (65) 6702 6513<br>
 Email: helpdesk@sls.ufinity.com
 
-Operating hours: 
-Mondays to Fridays: 4.00 p.m. – 9.00 p.m.
-Saturdays: 9.00 a.m. – 3.00 p.m.
-* Closed on Sundays &amp; Public Holidays
+Operating hours: <br>
+Mondays to Fridays: 4.00 p.m. – 9.00 p.m.<br>
+Saturdays: 9.00 a.m. – 3.00 p.m.<br>
+Closed on Sundays &amp; Public Holidays
