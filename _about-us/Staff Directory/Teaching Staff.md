@@ -22,13 +22,13 @@ third_nav_title: Staff Directory
 
 | Name | Class |
 |---|---|
-| Mdm Ong Hui Hui<br>Mrs Eveline Yeo | 1 Agape |
+| Mdm Ong Hui Hui | 1 Agape |
 | Mdm Lee Lay Hoon<br>Ms Monica Heng  | 1 Brilliance  |
-| Mdm Choo Boon Hiong <br>Mdm Ong Wee Chyun   | 1 Courage |
+| Mdm Choo Boon Hiong    | 1 Courage |
 | Mdm Tracia Ho<br>Ms Chew Jia Yi | 1 Diligence |
 | Ms Tan Pei Pei<br>Mdm Koh Xin Wei | 1 Excellence |
 | Ms Toh Bin Bin<br>Mrs Jolene Sze Toh | 1 Faith |
-| Mdm Lee Soo Wah<br>Ms Chia Hui Ning | 1 Grace |
+| Mdm Lee Soo Wah<br>Mr Quek Yixian Timothy | 1 Grace |
 | Mdm Anna Shii<br>Mdm Kam Ee Ling | 1 Hope |
 |
 
@@ -37,7 +37,7 @@ third_nav_title: Staff Directory
 | Name | Class |
 |---|---|
 | Ms Sim Pueh Gek<br>Ms Ong Shi Han | 2 Agape |
-| Ms Sherry Tan Sock Miang<br>Ms Patience Leong | 2 Brilliance |
+| Ms Sherry Tan Sock Miang | 2 Brilliance |
 | Ms Ong Xuan<br>Mdm Jumaina Binte Aman | 2 Courage |
 | Mdm Nurulhana Bte Salim<br>Mdm Chua Yeong Joo Cynthia | 2 Diligence |
 | Mrs Wong Siew Hwee<br>Ms Tay Hui Peng Bernie | 2 Excellence |
@@ -68,7 +68,7 @@ third_nav_title: Staff Directory
 | Mdm Tang Shia Ling Shirley <br>Mdm Harunnisha d/o Mohd Jamaludeen  | 4 Courage |
 | Ms Angeline Ang<br>Mr Soo Gham Seng | 4 Diligence |
 | Mr Mohammed Nuraimi Osman<br>Ms Pow Chen Xian | 4 Excellence |
-| Ms Joanne Lim Hui Xiang<br>Mdm Jerena Lee  | 4 Faith
+| Mdm Jerena Lee  | 4 Faith
 |
 
 ##### **Upper Primary**
