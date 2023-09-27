@@ -13,7 +13,7 @@ A copy of the latest Letter to Parents has been sent via the Parents Gateway app
 
 #### E-Learning Day 
 
-Primary 3 and Primary 5 pupils will be having their e-learning on 28 September (Thursday) and 29 September (Friday) . Please click on the attached file for the e-learning day assignments. Pupils will be able to access the online assignments from 7.00 a.m. onwards.<br>
+Primary 3 and Primary 5 pupils will be having their e-learning on 28 September (Thursday) and 29 September (Friday) respectively. Please click on the attached file for the e-learning day assignments. Pupils will be able to access the online assignments from 7.00 a.m. onwards on the day of their e-learning.<br>
 [Click here for P3 e-learning plan](/files/p3%20e-learning%2028sep2023.pdf)<br>
 [Click here for P5 e-learning plan]()
 
