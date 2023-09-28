@@ -11,10 +11,11 @@ description: ""
 08-09-23<br>
 A copy of the latest Letter to Parents has been sent via the Parents Gateway app. Please email us at [kcpps@moe.edu.sg](mailto:kcpps@moe.edu.sg) if you have issues accessing.
 
-#### E-Learning Day (28 September 2023)
+#### E-Learning Day 
 
-Primary 3 pupils will be having their e-learning on 28 September (Thursday). Please click on the attached file for the e-learning day assignments. Pupils will be able to access the online assignments from 28 September, 7.00 a.m. onwards.<br>
-[Click here](/files/p3%20e-learning%2028sep2023.pdf)
+Primary 3 and Primary 5 pupils will be having their e-learning on 28 September (Thursday) and 29 September (Friday) respectively. Please click on the attached file for the e-learning day assignments. Pupils will be able to access the online assignments from 7.00 a.m. onwards on the day of their e-learning.<br>
+[Click here for P3 e-learning plan](/files/p3%20e-learning%2028sep2023.pdf)<br>
+[Click here for P5 e-learning plan](/files/p5%20e-learning%2029sep2023.pdf)
 
 Should you encounter any issues with SLS, you can contact the following helplines:
 
