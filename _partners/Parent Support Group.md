@@ -21,14 +21,17 @@ PSG Exco:
 
 Chairman: Mr Edward Lim<br>
 Vice-Chairman: Mdm Tang Simin<br>
-Treasurer: Mrs Doris Cheng<br>
-Secretary: Mrs Eileen Bean
+Secretary: Mrs Eileen Bean<br>
+Treasurer: Mrs Doris Cheng
 
   
 
 Members:<br>
+Mrs Lim Chion Ting<br>
+Mrs Valerie Ang<br>
 Mrs Poh Wai Leng<br>
-Mrs Valerie Ang  <br>
-Mrs Lim Chion Ting  <br>
-Mrs Pavithra<br>
-Ms Gisele Chen
+Mrs Gisele Lee<br>
+Mrs Pavithra d/o Subramaniam<br>
+Mrs Doris Shee<br>
+Mrs Tay Li Li<br>
+Mrs Carmen Wong
