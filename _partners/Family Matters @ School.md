@@ -9,6 +9,6 @@ The Family Matters@School (FMS) is supported by the Ministry of Social and Famil
 
 For KCPPS, TOUCH Community Services is our PSP.
 
-For information on Touch Community Services, please click [here](https://www.touch.org.sg/about-touch/our-services/touch-parenting-homepage).
+For information on Touch Community Services and Triple P, please click [here](https://www.touch.org.sg/about-touch/our-services/touch-parenting-homepage).
 
-For more information on MSF and Triple P, please click [here](https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Pages/Parenting.aspx).
+For more information on MSF, please click [here](https://www.msf.gov.sg).
