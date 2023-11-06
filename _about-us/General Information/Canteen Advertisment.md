@@ -3,12 +3,13 @@ title: Canteen Advertisment
 permalink: /about-us/general-information/canteen-advertisement/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Stall 6: Malay Stall     | 31 August 2023     | Malay Cuisine (Halal)  |
+| Stall 6: Malay Stall     | 31 December 2023     | Malay Cuisine (Halal)  |
 
 
 **Application Procedure**
