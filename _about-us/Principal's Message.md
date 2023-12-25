@@ -2,28 +2,27 @@
 title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
+variant: markdown
 ---
 <h3> Principal's Message</h3>
 
 <div class="container">
  <img src="/images/principal.jpg" style="width:60%; height:50%;"></div>
 
-<p class="text">Blessed Semester 2, 2023!  <br> <br>
+<p class="text">Blessed Year 2024!  <br> <br>
 
-We thank you (our beloved readers) for your interests in checking out our school website and in knowing KCPPS via this platform! Thank you also for reading my message. <br><br>
+We thank you (our beloved readers) for your interests in checking out our school website and in knowing KCPPS via this platform! Thank you also for reading my message. 
 
-We are now in the second half of 2023. As we continue to navigate the realities and changing landscape of the Endemic Phase, we are committed to continue to provide educational experiences for every pupil to support their health and safety, holistic growth, and wellbeing.<br><br>
+My staff and I are delighted to welcome all our pupils back to school. We are pleased to extend our warmest welcome to our new Primary 1 pupils and their families!
 
-We have earned a reputation of all-round excellence through the heartwork and hardwork of our pupils, staff, parents, Parent Support Group, Alumni, School Management Committee, and our community partners. We are proud to have a range of programmes to cater to the diverse interests and needs of our learners. We also take time to plan strategically, forge positive relationships, celebrate success (recognise both process and outcome), and foster a learning environment where our entire school community thrives. <br><br>
+We would like to wish our graduated Primary 6 pupils all the best as they move on to their secondary schools. They have done very well in the 2023 PSLE (with 100% passes). We praise God for His favour upon our school and for honouring the efforts put in by our pupils, staff and parents. 
 
-In our school, we integrate learning into many pedagogical experiences for our pupils. We make learning engaging and meaningful so that they see the connection between what they learn in the classroom and the relevance for application in the real world. We want our pupils to grow up with the right attitude for learning – being curious, able to problem solve creatively, work in collaboration and communicate effectively. Intentionally, our pupils are nurtured with emotions like empathy, compassion and joy. It is our endeavour to develop in them the inner strength and confidence to push themselves to achieve their goals in life. <br><br>
+It is our collective desire to see our pupils ARISE and shine! Be the future-ready citizens rooted in our ARISE values! It is also our vision for them to be “Lifelong Learners and Lifelong Pals”, having the passion to learn for life and forming deep meaningful relationships with those whom they cherish. The challenges that our young learners face in the future is unimaginable. These challenges may not be the same, hence, the need to learn to manage and lead change. We will continue to grow our capabilities and capacities as a school and help our learners to navigate confidently in the complex operating system.  
 
-This year, we celebrated our 99th Founders’ Day with the theme ‘Hope’. 
-Theme Verse: <em>“May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.” (Romans 15:13)</em><br>Last year, our theme was ‘Faith’, anchored by God’s faithfulness in our Kuo Chuan Presbyterian Schools. This year, we remind ourselves that we anchor our ‘Hope’ in the love of Jesus Christ always. As a Kuo Chuan family, we are grateful to God for his provision and blessings upon our school over the years and we look forward to the centennial next year!<br><br>
+As the Principal of our school, I am most privileged to be able to work with a team of collegial and dedicated staff who rally together to scale the school to greater heights. KCPPS has established itself as a loving and caring school that meets the holistic needs of our pupils. We focus on educating the whole person and we believe that every child is precious, can learn and will achieve. It takes a whole village to raise a child. We are grateful to have the whole community with us. Working in close partnership with The Presbyterian Church in Singapore, our School Management Committee, our anchor church Living Praise Presbyterian Church, Alumni, Parents, Parents Support Group and community partners, we are able to provide comprehensive support for our pupils. 
 
-I am privileged and honoured to have the opportunity to lead KCPPS – a school with such a rich heritage and tradition! We are a strong and vibrant school that pursues excellence in teaching and learning whilst nurturing the social and emotional competencies of our pupils to support them to become confident and resilient individuals. <br><br>
+2024 is our Centennial Year! Since our founding in 1924, the school has grown from strength to strength, from a humble beginning to becoming a school of choice today. This will be a time for our Kuo Chuan Presbyterian family to celebrate the many accomplishments and remember those who walked before us. God brings us through all seasons and we will continue to grow and move ahead nimbly and confidently on a strong foundation built over 100 years!
 
-I am certain that as a big Kuo Chuan community, so long as we stay strong, stay united, and stay resilient, we will find new meaning and purpose in our collaborative endeavours, and we will emerge a better school! <br><br>
 
 
  
@@ -36,8 +35,9 @@ Blessings! <br> <br>
 Mrs Yee-Toh Gek Khiaw<br>
 Principal<br>
 Kuo Chuan Presbyterian Primary School
+	
+![](/images/Updated_pic_for_P_s_message_2.jpg)
 
 
-<img src="/images/A%20new%20season%20to%20flourish%20banner.png">
 
-</p><p style="font-size:10px"><em>The school mural we brought back from the Ang Mo Kio holding site to Bishan.</em></p>
+</p>
