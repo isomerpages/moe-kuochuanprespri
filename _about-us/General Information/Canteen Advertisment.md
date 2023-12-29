@@ -9,7 +9,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Stall 6: Malay Stall     | 31 December 2023     | Malay Cuisine (Halal)  |
+| Stall 6: Malay Stall     | 31 January 2023     | Malay Cuisine (Halal)  |
 
 
 **Application Procedure**
