@@ -2,8 +2,18 @@
 title: For Parents
 permalink: /Forms/Links/For-Parents/
 description: ""
+variant: markdown
 ---
 ### **For Parents**
+
+#### **Principal's Letter to Parents**
+
+|  |  |
+|---|---|
+| 1. | [29 December 2023](/files/29_December_2023_Final.pdf)
+
+
+
 
 #### **Forms**
 
