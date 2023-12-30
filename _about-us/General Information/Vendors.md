@@ -3,6 +3,7 @@ title: Vendors
 permalink: /about-us/General-Information/vendors/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 ### **Vendors**
 #### **School Bookshop**
@@ -36,12 +37,7 @@ Mobile phone : 9628 4743 (Mr Louis Loh) email:&nbsp;[louis@mybus.com.sg](mailto:
 
 #### **School Uniform Services**
 
-Company : United Uniforms Manufacturers Pte Ltd<br>
-Telephone : 6353 0921<br>
-Fax : 6258 4239<br>Blk 168 Toa Payoh Lor 1, #01-1034 Singapore 310168<br>
+Company : My Uniform Shop Pte Ltd<br>
+Telephone : 62766689<br>
+Blk 209 New Upper Changi Road #03-651 Singapore 460209<br>
 
-Opening hours: <br>
-January to November: <br>
-Monday to Saturday 9 a.m. to 6.30 p.m.<br>
-December <br>
-9 a.m to 6.30 p.m (including public Holidays and Sundays)
