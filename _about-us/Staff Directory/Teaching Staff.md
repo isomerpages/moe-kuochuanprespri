@@ -3,6 +3,7 @@ title: Teaching Staff
 permalink: /about-us/Staff-Directory/teaching-staff/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 ### **Teaching Staff**
 #### **Lead/Senior Teachers**
@@ -22,28 +23,28 @@ third_nav_title: Staff Directory
 
 | Name | Class |
 |---|---|
-| Mdm Ong Hui Hui | 1 Agape |
-| Mdm Lee Lay Hoon<br>Ms Monica Heng  | 1 Brilliance  |
-| Mdm Choo Boon Hiong    | 1 Courage |
-| Mdm Tracia Ho<br>Ms Chew Jia Yi | 1 Diligence |
-| Ms Tan Pei Pei<br>Mdm Koh Xin Wei | 1 Excellence |
-| Ms Toh Bin Bin<br>Mrs Jolene Sze Toh | 1 Faith |
-| Mdm Lee Soo Wah<br>Mr Quek Yixian Timothy | 1 Grace |
-| Mdm Anna Shii<br>Mdm Kam Ee Ling | 1 Hope |
+| Ms Sherry Tan Sock Miang<br>Ms Monica Heng | 1 Agape |
+| Ms Sukanya Ramanan<br> Ms Chng Hui Lin Jacqueline | 1 Brilliance  |
+| Ms Sim Pueh Gek<br>Mrs Eveline Yeo    | 1 Courage |
+| Mdm Linda Tan<br> | 1 Diligence |
+| Mdm Jumaina Binte Aman<br>Ms Ong Xuan  | 1 Excellence |
+| Mdm Rasheedah Bte Mohd Jin <br>Ms Tay Hui Peng BernieMs Toh Bin Bin | 1 Faith |
+| Mdm Nurulhana Bte Salim<br>Mr Quek Yixian Timothy | 1 Grace |
+| Mrs Wong Siew Hwee<br>Mdm Chua Yeong Joo Cynthia | 1 Hope |
 |
 
 ##### Primary 2
 
 | Name | Class |
 |---|---|
-| Ms Sim Pueh Gek<br>Ms Ong Shi Han | 2 Agape |
-| Ms Sherry Tan Sock Miang | 2 Brilliance |
-| Ms Ong Xuan<br>Mdm Jumaina Binte Aman | 2 Courage |
-| Mdm Nurulhana Bte Salim<br>Mdm Chua Yeong Joo Cynthia | 2 Diligence |
-| Mrs Wong Siew Hwee<br>Ms Tay Hui Peng Bernie | 2 Excellence |
-| Ms Sukanya Ramanan<br>Mdm Veronica Ho | 2 Faith |
-| Mdm Rasheedah Bte Mohd Jin <br> Mdm Tan Shih Pin | 2 Grace |
-| Mdm Linda Tan<br>Ms Chng Hui Lin Jacqueline | 2 Hope |
+| Mdm Ong Hui Hui<br>Mrs Thong Hui Yee | 2 Agape |
+| Mdm Lee Lay Hoon<br>Ms Ong Shi Han | 2 Brilliance |
+|Mdm Zipporah Asha<br> Mdm Ong Wee Chyun | 2 Courage |
+| Mdm Tracia Ho<br>Ms Chew Jia Yi | 2 Diligence |
+| Ms Tan Pei Pei<br>Mdm Koh Xin Wei | 2 Excellence |
+| Ms Toh Bin Bin<br>Ms Joyce Tan Ser Yan | 2 Faith |
+| Ms Kayci Lim<br> Mdm Lee Soo Wah<br> | 2 Grace |
+| Mdm Anna Shii<br>Mdm Kam Ee Ling  | 2 Hope |
 |
 
 ##### **Middle Primary**
@@ -65,7 +66,7 @@ third_nav_title: Staff Directory
 |---|---|
 | Ms Christina Chang<br>Ms Tan Wei Yu Mindy | 4 Agape |
 | Ms Winnie Lee<br>Mdm Suzana Bte Kamsir | 4 Brilliance |
-| Mdm Tang Shia Ling Shirley <br>Mdm Harunnisha d/o Mohd Jamaludeen  | 4 Courage |
+| Mdm Tang Shia Ling Shirley <br>Mdm Harunnisha d/o Mohd Jamaludeen Mdm Tan Shih Pin | 4 Courage |
 | Ms Angeline Ang<br>Mr Soo Gham Seng | 4 Diligence |
 | Mr Mohammed Nuraimi Osman<br>Ms Pow Chen Xian | 4 Excellence |
 | Mdm Jerena Lee  | 4 Faith
@@ -90,11 +91,11 @@ third_nav_title: Staff Directory
 | Name | Class |
 |---|---|
 | Mr Phua Ze Yong <br>Mdm Chong Li Chen | 6 Agape |
-| Mr Ang Gan Jie<br>Mdm Kong Yin Han Esther  | 6 Brilliance |
+| Mr Ang Gan Jie<br>Mdm Kong Yin Han EstherMdm Veronica Ho<br>Mdm Choo Boon Hiong  | 6 Brilliance |
 | Mr Koh Tee Gay<br>Mdm Tay Hui Phing  | 6 Courage |
 | Ms Chee Jing Wei Joyce <br>Mdm Suhana Abdul Hamid | 6 Diligence         |
-| Mdm Tan Gim Hoon <br>Mdm Valiamay D/O Sathiah  | 6 Excellence |
-| Mdm Ong Shir Nee<br>Ms Joyce Tan Ser Yan | 6 Faith  |
+| Mdm Tan Gim Hoon <br>Mrs Jolene Sze TohMdm Valiamay D/O Sathiah  | 6 Excellence |
+| Mdm Ong Shir Nee<br> | 6 Faith  |
 | Mr Joshua Lim<br>Mr Goh Khong Lim | 6 Grace  |
 |
 
