@@ -108,6 +108,4 @@ variant: markdown
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
-| 
-| Mr Marcus Lim Jun Hong | Physical Education Teacher
-| Ms Chong Mei | Physical Education Teacher
+ |
