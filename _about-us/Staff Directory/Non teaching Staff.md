@@ -3,6 +3,7 @@ title: Non teaching Staff
 permalink: /about-us/Staff-Directory/non-teaching-staff/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 ### **Non-Teaching Staff**
 #### **Administrative Staff**
@@ -27,8 +28,8 @@ third_nav_title: Staff Directory
 | Ms Lee Yew Kheng Adelina  | Allied Educator (Learning & Behavioural Support) |
 |Noorjahan d/o Sikander Batcha|Special Educational Needs Officer|
 |Ms Usha Devi d/o Chelliah Rajindran| Special Educational Needs Officer|
-| Mr Sacil Lorenz Jed Carpio | Desktop Engineer |
-| Mr Jegan Sukumaran | Desktop Engineer |
+| Mr Syed Farhan Bin Syed Romadhan | Desktop Engineer |
+| Mr Mohd Khairil Azmi Baharudin | Desktop Engineer |
 | Ms Margaret Tan Lee Gek | Library Assistant |
 | Mdm Pritam Saraswathi | Operations Support Officer |
 | Mdm Low Lian Huay | Operations Support Officer |
