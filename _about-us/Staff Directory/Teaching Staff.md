@@ -56,20 +56,20 @@ variant: markdown
 | Mr Vernon Tan<br>Ms Christina Chang | 3 Brilliance |
 | Mr Mohammed Nuraimi Osman<br>Ms Pow Chen Xian| 3 Courage   |
 | Mdm Tang Shia Ling Shirley <br>Mdm Valiamay D/O Sathiah | 3 Diligence  |
-| Mdm Suzana Bte Kamsir<br> | 3 Excellence  |
-| <br><br> | 3 Faith  |
+| Mdm Suzana Bte Kamsir<br>Mdm Jerena Lee | 3 Excellence  |
+| Ms Winnie Lee<br>Mdm Jessica Tan Mei Shi | 3 Faith  |
 |
 
 ##### Primary 4
 
 | Name | Class |
 |---|---|
-| Ms Ong Tan Fong <br>Ms Yao Hai Ping | 4 Agape |
-| Ms Janice Chee<br>Ms Ng Shi HuiMs Winnie Lee<br> | 4 Brilliance |
+| Ms Yao Hai Ping <br>Ms Ong Tan Fong | 4 Agape |
+| Ms Janice Chee<br>Ms Ng Shi Hui | 4 Brilliance |
 | Mdm Junaina Bte Leman <br> Mdm Tan Shih Pin | 4 Courage |
 |Mr Ang Gan Jie<br>Mdm Chew Hwee Joo (Mrs Michelle Ng) | 4 Diligence |
 | Mdm April Chew <br>Mdm Bay Gui Fang, Malisa | 4 Excellence |
-|Mdm Chong Li Chen<br>Mdm Tan Seo Pheng Mdm Jerena Lee  | 4 Faith
+|Mdm Sisca Haryanto<br>Mdm Chong Li Chen<br>Mdm Tan Seo Pheng   | 4 Faith
 |
 
 ##### **Upper Primary**
@@ -81,7 +81,7 @@ variant: markdown
 | Mdm Karen Thiang Soo Cheng<br>Mdm Tay Hui Phing | 5 Brilliance |
 | Mr Koh Tee Gay<br>Mdm Lim Fung Hwee | 5 Courage |
 | Ms Thye Tzy Huoy<br>Mdm Yong Chuy Chan (Mrs Emily Tang)  | 5 Diligence  |
-| Mdm Harunnisha d/o Mohd Jamaludeen<br>Mr Soo Gham Seng | 5 Excellence |
+| Mdm Harunnisha d/o Mohd Jamaludeen<br>Mr Soo Gham Seng<br>Mr Tan Swee Meng James | 5 Excellence |
 |  Mdm Tan Gim Hoon <br>Mdm Kong Yin Han Esther  | 5 Faith |
 |Mdm Suhana Abdul Hamid  | 5 Grace |
 |
@@ -111,8 +111,8 @@ variant: markdown
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm Koh Yi Guan Patricia| Chinese Language Teacher|
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
-| Mdm Jessica Tan Mei Shi | English Language &amp; Music Teacher  |
-| Mr Tan Swee Meng James | Physical Education Teacher
+| i | English Language &amp; Music Teacher  |
+|  | Physical Education Teacher
 | Mdm Chung Hui Yee | Physical Education Teacher
 | Mr Marcus Lim Jun Hong | Physical Education Teacher
 | Ms Chong Mei | Physical Education Teacher
