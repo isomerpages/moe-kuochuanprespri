@@ -11,7 +11,7 @@ variant: markdown
 | Name | Designation |
 |---|---|
 | Mdm Anna Shii | Lead Teacher (Learner Profile) |
-| Mdm Agnes Pang | Senior Teacher (English Language)  |
+|  Mr John Low Wee Liang | Senior Teacher (English Language)  |
 | Mdm Stpal Kaur | Senior Teacher (Mathematics)  |
 | Mdm Koh Cheng Yeen | Senior Teacher (Music)  |
 | Mdm Harunnisha d/o Muhd Jamaludeen | 	Senior Teacher (Tamil Language)  |
@@ -25,7 +25,7 @@ variant: markdown
 |---|---|
 | Ms Sherry Tan Sock Miang<br>Ms Monica Heng | 1 Agape |
 | Ms Sukanya Ramanan<br> Ms Chng Hui Lin Jacqueline | 1 Brilliance  |
-| Ms Sim Pueh Gek<br>Mrs Eveline Yeo    | 1 Courage |
+| Ms Sim Pueh Gek<br>Mdm Ang Siew Hoon (Mrs Eveline Yeo)    | 1 Courage |
 | Mdm Linda Tan<br> | 1 Diligence |
 | Mdm Jumaina Binte Aman<br>Ms Ong Xuan  | 1 Excellence |
 | Mdm Rasheedah Bte Mohd Jin <br>Ms Tay Hui Peng BernieMs Toh Bin Bin | 1 Faith |
