@@ -52,24 +52,24 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Ms Ong Tan Fong <br>Ms Yao Hai Ping | 3 Agape |
-| Ms Janice Chee<br>Ms Ng Shi Hui | 3 Brilliance |
-| Mdm Junaina Bte Leman <br>Ms Thye Tzy Huoy| 3 Courage   |
-| Ms Kanagheswari<br>Mdm Chew Hwee Joo (Mrs Michelle Ng) | 3 Diligence  |
-| Mdm April Chew <br>Mdm Lim Fung Hwee | 3 Excellence  |
-| Mdm Tan Seo Pheng<br>Mdm&nbsp;Yew Seok Chun Lynn<br> | 3 Faith  |
+|  Ms Angeline Ang<br>Mr Joshua Lim | 3 Agape |
+| Mr Vernon Tan<br>Ms Christina Chang | 3 Brilliance |
+| Mr Mohammed Nuraimi Osman<br>Ms Pow Chen Xian| 3 Courage   |
+| Mdm Tang Shia Ling Shirley <br>Mdm Valiamay D/O Sathiah | 3 Diligence  |
+| Mdm Suzana Bte Kamsir<br> | 3 Excellence  |
+| <br><br> | 3 Faith  |
 |
 
 ##### Primary 4
 
 | Name | Class |
 |---|---|
-| Ms Christina Chang<br>Ms Tan Wei Yu Mindy | 4 Agape |
-| Ms Winnie Lee<br>Mdm Suzana Bte Kamsir | 4 Brilliance |
-| Mdm Tang Shia Ling Shirley <br>Mdm Harunnisha d/o Mohd Jamaludeen Mdm Tan Shih Pin | 4 Courage |
-| Ms Angeline Ang<br>Mr Soo Gham Seng | 4 Diligence |
-| Mr Mohammed Nuraimi Osman<br>Ms Pow Chen Xian | 4 Excellence |
-| Mdm Jerena Lee  | 4 Faith
+| Ms Ong Tan Fong <br>Ms Yao Hai Ping | 4 Agape |
+| Ms Janice Chee<br>Ms Ng Shi HuiMs Winnie Lee<br> | 4 Brilliance |
+| Mdm Junaina Bte Leman <br> Mdm Tan Shih Pin | 4 Courage |
+|Mr Ang Gan Jie<br>Mdm Chew Hwee Joo (Mrs Michelle Ng) | 4 Diligence |
+| Mdm April Chew <br>Mdm Bay Gui Fang, Malisa | 4 Excellence |
+|Mdm Chong Li Chen<br>Mdm Tan Seo Pheng Mdm Jerena Lee  | 4 Faith
 |
 
 ##### **Upper Primary**
@@ -77,26 +77,26 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Ms Nur Amalina Bte Rais<br>Mr Lim Chee Kng | 5 Agape |
-| Mdm Ng Lenni<br>Mr Goh Khong Lim | 5 Brilliance |
-| Mrs Eugenie Yeoh<br>Mr Mohd Najib bin Mohidu Kunyalee | 5 Courage |
-| Mr Manson Yip<br>Mdm See Su Ying Eunice  | 5 Diligence  |
-| Ms Christina Wong<br>Mdm Kerstin Wong Kai Xin | 5 Excellence |
-| Mdm Balasundram Priya Lisa <br>Mdm Koh Cheng Yeen   | 5 Faith |
-| Mdm Agnes Pang<br>Mr Sathiamoorthi | 5 Grace |
+| Mdm Yew Seok Chun Lynn<br>Mr Phua Ze Yong | 5 Agape |
+| Mdm Karen Thiang Soo Cheng<br>Mdm Tay Hui Phing | 5 Brilliance |
+| Mr Koh Tee Gay<br>Mdm Lim Fung Hwee | 5 Courage |
+| Ms Thye Tzy Huoy<br>Mdm Yong Chuy Chan (Mrs Emily Tang)  | 5 Diligence  |
+| Mdm Harunnisha d/o Mohd Jamaludeen<br>Mr Soo Gham Seng | 5 Excellence |
+|  Mdm Tan Gim Hoon <br>Mdm Kong Yin Han Esther  | 5 Faith |
+|Mdm Suhana Abdul Hamid  | 5 Grace |
 |
 
 ##### Primary 6
 
 | Name | Class |
 |---|---|
-| Mr Phua Ze Yong <br>Mdm Chong Li Chen | 6 Agape |
-| Mr Ang Gan Jie<br>Mdm Kong Yin Han EstherMdm Veronica Ho<br>Mdm Choo Boon Hiong  | 6 Brilliance |
-| Mr Koh Tee Gay<br>Mdm Tay Hui Phing  | 6 Courage |
-| Ms Chee Jing Wei Joyce <br>Mdm Suhana Abdul Hamid | 6 Diligence         |
-| Mdm Tan Gim Hoon <br>Mrs Jolene Sze TohMdm Valiamay D/O Sathiah  | 6 Excellence |
-| Mdm Ong Shir Nee<br> | 6 Faith  |
-| Mr Joshua Lim<br>Mr Goh Khong Lim | 6 Grace  |
+|  Mr John Low Wee Liang<br>Mr Lim Chee Kng | 6 Agape |
+| Mdm Ng Lenni<br>Mdm Veronica Ho<br>Mdm Choo Boon Hiong  | 6 Brilliance |
+| Mrs Eugenie Yeoh<br> Mr Mohd Najib bin Mohidu Kunyalee | 6 Courage |
+|  Mr Manson Yip<br>Mdm See Su Ying Eunice | 6 Diligence         |
+| Mrs Jolene Sze Toh<br>Mdm Kerstin Wong Kai Xin  | 6 Excellence |
+|Mdm Balasundram Priya Lisa <br>Mdm Koh Cheng Yeen | 6 Faith  |
+|Mdm Agnes Pang<br>Mr Sathiamoorthi | 6 Grace  |
 |
 
 #### **Subject Teachers**
