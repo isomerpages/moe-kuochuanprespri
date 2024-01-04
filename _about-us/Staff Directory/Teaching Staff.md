@@ -103,16 +103,11 @@ variant: markdown
 
 | Name | Designation |
 |---|---|
-| Mdm Lee Soo Wah | English Language Teacher  |
-| Mr Tan Chin Saeng Vernon| English Language Teacher|
 | Mdm Goh Siew Tee | Chinese Language Teacher |
-| Mdm Kok Chooi Peng | Chinese Language Teacher  |
 | Ms Lee Choon Yen Joy | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
-| Mdm Koh Yi Guan Patricia| Chinese Language Teacher|
+| Mdm He Guimei | Chinese Language Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
-| i | English Language &amp; Music Teacher  |
-|  | Physical Education Teacher
-| Mdm Chung Hui Yee | Physical Education Teacher
+| 
 | Mr Marcus Lim Jun Hong | Physical Education Teacher
 | Ms Chong Mei | Physical Education Teacher
