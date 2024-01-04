@@ -3,6 +3,7 @@ title: Executive Committee
 permalink: /about-us/Staff-Directory/executive-committee/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 ### **Executive Committee**
 #### **School Leader**
@@ -24,10 +25,10 @@ To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@
 | Mdm Tay Hui Phing  | HOD/ Mathematics |
 | Mdm Koh Xin Wei | HOD/ Mother Tongue Languages |
 | Mr Soo Gham Seng | HOD/ Science  |
-| Mdm Tan Seo Pheng | HOD/ Discipline and Student Leadership |
+| Mdm Tan Seo Pheng | HOD/ Student Management |
 | Mdm Chew Hwee Joo (Mrs Michelle Ng) | HOD/ Character and Citizenship Education |
 | Mdm Lim Fung Hwee  | 	HOD/ ICT & MRL  |
-| Mdm Ong Shir Nee    | 	School Staff Developer   |
+| Mdm Bay Gui Fang, Malisa    | 	School Staff Developer   |
 | Mr Goh Khong Lim   | Year Head/ Upper Primary   |
 | Mr Christopher Tan | Year Head/ Middle Primary, Covering Year Head/ Lower Primary   |
 | Ms Toh Cailu Natalie Joanne | Year Head/ Lower Primary, Covering HOD/ PE, CCA & Aesthetics   |
@@ -36,7 +37,7 @@ To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@
 | Mdm Ong Wee Chyun | Subject Head/ Chinese Language |
 | Mr Lim Teck Lee (Joshua) | Subject Head/ Science |
 | Mdm Jerena Lee | Subject Head/ Social Studies |
-| Mr Phua Ze Yong | Subject Head/ Discipline and Student Leadership |
+| Mr Phua Ze Yong | Subject Head/ Student Management and Leadership |
 | Mdm Ong Xuan (Mrs Tan Xuan) | Subject Head/ PE & CCA  |
 | Ms Christina Chang Kar Hwee | Subject Head/ Character and Citizenship Education  |
 | Mdm Ng Lenni | Subject Head/ ICT  |
