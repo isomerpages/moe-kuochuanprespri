@@ -2,19 +2,20 @@
 title: Sports and Games
 permalink: /cca/Sports-and-Games/
 description: ""
+variant: markdown
 ---
 ### **Sports and Games**
 
 |CCA | Teachers In-charge | Venue |
 |:---:|:---:|:---:|
-|  Artistic Gymnastics | Ms Monica Heng<br>Ms Chew Jia Yi<br>Ms Sim Pueh Gek | KCPPS Hall Of Faith |
-| Badminton | Ms Yao Hai Ping<br>Ms Patience Leong Ying Ai<br>Ms Pow Chen Xian<br>Mdm Stpal Kaur | KCPPS Indoor Sports Hall |
+|  Artistic Gymnastics | Ms Monica Heng<br>Ms Chew Jia Yi<br>Ms Sim Pueh Gek<br>Mdm Choo Boon Hiong | KCPPS Hall Of Faith |
+| Badminton | Ms Yao Hai Ping<br>Ms Patience Leong Ying Ai<br>Ms Pow Chen Xian<br>Mdm Kong Yin Han Esther<br>Mr Joshua Lim | KCPPS Indoor Sports Hall |
 | Basketball | Mr Lim Chee Kng<br>Mr Phua Ze Yong<br>Mr Ang Gan Jie<br>Mdm Harunnisha d/o Muhd Jamaludeen | KCPPS Basketball Court |
 | Football | Mr Mohd Najib Bin Mohidu Kunyalee<br>Mr Sathiamoorthi<br>Ms Ng Shi Hui<br>Ms Angeline Ang | School Field |
-| Rope Skipping | Mdm Kam Ee Ling<br>Mdm Ong Wee Chyun<br>Mrs Eveline Yeo<br>Mdm Nurulhana Bte Salim | PAC |
+| Rope Skipping | Mdm Kam Ee Ling<br>Mdm Ong Wee Chyun<br>Mdm Ang Siew Hoon (Mrs Eveline Yeo)<br>Mdm Stpal Kaur | PAC |
 | Swimming | Ms Sherry Tan<br>Ms Mahalingam Kanagheswari<br>Mdm Valiamay D/O Sathiah | Bishan Swimming Complex |
 | Table Tennis | Mdm Tan Shih Pin<br>Mr Jensen Lee<br>Ms Toh Bin Bin<br>Mdm Jumaina Bte Aman | KCPPS Hall of Faith |
-| Track &amp; Field | Mdm Ong Hui Hui (Mrs Chan)<br>Mdm Junaina<br>Ms Janice Chee<br>Ms Tan Pei Pei<br>Mdm Yew Seok Chun Lynn | Bishan Sports Complex |
+| Track &amp; Field | Mdm Ong Hui Hui (Mrs Chan)<br>Mdm Yew Seok Chun Lynn<br>Ms Kayci Lim<br>Mdm Karen Thiang Soo Cheng | Bishan Sports Complex |
 |
 
 #### **Track and Field and Swimming**
