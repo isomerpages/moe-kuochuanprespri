@@ -10,7 +10,9 @@ variant: markdown
 |:---------------:|:----------------------------------------------------------------:|:------------------:|
 |      Mind Games Club | Mdm April Chew<br> Mdm Agnes Pang<br> Mdm Suzana Bte Kamsir | Level 3 classrooms |
 |  New Media Club |             Mr Mohammed Nuraimi Osman<br>  Ms Ong Tan Fong           |   Computer Lab    |
-
+| Visual Arts Club  |  Mdm Ho Tracia<br>Mdm Tay Hui Peng Bernie<br>Ms Tan Pei Pei | Art Room  |
+ |
+ 
 **Eco Club**  
 
 Pupils are engaged in activities weekly to promote environmental awareness and active care for the school and nation.&nbsp;Selected pupils compete in&nbsp;national&nbsp;competitions. They will also showcase their projects on 'Clean &amp; Green' and promote Biodiversity and Earth Day.
