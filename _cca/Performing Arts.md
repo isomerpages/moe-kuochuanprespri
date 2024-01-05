@@ -16,7 +16,7 @@ variant: markdown
 | Visual Arts Club  |  Mdm Ho Tracia<br>Mdm Tay Hui Peng Bernie<br>Ms Tan Pei Pei | Art Room  |
 |
 
-#### **Chinese Dance and Indian Dance**
+#### **Chinese Dance**
 Pupils learn dance movements to improve flexibility, poise and strength. They get to experience values such as teamwork and responsibility through participating in the performances with their peers.&nbsp;Selected pupils attend additional training to prepare them for train competition at national&nbsp;competitions (Singapore Youth Festival).
 
 #### **Choir and Drama Club**
