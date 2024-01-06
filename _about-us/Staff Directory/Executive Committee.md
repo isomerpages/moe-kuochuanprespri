@@ -41,7 +41,7 @@ To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@
 | Mdm Ong Xuan (Mrs Tan Xuan) | Subject Head/ PE & CCA  |
 | Ms Christina Chang Kar Hwee | Subject Head/ Character and Citizenship Education  |
 | Mdm Ng Lenni | Subject Head/ ICT  |
-| Mdm Ang Siew Hoon (Mrs Eveline Yeo)  | Assistant Year Head/ Upper Primary   |
+| Mdm See Su Ying Eunice  | Assistant Year Head/ Upper Primary   |
 | Mdm Ang Siew Hoon (Mrs Eveline Yeo)  | Assistant Year Head/ Middle Primary   |
 | Ms Ong Shi Han   | Assistant Year Head/ Lower Primary   |
 | Mr Toh Wei Min (David) | 	Administration Manager |
