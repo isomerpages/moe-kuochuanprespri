@@ -11,13 +11,13 @@ variant: markdown
 | Name | Designation |
 |---|---|
 | Mdm Anna Shii | Lead Teacher (Learner Profile) |
-|  Mr John Low Wee Liang | Senior Teacher (English Language)  |
+| Mr John Low Wee Liang | Senior Teacher (English Language)  |
 | Mdm Stpal Kaur | Senior Teacher (Mathematics)  |
 | Mdm Koh Cheng Yeen | Senior Teacher (Music)  |
 | Mdm Harunnisha d/o Muhd Jamaludeen | 	Senior Teacher (Tamil Language)  |
 |
 
-#### **Form Teachers for 2023**
+#### **Form Teachers for 2024**
 ##### **Lower Primary**
 ##### Primary 1
 
@@ -28,7 +28,7 @@ variant: markdown
 | Ms Sim Pueh Gek<br>Mdm Ang Siew Hoon (Mrs Eveline Yeo)    | 1 Courage |
 | Mdm Linda Tan<br> | 1 Diligence |
 | Mdm Jumaina Binte Aman<br>Ms Ong Xuan  | 1 Excellence |
-| Mdm Rasheedah Bte Mohd Jin <br>Ms Tay Hui Peng BernieMs Toh Bin Bin | 1 Faith |
+| Mdm Rasheedah Bte Mohd Jin <br>Ms Tay Hui Peng Bernie <br>Ms Toh Bin Bin | 1 Faith |
 | Mdm Nurulhana Bte Salim<br>Mr Quek Yixian Timothy | 1 Grace |
 | Mrs Wong Siew Hwee<br>Mdm Chua Yeong Joo Cynthia | 1 Hope |
 |
