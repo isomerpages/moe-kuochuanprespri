@@ -81,9 +81,9 @@ variant: markdown
 | Mdm Karen Thiang Soo Cheng<br>Mdm Tay Hui Phing | 5 Brilliance |
 | Mr Koh Tee Gay<br>Mdm Lim Fung Hwee | 5 Courage |
 | Ms Thye Tzy Huoy<br>Mdm Yong Chuy Chan (Mrs Emily Tang)  | 5 Diligence  |
-| Mdm Harunnisha d/o Mohd Jamaludeen<br>Mr Soo Gham Seng<br>Mr Tan Swee Meng James | 5 Excellence |
+| Mdm Harunnisha d/o Mohd Jamaludeen<br>Mr Soo Gham Seng | 5 Excellence |
 |  Mdm Tan Gim Hoon <br>Mdm Kong Yin Han Esther  | 5 Faith |
-|Mdm Suhana Abdul Hamid  | 5 Grace |
+|Mdm Suhana Abdul Hamid<br>Mr Tan Swee Meng James  | 5 Grace |
 |
 
 ##### Primary 6
