@@ -82,7 +82,7 @@ variant: markdown
 | Mr Koh Tee Gay<br>Mdm Lim Fung Hwee | 5 Courage |
 | Ms Thye Tzy Huoy<br>Mrs Emily Tang  | 5 Diligence  |
 | Mdm Harunnisha d/o Mohd Jamaludeen<br>Mr Soo Gham Seng | 5 Excellence |
-|  Mdm Tan Gim Hoon <br>Mdm Kong Yin Han Esther  | 5 Faith |
+| Mdm Tan Gim Hoon <br>Mdm Kong Yin Han Esther  | 5 Faith |
 |Mdm Suhana Abdul Hamid<br>Mr James Tan   | 5 Grace |
 |
 
@@ -90,10 +90,10 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-|  Mr John Low Wee Liang<br>Mr Lim Chee Kng | 6 Agape |
+| Mr John Low Wee Liang<br>Mr Lim Chee Kng | 6 Agape |
 | Mdm Ng Lenni<br>Mdm Veronica Ho<br>Mdm Choo Boon Hiong  | 6 Brilliance |
 | Mrs Eugenie Yeoh<br> Mr Mohd Najib bin Mohidu Kunyalee | 6 Courage |
-|  Mr Manson Yip<br>Mdm See Su Ying Eunice | 6 Diligence         |
+| Mr Manson Yip<br>Mdm See Su Ying Eunice | 6 Diligence         |
 | Mrs Jolene Sze Toh<br>Mrs Kerstin Seah  | 6 Excellence |
 |Mdm Balasundram Priya Lisa <br>Mrs Tan Cheng Yeen | 6 Faith  |
 |Mdm Agnes Pang<br>Mr Sathiamoorthi | 6 Grace  |
@@ -108,4 +108,4 @@ variant: markdown
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
-  |
+|
