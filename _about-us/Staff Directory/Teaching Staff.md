@@ -65,9 +65,9 @@ variant: markdown
 | Name | Class |
 |---|---|
 | Ms Yao Hai Ping <br>Ms Ong Tan Fong | 4 Agape |
-| Ms Janice Chee<br>Ms Ng Shi Hui | 4 Brilliance |
+| Mrs Janice Lim<br>Ms Ng Shi Hui | 4 Brilliance |
 | Mdm Junaina Bte Leman <br> Mdm Tan Shih Pin | 4 Courage |
-|Mr Ang Gan Jie<br>Mdm Chew Hwee Joo (Mrs Michelle Ng) | 4 Diligence |
+|Mr Ang Gan Jie<br>Mrs Michelle Ng | 4 Diligence |
 | Mdm April Chew <br>Mdm Bay Gui Fang, Malisa | 4 Excellence |
 |Mdm Sisca Haryanto<br>Mdm Chong Li Chen<br>Mdm Tan Seo Pheng   | 4 Faith
 |
@@ -80,7 +80,7 @@ variant: markdown
 | Mdm Yew Seok Chun Lynn<br>Mr Phua Ze Yong | 5 Agape |
 | Mdm Karen Thiang Soo Cheng<br>Mdm Tay Hui Phing | 5 Brilliance |
 | Mr Koh Tee Gay<br>Mdm Lim Fung Hwee | 5 Courage |
-| Ms Thye Tzy Huoy<br>Mdm Yong Chuy Chan (Mrs Emily Tang)  | 5 Diligence  |
+| Ms Thye Tzy Huoy<br>Mrs Emily Tang  | 5 Diligence  |
 | Mdm Harunnisha d/o Mohd Jamaludeen<br>Mr Soo Gham Seng | 5 Excellence |
 |  Mdm Tan Gim Hoon <br>Mdm Kong Yin Han Esther  | 5 Faith |
 |Mdm Suhana Abdul Hamid<br>Mr Tan Swee Meng James  | 5 Grace |
