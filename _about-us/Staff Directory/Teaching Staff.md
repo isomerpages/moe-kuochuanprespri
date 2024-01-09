@@ -53,7 +53,7 @@ variant: markdown
 | Name | Class |
 |---|---|
 |  Ms Angeline Ang<br>Mr Lim Teck Lee (Joshua)  | 3 Agape |
-| Mr Vernon Tan<br>Ms Christina Chang | 3 Brilliance |
+| Mr Vernon Tan<br>Ms Christina Chang Kar Hwee | 3 Brilliance |
 | Mr Mohammed Nuraimi Osman<br>Ms Pow Chen Xian| 3 Courage   |
 | Mdm Tang Shia Ling Shirley <br>Mdm Valiamay D/O Sathiah | 3 Diligence  |
 | Mdm Suzana Bte Kamsir<br>Mdm Jerena Lee | 3 Excellence  |
