@@ -23,14 +23,14 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Ms Sherry Tan Sock Miang<br>Ms Monica Heng | 1 Agape |
-| Ms Sukanya Ramanan<br> Ms Chng Hui Lin Jacqueline | 1 Brilliance  |
-| Ms Sim Pueh Gek<br>Mdm Ang Siew Hoon (Mrs Eveline Yeo)    | 1 Courage |
+| Ms Tan Sock Miang (Sherry)<br>Ms Monica Heng | 1 Agape |
+| Ms Sukanya Ramanan<br> Ms Jacqueline Chng  | 1 Brilliance  |
+| Ms Sim Pueh Gek<br>Mrs Eveline Yeo    | 1 Courage |
 | Mdm Linda Tan<br> | 1 Diligence |
-| Mdm Jumaina Binte Aman<br>Ms Ong Xuan  | 1 Excellence |
+| Mdm Jumaina Binte Aman<br>Mrs Tan Xuan  | 1 Excellence |
 | Mdm Rasheedah Bte Mohd Jin <br>Ms Tay Hui Peng Bernie <br>Ms Toh Bin Bin | 1 Faith |
 | Mdm Nurulhana Bte Salim<br>Mr Quek Yixian Timothy | 1 Grace |
-| Mrs Wong Siew Hwee<br>Mdm Chua Yeong Joo Cynthia | 1 Hope |
+| Mrs Wong Siew Hwee<br>Mdm Chua Yeong Joo (Cynthia) | 1 Hope |
 |
 
 ##### Primary 2
@@ -38,7 +38,7 @@ variant: markdown
 | Name | Class |
 |---|---|
 | Mdm Ong Hui Hui<br>Mrs Thong Hui Yee | 2 Agape |
-| Mdm Lee Lay Hoon<br>Ms Ong Shi Han | 2 Brilliance |
+| Mdm Lee Lay Hoon (Stephanie)<br>Ms Ong Shi Han | 2 Brilliance |
 |Mdm Zipporah Asha<br> Mdm Ong Wee Chyun | 2 Courage |
 | Mdm Tracia Ho<br>Ms Chew Jia Yi | 2 Diligence |
 | Ms Tan Pei Pei<br>Mdm Koh Xin Wei | 2 Excellence |
