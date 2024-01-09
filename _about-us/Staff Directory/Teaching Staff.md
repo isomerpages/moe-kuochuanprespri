@@ -37,7 +37,7 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Mdm Ong Hui Hui<br>Mrs Thong Hui Yee | 2 Agape |
+| Mrs Chan Hui Hui<br>Mrs Thong Hui Yee | 2 Agape |
 | Mdm Lee Lay Hoon (Stephanie)<br>Ms Ong Shi Han | 2 Brilliance |
 |Mdm Zipporah Asha<br> Mdm Ong Wee Chyun | 2 Courage |
 | Mdm Tracia Ho<br>Ms Chew Jia Yi | 2 Diligence |
