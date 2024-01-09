@@ -94,7 +94,7 @@ variant: markdown
 | Mdm Ng Lenni<br>Mdm Veronica Ho<br>Mdm Choo Boon Hiong  | 6 Brilliance |
 | Mrs Eugenie Yeoh<br> Mr Mohd Najib bin Mohidu Kunyalee | 6 Courage |
 |  Mr Manson Yip<br>Mdm See Su Ying Eunice | 6 Diligence         |
-| Mrs Jolene Sze Toh<br>Mdm Kerstin Wong Kai Xin  | 6 Excellence |
+| Mrs Jolene Sze Toh<br>Mrs Kerstin Seah  | 6 Excellence |
 |Mdm Balasundram Priya Lisa <br>Mdm Koh Cheng Yeen | 6 Faith  |
 |Mdm Agnes Pang<br>Mr Sathiamoorthi | 6 Grace  |
 |
