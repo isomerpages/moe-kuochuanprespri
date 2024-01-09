@@ -27,7 +27,7 @@ variant: markdown
 |---|---|
 | Mdm Soh Ai Bee  | Senior School Counsellor |
 | Ms Lee Yew Kheng Adelina  | Special Educational Needs Officer |
-|Noorjahan d/o Sikander Batcha|Special Educational Needs Officer|
+|Ms Noorjahan d/o Sikander Batcha|Special Educational Needs Officer|
 |Ms Usha Devi d/o Chelliah Rajindran| Special Educational Needs Officer|
 | Mdm Choo Poh Ling  |Special Educational Needs Officer (untrained) |
 | Mdm Pritam Saraswathi | Operations Support Officer |
