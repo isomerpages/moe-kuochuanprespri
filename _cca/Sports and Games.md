@@ -13,7 +13,7 @@ variant: markdown
 | Basketball | Mr Lim Chee Kng<br>Mr Phua Ze Yong<br>Mr Ang Gan Jie (Alan)<br>Mdm Harunnisha d/o Muhd Jamaludeen | KCPPS Basketball Court |
 | Football | Mr Mohd Najib Bin Mohidu Kunyalee<br>Mr Sathiamoorthi<br>Ms Ng Shi Hui<br>Ms Angeline Ang | School Field |
 | Rope Skipping | Mdm Kam Ee Ling<br>Mdm Ong Wee Chyun<br>Mrs Eveline Yeo<br>Mdm Stpal Kaur | PAC |
-| Swimming | Ms Sherry Tan<br>Mdm Valiamay D/O Sathiah<br>Ms Sukanya Ramanan | Bishan Swimming Complex |
+| Swimming | Ms Tan Sock Miang (Sherry)<br>Mdm Valiamay D/O Sathiah<br>Ms Sukanya Ramanan | Bishan Swimming Complex |
 | Table Tennis | Ms Toh Bin Bin<br>Mdm Jumaina Bte Aman<br>Mdm Tan Shih Pin<br>Mdm Nurulhana Bte Salim | KCPPS Hall of Faith |
 | Track &amp; Field | Mrs Chan Hui Hui <br>Mdm Yew Seok Chun (Lynn)<br>Ms Kayci Lim<br>Mdm Karen Thiang Soo Cheng | Bishan Sports Complex |
 |
