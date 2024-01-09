@@ -57,7 +57,7 @@ variant: markdown
 | Mr Mohammed Nuraimi Osman<br>Ms Pow Chen Xian| 3 Courage   |
 | Mdm Tang Shia Ling Shirley <br>Mdm Valiamay D/O Sathiah | 3 Diligence  |
 | Mdm Suzana Bte Kamsir<br>Mdm Jerena Lee | 3 Excellence  |
-| Ms Winnie Lee<br>Mdm Jessica Tan | 3 Faith  |
+| Ms Winnie Lee<br>Mrs Jessica Khoo | 3 Faith  |
 |
 
 ##### Primary 4
@@ -83,7 +83,7 @@ variant: markdown
 | Ms Thye Tzy Huoy<br>Mrs Emily Tang  | 5 Diligence  |
 | Mdm Harunnisha d/o Mohd Jamaludeen<br>Mr Soo Gham Seng | 5 Excellence |
 |  Mdm Tan Gim Hoon <br>Mdm Kong Yin Han Esther  | 5 Faith |
-|Mdm Suhana Abdul Hamid<br>Mr Tan Swee Meng James  | 5 Grace |
+|Mdm Suhana Abdul Hamid<br>Mr James Tan   | 5 Grace |
 |
 
 ##### Primary 6
