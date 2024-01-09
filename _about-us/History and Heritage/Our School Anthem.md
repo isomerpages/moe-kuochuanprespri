@@ -1,10 +1,11 @@
 ---
-title: Our School Song
-permalink: /about-us/History-and-Heritage/our-school-song/
+title: Our School Anthem
+permalink: /about-us/history-and-heritage/our-school-anthem/
 description: ""
 third_nav_title: History and Heritage
+variant: markdown
 ---
-### **Our School Song**
+### **Our School Anthem**
 
 We pledge to thee our school, our loyalty;<br>
 Our faithful service render we to thee. <br>
