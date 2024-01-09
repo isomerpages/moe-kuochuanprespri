@@ -107,5 +107,6 @@ variant: markdown
 | Ms Lee Choon Yen Joy | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
+|Ms Betty Chua | English Language &amp; Mathematics Teacher |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 |
