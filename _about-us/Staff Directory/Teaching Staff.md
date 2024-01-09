@@ -13,7 +13,7 @@ variant: markdown
 | Mdm Anna Shii | Lead Teacher (Learner Profile) |
 | Mr John Low Wee Liang | Senior Teacher (English Language)  |
 | Mdm Stpal Kaur | Senior Teacher (Mathematics)  |
-| Mdm Koh Cheng Yeen | Senior Teacher (Music)  |
+| Mrs Tan Cheng Yeen | Senior Teacher (Music)  |
 | Mdm Harunnisha d/o Muhd Jamaludeen | 	Senior Teacher (Tamil Language)  |
 |
 
@@ -23,7 +23,7 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Ms Tan Sock Miang (Sherry)<br>Ms Monica Heng | 1 Agape |
+| Ms Tan Sock Miang (Sherry)<br>Mdm Monica Heng | 1 Agape |
 | Ms Sukanya Ramanan<br> Ms Jacqueline Chng  | 1 Brilliance  |
 | Ms Sim Pueh Gek<br>Mrs Eveline Yeo    | 1 Courage |
 | Mdm Linda Tan<br> | 1 Diligence |
@@ -77,7 +77,7 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Mdm Yew Seok Chun Lynn<br>Mr Phua Ze Yong | 5 Agape |
+| Mdm Yew Seok Chun (Lynn)<br>Mr Phua Ze Yong | 5 Agape |
 | Mdm Karen Thiang Soo Cheng<br>Mdm Tay Hui Phing | 5 Brilliance |
 | Mr Koh Tee Gay<br>Mdm Lim Fung Hwee | 5 Courage |
 | Ms Thye Tzy Huoy<br>Mrs Emily Tang  | 5 Diligence  |
@@ -95,7 +95,7 @@ variant: markdown
 | Mrs Eugenie Yeoh<br> Mr Mohd Najib bin Mohidu Kunyalee | 6 Courage |
 |  Mr Manson Yip<br>Mdm See Su Ying Eunice | 6 Diligence         |
 | Mrs Jolene Sze Toh<br>Mrs Kerstin Seah  | 6 Excellence |
-|Mdm Balasundram Priya Lisa <br>Mdm Koh Cheng Yeen | 6 Faith  |
+|Mdm Balasundram Priya Lisa <br>Mrs Tan Cheng Yeen | 6 Faith  |
 |Mdm Agnes Pang<br>Mr Sathiamoorthi | 6 Grace  |
 |
 
