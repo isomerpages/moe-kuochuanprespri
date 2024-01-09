@@ -57,7 +57,7 @@ variant: markdown
 | Mr Mohammed Nuraimi Osman<br>Ms Pow Chen Xian| 3 Courage   |
 | Mdm Tang Shia Ling Shirley <br>Mdm Valiamay D/O Sathiah | 3 Diligence  |
 | Mdm Suzana Bte Kamsir<br>Mdm Jerena Lee | 3 Excellence  |
-| Ms Winnie Lee<br>Mdm Jessica Tan Mei Shi | 3 Faith  |
+| Ms Winnie Lee<br>Mdm Jessica Tan | 3 Faith  |
 |
 
 ##### Primary 4
