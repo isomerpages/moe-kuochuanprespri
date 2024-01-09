@@ -67,7 +67,7 @@ variant: markdown
 | Ms Yao Hai Ping <br>Ms Ong Tan Fong | 4 Agape |
 | Mrs Janice Lim<br>Ms Ng Shi Hui | 4 Brilliance |
 | Mdm Junaina Bte Leman <br> Mdm Tan Shih Pin | 4 Courage |
-|Mr Ang Gan Jie<br>Mrs Michelle Ng | 4 Diligence |
+|Mr Ang Gan Jie (Alan)<br>Mrs Michelle Ng | 4 Diligence |
 | Mdm April Chew <br>Mdm Bay Gui Fang, Malisa | 4 Excellence |
 |Mdm Sisca Haryanto<br>Mdm Chong Li Chen<br>Mdm Tan Seo Pheng   | 4 Faith
 |
