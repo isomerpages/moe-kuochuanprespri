@@ -28,7 +28,7 @@ variant: markdown
 | Ms Sim Pueh Gek<br>Mrs Eveline Yeo    | 1 Courage |
 | Mdm Linda Tan<br> | 1 Diligence |
 | Mdm Jumaina Binte Aman<br>Mrs Tan Xuan  | 1 Excellence |
-| Mdm Rasheedah Bte Mohd Jin <br>Ms Tay Hui Peng Bernie <br>Ms Toh Bin Bin | 1 Faith |
+| Mdm Rasheedah Bte Mohd Jin <br>Ms Tay Hui Peng Bernie  | 1 Faith |
 | Mdm Nurulhana Bte Salim<br>Mr Quek Yixian Timothy | 1 Grace |
 | Mrs Wong Siew Hwee<br>Mdm Chua Yeong Joo (Cynthia) | 1 Hope |
 |
