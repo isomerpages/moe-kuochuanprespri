@@ -9,7 +9,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Stall 2: Japanese Food Stall     | 31 March 2023     | Japanese Cuisine |
+| Stall 2: Japanese/Western/Vegetarian Stall     | 31 March 2023     | Japanese/Western/Vegetarian Cuisine |
 | Stall 3: Economy Stall     | 31 March 2023     | Economy Cuisine |
 | Stall 6: Malay Stall     | 31 March 2023     | Malay Cuisine (Halal)  |
 
