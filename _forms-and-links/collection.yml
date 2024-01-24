@@ -1,0 +1,6 @@
+collections:
+  forms-and-links:
+    output: true
+    order:
+      - For Parents.md
+      - For Students.md

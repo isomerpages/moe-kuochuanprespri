@@ -1,0 +1,113 @@
+logo: /images/KCPPS Logo1.jpg
+links:
+  - title: About Us
+    url: /about-us/Principals-Message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/Principals-Message/
+      - title: History and Heritage
+        url: /about-us/History-and-Heritage/our-story/
+      - title: Vision, Mission and Values
+        url: /about-us/Vision-Mission-and-Values/
+      - title: Philosophy, Culture and Ethos
+        url: /about-us/Philosophy-Culture-and-Ethos/
+      - title: School Rules
+        url: /about-us/School-Rules/
+      - title: Staff Directory
+        url: /about-us/Staff-Directory/executive-committee/
+      - title: General Information
+        url: /about-us/General-Information/school-hours/
+      - title: Corporate Information
+        url: /about-us/Corporate-Information/school-management/
+      - title: Student Matters
+        url: /about-us/Student-Matters/dsa/
+      - title: FAQ
+        url: /about-us/FAQ/
+      - title: Contact Us
+        url: /contact-us/
+  - title: Departments
+    url: /departments/English-Department/
+    sublinks:
+      - title: English Department
+        url: /departments/English-Department/
+      - title: Mathematics Department
+        url: /departments/Mathematics-Department/
+      - title: Science Department
+        url: /departments/Science-Department/
+      - title: Mother Tongue
+        url: /departments/Mother-Tongue/
+      - title: Aesthetic Department
+        url: /departments/Aesthetic-Department/
+      - title: Physical Education Department
+        url: /departments/Physical-Education-Department/
+      - title: ICT & MRL
+        url: /departments/ICT-and-MRL/
+      - title: CCE Department
+        url: /departments/CCE-Department/
+      - title: Discipline & Student Ldrship
+        url: /departments/Discipline-and-Student-Ldrship/
+  - title: Signature Programmes
+    url: /Signature-Programmes/ALP/
+    sublinks:
+      - title: Applied Learning Prog (ALP)
+        url: /Signature-Programmes/ALP/
+      - title: Learning For Life Prog (LLP)
+        url: /Signature-Programmes/LLP/
+      - title: Greening Kuo Chuan
+        url: /Signature-Programmes/Greening-Kuo-Chuan/
+  - title: CCA
+    url: /cca/Overview/
+    sublinks:
+      - title: CCA Overview
+        url: /cca/Overview/
+      - title: Sports and Games
+        url: /cca/Sports-and-Games/
+      - title: Performing Arts
+        url: /cca/Performing-Arts/
+      - title: Uniformed Groups
+        url: /cca/Uniformed-groups/
+      - title: Clubs & Societies
+        url: /cca/Clubs-and-Societies/
+  - title: Achievements
+    url: /achievements-2023/2023/
+    sublinks:
+      - title: Achievements 2023
+        url: /achievements-2023/2023/
+      - title: "2022"
+        url: /achievements-2022/2022/
+      - title: "2021"
+        url: /achievements-2022/2021/
+      - title: "2020"
+        url: /achievements-2022/2020/
+      - title: "2019"
+        url: /achievements-2022/2019/
+      - title: "2018"
+        url: /achievements-2022/2018/
+      - title: "2017"
+        url: /achievements-2022/2017/
+      - title: "2016"
+        url: /achievements-2022/2016/
+      - title: "2015"
+        url: /achievements-2022/2015/
+      - title: "2014"
+        url: /achievements-2022/2014/
+  - title: Partners
+    url: /partners/Parent-Support-Group/
+    sublinks:
+      - title: Parent Support Group
+        url: /partners/Parent-Support-Group/
+      - title: Dads For Life
+        url: /partners/Dads-For-Life/
+      - title: Family Matters @ School
+        url: /partners/Family-Matters-at-School/
+      - title: Kuo Chuan Presbyterian Sec
+        url: /partners/Kuo-Chuan-Presbyterian-Sec/
+      - title: Living Praise Presbyterian
+        url: /partners/Living-Praise-Presbyterian/
+  - title: Forms/Links
+    url: /Forms/Links/For-Parents/
+    sublinks:
+      - title: For Parents
+        url: /Forms/Links/For-Parents/
+      - title: For Students
+        url: /Forms/Links/For-Students/
