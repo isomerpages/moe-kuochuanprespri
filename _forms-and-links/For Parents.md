@@ -27,10 +27,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024_2_Letter_to_parents_26_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">26 January 2024</a>
+</p>
 </td>
 </tr>
 </tbody>
