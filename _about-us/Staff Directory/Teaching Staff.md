@@ -39,7 +39,7 @@ variant: markdown
 |---|---|
 | Mrs Chan Hui Hui<br>Mrs Thong Hui Yee | 2 Agape |
 | Mdm Lee Lay Hoon (Stephanie)<br>Ms Ong Shi Han | 2 Brilliance |
-|Mdm Zipporah Asha<br> Mdm Ong Wee Chyun | 2 Courage |
+|Miss Zipporah Asha Zaccheus<br> Mdm Ong Wee Chyun | 2 Courage |
 | Mdm Tracia Ho<br>Ms Chew Jia Yi | 2 Diligence |
 | Ms Tan Pei Pei<br>Mdm Koh Xin Wei | 2 Excellence |
 | Ms Toh Bin Bin<br>Ms Joyce Tan Ser Yan | 2 Faith |
