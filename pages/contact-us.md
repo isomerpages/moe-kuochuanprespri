@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Kuo Chuan Presbytarian Primary School
+agency_name: Kuo Chuan Presbyterian Primary School
 locations:
   - address:
       - 8 Bishan Street 13
@@ -22,4 +22,5 @@ contacts:
       - email: ""
       - other: ""
     title: Fax
+feedback: https://forms.cwp.gov.sg/kuochuanpresbyterianpri/FormV7PRR
 ---
