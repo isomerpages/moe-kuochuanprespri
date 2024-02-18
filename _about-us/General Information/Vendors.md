@@ -8,7 +8,7 @@ variant: markdown
 ### **Vendors**
 #### **School Bookshop**
 Pacific Bookstores Pte Ltd&nbsp;<br>
-Telephone : 6334 1275<br>
+Telephone : 9048 1260<br>
 Operating hours : Monday to Friday, 8:30 a.m. to 3 p.m.<br>
 (No transactions with parents will be allowed during pupils' recesses from 9.45 a.m. - 10.45 a.m.
 
@@ -40,4 +40,3 @@ Mobile phone : 9628 4743 (Mr Louis Loh) email:&nbsp;[louis@mybus.com.sg](mailto:
 Company : My Uniform Shop Pte Ltd<br>
 Telephone : 62766689<br>
 Blk 209 New Upper Changi Road #03-651 Singapore 460209<br>
-
