@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Kuo Chuan Presbyterian Primary School
-      background: /images/hero banner.gif
-      button: Contact Us
+      background: /images/herobanner100year.gif
       url: /contact-us/
       key_highlights:
         - title: Announcements
@@ -21,4 +19,11 @@ sections:
         - title: Parents Gateway
           description: ""
           url: https://staging.d1z9x0wjo2oybj.amplifyapp.com/Forms/Links/For-Parents/
+  - infopic:
+      title: KCP 100
+      subtitle: CENTENNIAL
+      id: infopic
+      description: Rooted in Faith, Enduring for Good
+      image: /images/KCP100_eDM_1.jpg
+      alt: Image alt text
 ---
