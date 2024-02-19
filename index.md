@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Kuo Chuan Presbyterian Primary School
       background: /images/herobanner100year.gif
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Announcements
