@@ -26,6 +26,6 @@ sections:
       subtitle: CENTENNIAL
       id: infopic
       description: Rooted in Faith, Enduring for Good
-      image: /images/KCP100_eDM_2.jpg
+      image: /images/KCP100_eDM_1.jpg
       alt: Image alt text
 ---
