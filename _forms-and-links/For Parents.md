@@ -34,6 +34,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/23_Feb_2024_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">23 February 2024</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Forms</strong></h4>
@@ -53,15 +62,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/absence%20during%20school%20term.pdf" rel="noopener noreferrer nofollow" target="_blank">Informing School of Child's Absence During School Term Form</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/travel%20during%20school%20holidays_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel During School Holidays Form</a>
 </p>
 </td>
 </tr>
