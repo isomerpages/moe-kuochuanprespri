@@ -65,15 +65,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/travel%20during%20school%20holidays_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel During School Holidays Form</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Useful Links</strong></h4>
