@@ -61,7 +61,9 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/absence%20during%20school%20term.pdf" rel="noopener noreferrer nofollow" target="_blank">Informing School of Child's Absence During School Term Form</a>
+<p><a href="/files/absence%20during%20school%20term.pdf" rel="noopener noreferrer nofollow" target="_blank">Informing Sch</a>
+<a href="/files/Absence_During_School_Term_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/absence%20during%20school%20term.pdf" rel="noopener noreferrer nofollow" target="_blank">ool of Child's Absence During School Term Form</a> 
+<a href="/files/Absence_During_School_Term_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
 </p>
 </td>
 </tr>
