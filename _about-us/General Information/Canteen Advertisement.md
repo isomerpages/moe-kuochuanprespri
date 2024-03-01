@@ -9,9 +9,8 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Stall 2: Japanese/Western/Vegetarian Stall     | 31 March 2024     | Japanese/Western/Vegetarian Cuisine |
-| Stall 3: Economy Stall     | 31 March 2024     | Economy Cuisine |
-| Stall 6: Malay Stall     | 31 March 2024     | Malay Cuisine (Halal)  |
+| Stall 3: Economy Stall     | 30 April 2024     | Economy Cuisine |
+| Stall 5: Malay Stall     | 30 April 2024     | Malay Cuisine (Halal)  |
 
 **Application Procedure**
 
