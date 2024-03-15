@@ -23,13 +23,13 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Ms Tan Sock Miang (Sherry)<br>Mdm Monica Heng | 1 Agape |
+| Ms Tan Sock Miang (Sherry)<br>Ms Lee Yichien (Julie) | 1 Agape |
 | Ms Sukanya Ramanan<br> Ms Jacqueline Chng  | 1 Brilliance  |
 | Ms Sim Pueh Gek<br>Mrs Eveline Yeo    | 1 Courage |
-| Mdm Linda Tan<br> | 1 Diligence |
+| Mdm Linda Tan<br>Mr Quek Yixian Timothy | 1 Diligence |
 | Mdm Jumaina Binte Aman<br>Mrs Tan Xuan  | 1 Excellence |
 | Mdm Rasheedah Bte Mohd Jin <br>Ms Tay Hui Peng Bernie  | 1 Faith |
-| Mdm Nurulhana Bte Salim<br>Mr Quek Yixian Timothy | 1 Grace |
+| Mdm Nurulhana Bte Salim<br>Mrs Selene Wong  | 1 Grace |
 | Mrs Wong Siew Hwee<br>Mdm Chua Yeong Joo (Cynthia) | 1 Hope |
 |
 
@@ -53,7 +53,7 @@ variant: markdown
 | Name | Class |
 |---|---|
 |  Ms Angeline Ang<br>Mr Lim Teck Lee (Joshua)  | 3 Agape |
-| Mr Vernon Tan<br>Ms Christina Chang Kar Hwee | 3 Brilliance |
+| Mdm Mindy Tan Wei Yu<br>Ms Christina Chang Kar Hwee | 3 Brilliance |
 | Mr Mohammed Nuraimi Osman<br>Ms Pow Chen Xian| 3 Courage   |
 | Mdm Tang Shia Ling Shirley <br>Mdm Valiamay D/O Sathiah | 3 Diligence  |
 | Mdm Suzana Bte Kamsir<br>Mdm Jerena Lee | 3 Excellence  |
@@ -103,10 +103,10 @@ variant: markdown
 
 | Name | Designation |
 |---|---|
-| Mdm Goh Siew Tee | Chinese Language Teacher |
 | Ms Lee Choon Yen Joy | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
-|Ms Betty Chua | English Language &amp; Mathematics Teacher |
+| Mrs Agnes Tan | English Language Teacher  |
+|Ms Susan Tee| Science Teacher |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 |
