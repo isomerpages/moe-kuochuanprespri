@@ -103,10 +103,10 @@ variant: markdown
 
 | Name | Designation |
 |---|---|
-| Mdm Goh Siew Tee | Chinese Language Teacher |
 | Ms Lee Choon Yen Joy | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
-|Ms Betty Chua | English Language &amp; Mathematics Teacher |
+| Mrs Agnes Tan | English Language Teacher  |
+|Ms Susan Tee| Science Teacher |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 |
