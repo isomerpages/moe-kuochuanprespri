@@ -14,7 +14,7 @@ The Kuo Chuan Presbyterian Schools' School Management Committee (SMC) is appoint
 |---|---|
 | Elder Kevin Lee | Chairman |
 | Mr Loh Pui Wah | Vice-Chairman |
-| Deacon Gregory Tan | Hon. Treasurer |
+| Mr Gregory Tan | Hon. Treasurer |
 | Ms Lena Teoh Chyin | Assistant Hon. Treasurer  |
 | Elder John Ng  | Hon. Secretary |
 | Elder Lee Shee Koeng | Member  |
