@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/web_banner_hr.gif
+      background: /images/Banner_PNG.png
       url: /contact-us/
       key_highlights:
         - title: Announcements
@@ -19,6 +19,7 @@ sections:
         - title: Parents Gateway
           description: ""
           url: https://staging.d1z9x0wjo2oybj.amplifyapp.com/Forms/Links/For-Parents/
+      variant: center
   - infopic:
       title: KCP 100
       subtitle: CENTENNIAL
