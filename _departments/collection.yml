@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Management and Leadership.md
       - English Department.md
       - Mathematics Department.md
       - Science Department.md
@@ -11,4 +10,5 @@ collections:
       - Physical Education.md
       - ICT & MRL.md
       - CCE Department.md
+      - Student Management and Leadership.md
       - Student Management and Leadership 1.md
