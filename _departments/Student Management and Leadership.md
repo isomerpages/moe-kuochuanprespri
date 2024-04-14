@@ -2,9 +2,9 @@
 title: Student Management and Leadership
 permalink: /departments/student-management-and-leadership/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **Student Management and Leadership**
+### **Student Management**
 
 #### **Philosophy**
 In KCPPS, we believe that all students should be given a chance to be a student leader. Student leaders will be anchored in sound values and have a desire to serve others. The department looks into the whole-school approach towards discipline as well as equipping our pupils with leadership skills to enable them to be Exemplary Leaders who are active contributors and champions of worthy causes.
