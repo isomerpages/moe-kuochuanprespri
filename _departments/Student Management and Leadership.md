@@ -2,7 +2,7 @@
 title: Student Management and Leadership
 permalink: /departments/student-management-and-leadership/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Student Management and Leadership</strong></h3>
 <h4><strong>Philosophy</strong></h4>
