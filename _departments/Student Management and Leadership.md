@@ -1,8 +1,8 @@
 ---
 title: Student Management and Leadership
-permalink: /departments/student-management-and-leadership/
+permalink: /student-management-and-leadership/
+variant: tiptap
 description: ""
-variant: markdown
 ---
 <h3><strong>Student Management and Leadership</strong></h3>
 <h4><strong>Philosophy</strong></h4>
