@@ -42,15 +42,15 @@ to equip them for their leadership roles.</p>
 <div class="isomer-image-wrapper">
 <img style="width:%" height="auto" width="100%" src="/images/DSL%201.jpg">
 </div>
-<p>**Student leaders engaging in a team activity during the student leadership
-camp**</p>
+<p><strong>Student leaders engaging in a team activity during the student leadership camp</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:%" height="auto" width="100%" src="/images/DSL%202.jpg">
 </div>
-<p>**Student leaders in action: Interacting with the elderly during a home
-visit**</p>
+<p><strong>Student leaders in action: Interacting with the elderly during a home visit</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:" height="auto" width="100%" src="/images/DSL%203.jpg">
 </div>
-<p>**Student leaders in action: Being a docent in KCPPS Heritage Experiential
-Hub**</p>
+<p><strong>Student leaders in action: Being a docent in KCPPS Heritage Experiential Hub</strong>
+</p>
