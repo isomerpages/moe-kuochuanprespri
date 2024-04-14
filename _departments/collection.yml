@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Management and Leadership 1.md
       - English Department.md
       - Mathematics Department.md
       - Science Department.md
