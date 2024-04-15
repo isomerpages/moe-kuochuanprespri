@@ -1,5 +1,5 @@
 ---
-title: Student Management
+title: Student Mgmt & Leadership
 permalink: /departments/student-management/
 variant: tiptap
 description: ""
