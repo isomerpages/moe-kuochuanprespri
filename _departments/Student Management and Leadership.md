@@ -1,6 +1,6 @@
 ---
 title: Student Management and Leadership
-permalink: /student-management-and-leadership/
+permalink: /departments/cce-department/
 variant: tiptap
 description: ""
 ---
