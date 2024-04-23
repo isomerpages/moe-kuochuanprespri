@@ -10,7 +10,7 @@ variant: markdown
 
 | Name | Designation |
 |---|---|
-| Mdm Anna Shii | Lead Teacher (Learner Profile) |
+| Mdm Anna Shii | Lead Teacher (Learner Needs - Lower Primary) |
 | Mr John Low Wee Liang | Senior Teacher (English Language)  |
 | Mdm Stpal Kaur | Senior Teacher (Mathematics)  |
 | Mrs Tan Cheng Yeen | Senior Teacher (Music)  |
