@@ -9,14 +9,6 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>1.</p>
 </td>
@@ -48,7 +40,7 @@ variant: tiptap
 <p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/15_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">15_March_2024</a>
+<p><a href="/files/15_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">15<u> </u>March 2024</a>
 </p>
 </td>
 </tr>
@@ -58,6 +50,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024_5_Letter_to_parents_28_Mar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">28 March 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/26_April_2024_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">26 April 2024</a>
 </p>
 </td>
 </tr>
