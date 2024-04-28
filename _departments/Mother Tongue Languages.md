@@ -2,7 +2,7 @@
 title: Mother Tongue Languages
 permalink: /departments/mother-tongue-languages/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 ### **Mother Tongue Languages**
 
