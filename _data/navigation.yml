@@ -34,8 +34,8 @@ links:
         url: /departments/Mathematics-Department/
       - title: Science Department
         url: /departments/Science-Department/
-      - title: Mother Tongue
-        url: /departments/Mother-Tongue/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages/
       - title: Aesthetic Department
         url: /departments/Aesthetic-Department/
       - title: Physical Education Department
@@ -69,9 +69,11 @@ links:
       - title: Clubs & Societies
         url: /cca/Clubs-and-Societies/
   - title: Achievements
-    url: /achievements-2023/2023/
+    url: /achievements-2024/2024/
     sublinks:
-      - title: Achievements 2023
+      - title: Achievements 2024
+        url: /achievements-2024/2024/
+      - title: "2023"
         url: /achievements-2023/2023/
       - title: "2022"
         url: /achievements-2022/2022/
