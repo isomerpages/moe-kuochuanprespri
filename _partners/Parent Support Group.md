@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /partners/Parent-Support-Group/
 description: ""
+variant: markdown
 ---
 ### **Parent Support Group**
 
@@ -13,25 +14,26 @@ Their belief in us, their presence in school and their efforts in supporting the
 
 
 
-You can join the PSG and volunteer your services to the school. Please fill up the [PSG Recruitment Form](http://gg.gg/KCPPS-PSG) or you can send a request  via email to [kcppspsvg@gmail.com](mailto:kcppspsvg@gmail.com). In doing so, you will have a better understanding of our staff, our school and its programmes. For more information, please visit their Facebook page at [https://www.facebook.com/kcpps.psg](https://www.facebook.com/kcpps.psg).
+You can join the PSG and volunteer your services to the school. Please fill up the&nbsp;[PSG Recruitment Form](http://gg.gg/KCPPS-PSG)&nbsp;or you can send a request &nbsp;via email to&nbsp;[kcppspsvg@gmail.com](mailto:kcppspsvg@gmail.com). In doing so, you will have a better understanding of our staff, our school and its programmes. For more information, please visit their Facebook page at&nbsp;[https://www.facebook.com/kcpps.psg](https://www.facebook.com/kcpps.psg).
 
   
 
 PSG Exco:
 
-Chairman: Mr Edward Lim<br>
-Vice-Chairman: Mdm Tang Simin<br>
-Secretary: Mrs Eileen Bean<br>
-Treasurer: Mrs Doris Cheng
+Chairman:&nbsp;Mr Edward Lim<br>
+Vice-Chairman:&nbsp;Mdm Tang Simin<br>
+Secretary: Mrs Valerie Ang<br>
+Treasurer:&nbsp;Mrs Doris Cheng
 
   
 
 Members:<br>
 Mrs Lim Chion Ting<br>
-Mrs Valerie Ang<br>
+Mrs Eileen Bean<br>
 Mrs Poh Wai Leng<br>
 Mrs Gisele Lee<br>
 Mrs Pavithra d/o Subramaniam<br>
 Mrs Doris Shee<br>
 Mrs Tay Li Li<br>
-Mrs Carmen Wong
+Mrs Carmen Wong<br>
+Mr Adrian Toh
