@@ -20,19 +20,18 @@ Pupils will be having their e-learning on 17 May 2024. Please click on the attac
 
 
 
-Should you encounter any issues with SLS, you can contact the following helplines:
-SLS Helpdesk
-Tel no: (65) 6702 6513
+Should you encounter any issues with SLS, you can contact the following helplines:<br>
+SLS Helpdesk <br>Tel no: (65) 6702 6513 <br>
 Email: helpdesk@sls.ufinity.com
 
-Operating hours: 
-Mondays to Fridays: 4 p.m. - 9 p.m.
-Saturdays: 9 a.m. - 3 p.m.
-* Closed on Sundays &amp; Public Holidays
+Operating hours: <br>
+Mondays to Fridays: 4 p.m. - 9 p.m. <br>
+Saturdays: 9 a.m. - 3 p.m. <br>
+*Closed on Sundays &amp; Public Holidays
 
-School Based SLS Helpline
-Tel no: (65) 6259 5396
-Tel no: 6230 8571 (WhatsApp only)
+School Based SLS Helpline <br>
+Tel no: (65) 6259 5396 <br>
+Tel no: 6230 8571 (WhatsApp only)<br>
 Email: ronnie_kuek_kia_wee@moe.edu.sg
 
 Operating hours:
