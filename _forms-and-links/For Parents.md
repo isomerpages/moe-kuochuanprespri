@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h3><strong>For Parents</strong></h3>
 <h4><strong>Principal's Letter to Parents</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -62,10 +66,23 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/24_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">24_May_2024</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Forms</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
