@@ -9,8 +9,8 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Stall 3: Economy Stall     | 30 April 2024     | Economy Cuisine |
-| Stall 5: Malay Stall     | 30 April 2024     | Malay Cuisine (Halal)  |
+| Stall 3: Economy Stall     | 31 August 2024     | Economy Cuisine |
+| Stall 5: Malay Stall     | 30 August 2024     | Malay Cuisine (Halal)  |
 
 **Application Procedure**
 
