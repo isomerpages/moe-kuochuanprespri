@@ -45,10 +45,7 @@ becoming a school of choice today. As we celebrate our many accomplishments
 and honour those who came before us, let us continue to strive, grow, and
 move forward nimbly and confidently on the strong foundation built over
 the past 100 years!</p>
-<p></p>
-<p>To God be the Glory!
-<br>
-</p>
+<p>To God be the Glory!</p>
 <p>Blessings!
 <br>
 <br>Mrs Yee-Toh Gek Khiaw
