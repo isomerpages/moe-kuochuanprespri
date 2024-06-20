@@ -8,8 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:60%; height:50%;" height="auto" width="100%" src="/images/principal.jpg">
 </div>
+<p></p>
 <p>Blessed Semester 2, 2024!
-<br>
 <br>
 </p>
 <p>We thank you, our beloved readers, for your interest in checking out our
@@ -48,13 +48,10 @@ the past 100 years!</p>
 <p></p>
 <p>To God be the Glory!
 <br>
-<br>
 </p>
 <p>Blessings!
 <br>
-<br>
-</p>
-<p>Mrs Yee-Toh Gek Khiaw
+<br>Mrs Yee-Toh Gek Khiaw
 <br>Principal
 <br>Kuo Chuan Presbyterian Primary School</p>
 <p></p>
