@@ -75,6 +75,14 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 June 2024</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Forms</strong></h4>
