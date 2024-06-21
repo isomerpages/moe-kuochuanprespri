@@ -80,7 +80,8 @@ variant: tiptap
 <p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 June 2024</p>
+<p><a href="/files/2024_08_Letter_to_parents_21_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">21 June 2024</a>
+</p>
 </td>
 </tr>
 </tbody>
