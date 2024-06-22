@@ -10,7 +10,7 @@ variant: markdown
 |:---:|:---:|:---:|
 |  Artistic Gymnastics | Mdm Monica Heng<br>Ms Chew Jia Yi<br>Ms Sim Pueh Gek<br>Mdm Choo Boon Hiong<br>Ms Lee Yichien (Julie) | KCPPS Hall Of Faith |
 | Badminton | Ms Yao Hai Ping<br>Ms Patience Leong Ying Ai<br>Ms Pow Chen Xian<br>Mdm Kong Yin Han Esther<br>Mr Lim Teck Lee (Joshua)| KCPPS Indoor Sports Hall |
-| Basketball | Ms Lim Hwee Hong (Kayci)<br>Mr Phua Ze Yong<br>Mr Ang Gan Jie (Alan)<br>Mdm Harunnisha d/o Muhd Jamaludeen | KCPPS Basketball Court |
+| Basketball | Ms Kayci Lim<br>Mr Phua Ze Yong<br>Mr Ang Gan Jie (Alan)<br>Mdm Harunnisha d/o Muhd Jamaludeen | KCPPS Basketball Court |
 | Football | Mr Mohd Najib Bin Mohidu Kunyalee<br>Mr Sathiamoorthi<br>Ms Ng Shi Hui<br>Ms Angeline Ang | School Field |
 | Rope Skipping | Mdm Kam Ee Ling<br>Mdm Ong Wee Chyun<br>Mrs Eveline Yeo<br>Mdm Stpal Kaur | PAC |
 | Swimming | Ms Tan Sock Miang (Sherry)<br>Mdm Valiamay D/O Sathiah<br>Ms Sukanya Ramanan | Bishan Swimming Complex |
