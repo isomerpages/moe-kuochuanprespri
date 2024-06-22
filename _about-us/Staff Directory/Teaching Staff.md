@@ -69,7 +69,7 @@ variant: markdown
 | Mdm Junaina Bte Leman <br> Mdm Tan Shih Pin | 4 Courage |
 |Mr Ang Gan Jie (Alan)<br>Mrs Michelle Ng | 4 Diligence |
 | Mdm April Chew <br>Mdm Bay Gui Fang, Malisa | 4 Excellence |
-|Mdm Sisca Haryanto<br>Mdm Chong Li Chen<br>Mdm Tan Seo Pheng   | 4 Faith
+|Mdm Chong Li Chen<br>Mdm Tan Seo Pheng   | 4 Faith
 |
 
 ##### **Upper Primary**
@@ -77,7 +77,7 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Mdm Yew Seok Chun (Lynn)<br>Ms Julie Ann | 5 Agape |
+| Mdm Yew Seok Chun (Lynn)<br>Ms Julie Ann De Silva | 5 Agape |
 | Mdm Karen Thiang Soo Cheng<br>Mdm Tay Hui Phing | 5 Brilliance |
 | Mr Koh Tee Gay | 5 Courage |
 | Ms Thye Tzy Huoy<br>Mrs Emily Tang  | 5 Diligence  |
@@ -103,11 +103,13 @@ variant: markdown
 
 | Name | Designation |
 |---|---|
-| Ms Lee Choon Yen Joy | Chinese Language Teacher  |
+| Mdm Neo Aixin | Chinese Language Teacher  |
+| Mdm Pang Mee Mee | Chinese Language Teacher  |
+| Mdm Yam Keng Jiao | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
 | Mrs Agnes Tan | English Language Teacher  |
-| Ms Pang Sook Fui | English Language and Science Teacher  |
-|Ms Susan Tee| Science Teacher |
+| Ms Tye Meifen Jasmine| Music Teacher |
+| Mr Sixtus Goh Wee Leng| Science Teacher |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 |
