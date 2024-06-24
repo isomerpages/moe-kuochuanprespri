@@ -35,7 +35,6 @@ To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@
 | Mdm Suhana Abdul Hamid  | Level Head/ English Language|
 | Ms Ong Tan Fong  | Level Head/ Mathematics |
 | Mdm Ong Wee Chyun | Subject Head/ Chinese Language |
-| Mr Lim Teck Lee (Joshua) | Subject Head/ Science |
 | Mdm Jerena Lee | Subject Head/ Social Studies |
 | Mr Phua Ze Yong | Subject Head/ Student Management and Leadership |
 | Mrs Tan Xuan | Subject Head/ PE & CCA  |
