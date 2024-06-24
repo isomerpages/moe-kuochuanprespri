@@ -109,7 +109,7 @@ variant: markdown
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
 | Mrs Agnes Tan | English Language Teacher  |
-| Ms Tye Meifen Jasmine| Music Teacher |
+| Mdm Tye Meifen Jasmine| Music Teacher |
 | Mr Sixtus Goh Wee Leng| Science Teacher |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 |
