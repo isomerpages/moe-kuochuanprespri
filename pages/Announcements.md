@@ -14,9 +14,9 @@ A copy of the latest Letter to Parents has been sent via the Parents Gateway app
 
 #### E-Learning Day
 
-Pupils will be having their e-learning on 17 May 2024. Please click on the attached file for the E-learning day assignments. Pupils will be able to access the online assignments from 17 May, 7 a.m. onwards.
+Pupils will be having their e-learning on 28 June 2024. Please click on the attached file for the E-learning day assignments. Pupils will be able to access the online assignments from 17 May, 7 a.m. onwards.
 
-[2024 E-Learning Assignments](/files/2024__e_learning_plan__17_May_.pdf)
+[[2024 E-Learning Day Assignments](/files/2024__e_learning_plan__28_June_2024__Master.pdf)]
 
 
 
