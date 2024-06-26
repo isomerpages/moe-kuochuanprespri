@@ -34,5 +34,5 @@ Tel no: (65) 6259 5396 <br>
 Tel no: 6230 8571 (WhatsApp only)<br>
 Email: ronnie_kuek_kia_wee@moe.edu.sg
 
-Operating hours:
+Operating hours: <br>
 Mondays to Fridays: 8 a.m. - 4 p.m.
