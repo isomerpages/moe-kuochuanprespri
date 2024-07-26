@@ -89,7 +89,7 @@ variant: tiptap
 <p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_09_Letter_to_parents_26_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">26 July 2024</a>
+<p><a href="/files/2024_09_Letter_to_parents_26_July_2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">26 July 2024</a>
 </p>
 </td>
 </tr>
