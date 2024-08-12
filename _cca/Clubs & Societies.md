@@ -13,10 +13,6 @@ variant: markdown
 | Visual Arts Club  |  Mdm Ho Tracia<br>Mdm Tay Hui Peng Bernie<br>Ms Tan Pei Pei | Art Room  |
  |
  
-**Eco Club**  
-
-Pupils are engaged in activities weekly to promote environmental awareness and active care for the school and nation.&nbsp;Selected pupils compete in&nbsp;national&nbsp;competitions. They will also showcase their projects on 'Clean &amp; Green' and promote Biodiversity and Earth Day.
-
 **Mind Games Club&nbsp;_(Chess &amp; Scrabble)_**
 
 Pupils learn problem-solving skills and enhance their vocabulary in a fun way. They learn strategies to play well in a scrabble game.&nbsp;Selected pupils compete in individual /group events at zonal/&nbsp;national competitions.
