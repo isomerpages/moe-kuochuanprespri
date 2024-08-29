@@ -93,6 +93,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024_10_Letter_to_parents_29_August_2024_.pdf" rel="noopener nofollow" target="_blank">29 August 2024</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Forms</strong></h4>
