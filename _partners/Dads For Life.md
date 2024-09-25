@@ -2,18 +2,17 @@
 title: Dads For Life
 permalink: /partners/Dads-For-Life/
 description: ""
+variant: markdown
 ---
-### **Dads for Life**
+### **Partnership with Parents**
+KCPPS believes strongly in the importance of a strong collaboration between parents and teachers to foster a positive and supportive environment for the holistic development of our pupils.
 
-Dads for Life is a National Fathers Movement that seeks to inspire, mobilise and involve fathers to become good influencers in their children's lives... for Life!
+### **Dads for Life (DFL)**
 
-Discover loads of power-packed content that'll have your kids listening and standing tall. Get aboard with other Dads to grow smarter, wiser, and simply Dad Better!
+Dads for Life is a National Fathers Movement that seeks to inspire, mobilise and involve fathers to become good influencers in their children’s lives… for Life!
 
-For more information on the Dads for Life movement in Singapore, please click on the following link: [https://dadsforlife.sg/](https://dadsforlife.sg/%C2%A0)
+Since 2009, KCPPS has supported the DFL movement and organised programmes for pupils to take part with their fathers. From 2020, with the cessation of funding, the KCPPS Parent Support Group continued to organise DFL activities using its own resources. The programme was put on hold between 2020 and 2022 due to the pandemic. In 2023, the DFL programme resumed during the endemic phase, providing opportunities for our pupils to bond together with their fathers. 
 
-#### **If you’re a dad, or a father-figure in someone’s life, come join the Dads for Life community in KCPPS!**
+### **Families for Life (FFL)**
 
-Please fill up the [PSG Recruitment Form](https://docs.google.com/forms/d/1wiZuY2OKcifhqusZlUsnox_HIA2XZPd-Kx_o0ap9EQQ/viewform?edit_requested=true) or you can send a request via email to [kcppspsvg@gmail.com](mailto:kcppspsvg@gmail.com)
-
-For more information on the DFL activities in KCPPS, please visit the KCPPS PSG Facebook page at [https://www.facebook.com/kcpps.psg](https://www.facebook.com/kcpps.psg).   
-
+In 2024, the school transited from DFL to FFL to a promote a “Families for Life” mindset and value among KCPPS families. This enabled our pupils to bond with both parents at the same time. The school held its inaugural FfL event, MAP for Success, a light-themed STEM workshop, on Saturday 22 June. Our second FfL activity, Family Sports Day, was held on Friday 06 September. It was heartwarming to see our pupils and their parents bonding with one another as they participated actively in the FFL activities.
