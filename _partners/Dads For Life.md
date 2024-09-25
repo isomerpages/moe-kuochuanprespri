@@ -15,4 +15,4 @@ Since 2009, KCPPS has supported the DFL movement and organised programmes for pu
 
 ### **Families for Life (FFL)**
 
-In 2024, the school transited from DFL to FFL to a promote a “Families for Life” mindset and value among KCPPS families. This enabled our pupils to bond with both parents at the same time. The school held its inaugural FfL event, MAP for Success, a light - themed STEM workshop, on Saturday 22 June. Our second FfL activity, Family Sports Day, was held on Friday 06 September. It was heartwarming to see our pupils and their parents bonding with one another as they participated actively in the FFL activities.  
+In 2024, the school transited from DFL to FFL to a promote a “Families for Life” mindset and value among KCPPS families. This enabled our pupils to bond with both parents at the same time. The school held its inaugural FfL event, MAP for Success, a light - themed STEM workshop, on Saturday 22 June. Our second FfL activity, Family Sports Day, was held on Friday 06 September. It was heartwarming to see our pupils and their parents bonding with one another as they participated actively in the FFL activities.
