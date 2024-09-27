@@ -1,6 +1,6 @@
 ---
-title: Dads For Life
-permalink: /partners/Dads-For-Life/
+title: Families for Life
+permalink: /partners/families-for-life/
 description: ""
 variant: markdown
 ---
