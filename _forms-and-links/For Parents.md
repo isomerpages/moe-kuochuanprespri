@@ -179,5 +179,4 @@ school features and tips.</p>
 </ul>
 <p>The Ministry of Education, Singapore, has implemented many initiatives
 to support students with mild special educational needs in mainstream school.&nbsp;
-<a href="https://www.moe.gov.sg/special-educational-needs/" rel="noopener noreferrer nofollow" target="_blank">This webpage</a>&nbsp;lists the resources available.<a href="/files/2024_2_Letter_to_parents_26_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">26 January 2024</a>
-</p>
+<a href="https://www.moe.gov.sg/special-educational-needs/" rel="noopener noreferrer nofollow" target="_blank">This webpage</a>&nbsp;lists the resources available.</p>
