@@ -14,7 +14,7 @@ Their belief in us, their presence in school and their efforts in supporting the
 
 
 
-You can join the PSG and volunteer your services to the school. Please fill up the&nbsp;[PSG Recruitment Form](http://gg.gg/KCPPS-PSG)&nbsp;or you can send a request &nbsp;via email to&nbsp;[kcppspsvg@gmail.com](mailto:kcppspsvg@gmail.com). In doing so, you will have a better understanding of our staff, our school and its programmes. For more information, please visit their Facebook page at&nbsp;[https://www.facebook.com/kcpps.psg](https://www.facebook.com/kcpps.psg).
+You can join the PSG and volunteer your services to the school. Please fill up the [PSG Recruitment Form](tiny.cc/Join-KCPPSPSG)&nbsp;or you can send a request &nbsp;via email to&nbsp;[kcppspsvg@gmail.com](mailto:kcppspsvg@gmail.com). In doing so, you will have a better understanding of our staff, our school and its programmes. For more information, please visit their Facebook page at&nbsp;[https://www.facebook.com/kcpps.psg](https://www.facebook.com/kcpps.psg).
 
   
 
