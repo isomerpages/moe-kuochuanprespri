@@ -10,7 +10,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | Chinese Dance |Mdm Chua Yeong Joo (Cynthia)<br>Mrs Wong Siew Hwee<br> Ms Ong Shi Han<br>Mdm Sisca Christine Haryanto | PAL Rooms 1 &amp; 2 |
 | Choir | Mrs Tan Cheng Yeen<br>Ms Jacqueline Chng <br>Mdm Linda Tan | Music Room<br>  |
-| Concert Band | Ms Zipporah Asha Zaccheus<br>Mdm Jerena Lee<br>Mdm Lee Lay Hoon (Stephanie)<br>Ms Joyce Tan Ser Yan<br>| Band Room &amp; Adjacent classrooms |
+| Concert Band | Ms Zipporah Asha Zaccheus<br>Mdm Jerena Lee<br>Mdm Lee Lay Hoon (Stephanie)<br>Ms Joyce Tan Ser Yan<br>| Band Room &amp; Adjacent classrooms<br>(Held on Mondays and Fridays from 2.00 p.m. to 5.00 p.m.) |
 | Drama | Mdm Junaina Binte Leman<br>Mdm Suhana Abdul Hamid<br>Mrs Jolene Sze Toh<br>Mr John Low Wee Liang | InnoHub &amp; Green Room |
 | Guitar Club | Mrs Eugenie Yeoh<br>Mdm Priya Lisa Balasundram<br>Mdm Tang Shia Ling Shirley<br> | Music Room     |
 | Visual Arts Club  |  Mdm Ho Tracia<br>Mdm Tay Hui Peng Bernie<br>Ms Tan Pei Pei<br>Ms Soh Hwee Ling | Art Room  |
