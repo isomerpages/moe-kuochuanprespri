@@ -29,7 +29,7 @@ variant: tiptap
 <p>Stall 3: Economy Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 August 2024</p>
+<p>31 March 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Economy Cuisine</p>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Stall 5: Malay Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 August 2024</p>
+<p>31 March 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Cuisine (Halal)</p>
