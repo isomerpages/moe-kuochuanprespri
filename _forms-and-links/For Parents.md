@@ -134,7 +134,7 @@ variant: tiptap
 <p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27 December 2024</p>
 </td>
 </tr>
 </tbody>
