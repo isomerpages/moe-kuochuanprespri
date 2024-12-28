@@ -33,6 +33,3 @@ PSG Exco:
 | Ms Chiam Li Li | Member |
 | Mr Adrian Toh | Member |
 |
-
-
-
