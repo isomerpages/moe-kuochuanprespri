@@ -19,21 +19,17 @@ You can join the PSG and volunteer your services to the school. Please fill up t
   
 
 PSG Exco:
-
-Chairman:&nbsp;Mr Edward Lim<br>
-Vice-Chairman:&nbsp;Mdm Tang Simin<br>
-Secretary: Mrs Valerie Ang<br>
-Treasurer:&nbsp;Mrs Doris Cheng
-
-  
-
-Members:<br>
-Mrs Lim Chion Ting<br>
-Mrs Eileen Bean<br>
-Mrs Poh Wai Leng<br>
-Mrs Gisele Lee<br>
-Mrs Pavithra d/o Subramaniam<br>
-Mrs Doris Shee<br>
-Mrs Tay Li Li<br>
-Mrs Carmen Wong<br>
-Mr Adrian Toh
+|||
+|---|---|
+| Mrs Doris Cheng | Chairman |
+| Mrs Wong Wu Ka Man | Vice-Chairman |
+| Ms Valerie Ong | Secretary |
+| Mrs Doris Shee | Treasurer  |
+| Mrs Eileen Bean  | Member |
+| Mrs Lim Chion Ting| Member  |
+| Ms Tang Simin | Member |
+| Ms Gisele Chen | Member |
+| Ms Pavithra d/o Subramaniam | Member |
+| Ms Chiam Li Li | Member |
+| Mr Adrian Toh | Member |
+|
