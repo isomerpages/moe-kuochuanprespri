@@ -104,12 +104,9 @@ variant: markdown
 | Name | Designation |
 |---|---|
 | Mdm Neo Aixin | Chinese Language Teacher  |
-| Mdm Pang Mee Mee | Chinese Language Teacher  |
-| Mdm Yam Keng Jiao | Chinese Language Teacher  |
+| Mdm Koh Yi Guan Paticia | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
-| Mrs Agnes Tan | English Language Teacher  |
-| Mdm Tye Meifen Jasmine| Music Teacher |
-| Mr Sixtus Goh Wee Leng| Science Teacher |
+| Mdm Lee Soo Wah| English Language and Mathematics Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 |
