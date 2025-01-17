@@ -9,7 +9,7 @@ variant: markdown
 |       CCA       |                        Teachers In-charge                        |        Venue       |
 |:---------------:|:----------------------------------------------------------------:|:------------------:|
 |      Mind Games Club | Mdm April Chew<br> Mdm Agnes Pang<br> Mdm Suzana Bte Kamsir | Level 3 classrooms |
-|  New Media Club |             Mr Mohammed Nuraimi Osman<br>  Ms Ong Tan Fong<br>Mrs Selene Wong           |   Computer Labs    |
+|  New Media Club |             Mr Mohammed Nuraimi Bin Osman<br>  Ms Ong Tan Fong<br>Mrs Selene Wong           |   Computer Labs    |
 | Visual Arts Club  |  Mdm Ho Tracia<br>Mdm Tay Hui Peng Bernie<br>Ms Tan Pei Pei<br>Ms Soh Hwee Ling | Art Room  |
  |
  
