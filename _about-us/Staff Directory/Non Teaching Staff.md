@@ -13,8 +13,8 @@ variant: markdown
 | Mr Toh Wei Min David | Administration Manager |
 | Mr Lum Sow Loon | Operations Manager |
 | Mr Mohamad Fazil Bin Yusoff | ICT Manager |
-| Mdm May Ng | Admin Executive |
-| Mdm Sharon Leong | Admin Executive |
+| Mdm May Ng | Administrative Executive |
+| Mdm Sharon Leong | Administrative Executive |
 | Mdm Teresa Choong | Corporate Support Officer |
 | Mdm Surini Samsudin | Corporate Support Officer |
 |
