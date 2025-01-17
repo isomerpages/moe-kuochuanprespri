@@ -10,9 +10,9 @@ variant: markdown
 
 | Name | Designation |
 |---|---|
-| Mr Toh Wei Min (David) | Administration Manager |
+| Mr Toh Wei Min David | Administration Manager |
 | Mr Lum Sow Loon | Operations Manager |
-| Mr Mohamad Fazil Bin Yisoff | ICT Manager |
+| Mr Mohamad Fazil Bin Yusoff | ICT Manager |
 | Mdm May Ng | Admin Executive |
 | Mdm Sharon Leong | Admin Executive |
 | Mdm Teresa Choong | Corporate Support Officer |
@@ -35,7 +35,7 @@ variant: markdown
 | Mdm Shanti Raju | Operations Support Officer |
 | Mr Tham Tee Huat | Operations Support Officer |
 | Mdm Kamisah Binti Ahmad | Receptionist |
-| Mr Mohd Khairil Azmi Baharudin | Desktop Engineer |
-| Mr Fikri Azri Bin Mohd Halimi | Desktop Engineer |
-| Ms Mahua Goswami | Library Assistant |
+| Mr Mohd Khairil Azmi Bin Baharudin | Desktop Engineer |
+| Mr Muhammad Fikri Azri Bin Mohd Halimi | Desktop Engineer |
+| Ms Goswami Mahua  | Library Assistant |
 |
