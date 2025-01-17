@@ -29,7 +29,7 @@ To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@
 | Mdm Tan Seo Pheng | HOD / Student Management |
 | Mrs Michelle Ng | HOD / Character and Citizenship Education |
 | Mdm Lim Fung Hwee  | 	HOD / ICT & MRL  |
-| Mdm Bay Gui Fang, Malisa    | 	School Staff Developer   |
+| Mdm Bay Gui Fang Malisa    | 	School Staff Developer   |
 | Mr Goh Khong Lim   | Year Head / Upper Primary   |
 | Mr Christopher Tan | Year Head / Middle Primary |
 | Ms Toh Cailu Natalie Joanne | Year Head / Lower Primary   |
@@ -43,6 +43,6 @@ To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@
 | Mdm See Su Ying Eunice  | Assistant Year Head / Upper Primary   |
 | Mrs Eveline Yeo  | Assistant Year Head / Middle Primary   |
 | Ms Ong Shi Han   | Assistant Year Head / Lower Primary   |
-| Mr Toh Wei Min (David) | 	Administration Manager |
+| Mr Toh Wei Min David | 	Administration Manager |
 | Mr Lum Sow Loon | 	Operations Manager |
 |
