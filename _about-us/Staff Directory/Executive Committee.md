@@ -36,8 +36,8 @@ To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@
 | Mdm Suhana Abdul Hamid  | Level Head / English Language|
 | Ms Ong Tan Fong  | Level Head / Mathematics |
 | Mdm Jerena Lee | Subject Head / Social Studies |
-| Mr Phua Ze Yong | Subject Head / Student Management and Leadership |
-| Mrs Janice Lim | Subject Head / Student Leadership |
+| Mr Phua Ze Yong | Subject Head / Student Management |
+| Mdm Janice Chee | Subject Head / Student Leadership |
 | Ms Christina Chang Kar Hwee | Subject Head / Character and Citizenship Education  |
 | Mdm Ng Lenni | Subject Head / ICT  |
 | Mdm See Su Ying Eunice  | Assistant Year Head / Upper Primary   |
