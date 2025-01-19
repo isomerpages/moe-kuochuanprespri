@@ -77,7 +77,7 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Mr Mohd Najib Bin Mohidu Kunyalee<br>Mrs Janice Lim | 5 Agape |
+| Mr Mohd Najib Bin Mohidu Kunyalee<br>Mdm Janice Chee | 5 Agape |
 | Mdm Balasundram Priya Lisa <br>Mr James Tan | 5 Brilliance |
 | Mdm Jerena Lee<br>Mdm Sisca Christine Haryanto| 5 Courage |
 | Ms Ong Tan Fong<br>Mrs Jolene Sze Toh  | 5 Diligence  |
