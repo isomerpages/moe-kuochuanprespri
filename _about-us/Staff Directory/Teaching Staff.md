@@ -93,7 +93,7 @@ variant: markdown
 | Mdm Yew Seok Chun Lynn<br>Mr Phua Ze Yong  | 6 Agape |
 | Mrs Tan Cheng Yeen<br>Mdm Tay Hui Phing | 6 Brilliance |
 | Mr Koh Tee Gay <br>Mdm Lim Fung Hwee  | 6 Courage |
-| Ms Thye Tzy Huoy<br>Mdm Bay Gui Fang, Malisa | 6 Diligence         |
+| Ms Thye Tzy Huoy<br>Mdm Bay Gui Fang Malisa | 6 Diligence         |
 | Mdm Harunnisha d/o Mohd Jamaludeen<br>Mr Soo Gham Seng <br>  | 6 Excellence |
 | Mrs Kerstin Seah<br>Mdm Kong Yin Han Esther | 6 Faith  |
 |Mdm Suhana Abdul Hamid<br>Mdm Wong Siow Lai| 6 Grace  |
