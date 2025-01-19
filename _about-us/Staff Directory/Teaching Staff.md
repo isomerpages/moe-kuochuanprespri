@@ -67,7 +67,7 @@ variant: markdown
 | Mr Lim Teck Lee Joshua<br>Ms Lim-Tan Shuat Har | 4 Agape |
 | Mdm Mindy Tan Wei Yu<br>Ms Christina Chang Kar Hwee | 4 Brilliance |
 | Mr Mohammed Nuraimi Bin Osman<br>Ms Pow Chen Xian  | 4 Courage |
-| Mdm Tang Shia Ling Shirley <br>Mdm Valiamay D/O Sathiah | 4 Diligence |
+| Mdm Tang Shia Ling Shirley <br>Mdm Valiamay d/o Sathiah | 4 Diligence |
 | Mdm Agnes Pang<br> Mdm Suzana Bte Kamsir<br>Mdm Tan Shih Pin | 4 Excellence |
 | Mrs Jessica Khoo <br>Mr Goh Wee Leng Sixtus   | 4 Faith
 |
