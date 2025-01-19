@@ -63,4 +63,4 @@ PRIMARY 6
 
 9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year via Parents Gateway.
 
-10\. Parents can contact the school at 6259 5396 or email to&nbsp;[School Email](kcpps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
+10\. Parents can contact the school at 6259 5396 or email to kcpps@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
