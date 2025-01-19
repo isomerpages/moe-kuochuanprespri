@@ -13,7 +13,7 @@ variant: markdown
 | Basketball | Ms Kayci Lim<br>Mr Phua Ze Yong<br>Mdm Harunnisha d/o Muhd Jamaludeen<br>Mr Ang Gan Jie Alan<br> | Basketball Court (BBC) |
 | Football | Mr Mohd Najib Bin Mohidu Kunyalee<br>Ms Daphne Tang<br>Ms Angeline Ang<br>Ms Ng Shi Hui<br>Mr Sathiamoorthi s/o T| School Field |
 | Rope Skipping | Mdm Ong Wee Chyun<br>Mrs Eveline Yeo<br>Mdm Stpal Kaur | Pupil Activity Centre (PAC) |
-| Swimming | Ms Tan Sock Miang Sherry<br>Mdm Valiamay D/O Sathiah<br>Mrs Wong Siew Hwee<br>Mrs Joanne Leong | Bishan Swimming Complex |
+| Swimming | Ms Tan Sock Miang Sherry<br>Mdm Valiamay d/o Sathiah<br>Mrs Wong Siew Hwee<br>Mrs Joanne Leong | Bishan Swimming Complex |
 | Table Tennis | Ms Toh Bin Bin<br>Mdm Nurulhana Bte Salim<br>Mdm Tan Shih Pin<br>Ms Yao Hai Ping | Hall of Faith |
 | Track &amp; Field | Mrs Chan Hui Hui <br>Mdm Yew Seok Chun Lynn<br>Mdm Karen Thiang Soo Cheng<br>Mdm Kong Yin Han Esther | Bishan Stadium |
 |
