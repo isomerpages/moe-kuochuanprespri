@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **Performing Arts**
 
-| CCA | Teachers In-charge | Venue |
+| CCA | Teachers In-charge|Venue |
 |:---:|:---:|:---:|
 | Chinese Dance |Mdm Chua Yeong Joo Cynthia<br>Ms Ong Shi Han<br>Ms Sim Pueh Gek<br>Ms Tan Ser Yan Joyce  | PAL Rooms |
 | Choir | Mrs Tan Cheng Yeen<br>Mdm Linda Tan<br>Mrs Jessica Khoo | Music Room<br>  |
