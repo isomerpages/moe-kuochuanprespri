@@ -64,7 +64,7 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Mr Lim Teck Lee Joshua<br>Ms Lim-Tan Shuat Har | 4 Agape |
+| Mr Lim Teck Lee Joshua<br>Mrs Lim-Tan Shuat Har | 4 Agape |
 | Mdm Mindy Tan Wei Yu<br>Ms Christina Chang Kar Hwee | 4 Brilliance |
 | Mr Mohammed Nuraimi Bin Osman<br>Ms Pow Chen Xian  | 4 Courage |
 | Mdm Tang Shia Ling Shirley <br>Mdm Valiamay d/o Sathiah | 4 Diligence |
@@ -104,7 +104,7 @@ variant: markdown
 | Name | Designation |
 |---|---|
 | Mdm Neo Aixin | Chinese Language Teacher  |
-| Mdm Koh Yi Guan Paticia | Chinese Language Teacher  |
+| Mdm Koh Yi Guan Patricia | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
 | Mdm Lee Soo Wah| English Language and Mathematics Teacher  |
