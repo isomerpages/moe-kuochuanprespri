@@ -10,10 +10,11 @@ variant: markdown
 
 | Name | Designation |
 |---|---|
-| Mr Toh Wei Min (David) | Administration Manager |
+| Mr Toh Wei Min David | Administration Manager |
 | Mr Lum Sow Loon | Operations Manager |
-| Mdm May Ng | Admin Executive |
-| Mdm Sharon Leong | Admin Executive |
+| Mr Mohamad Fazil Bin Yusoff | ICT Manager |
+| Mdm May Ng | Administrative Executive |
+| Mdm Sharon Leong | Administrative Executive |
 | Mdm Teresa Choong | Corporate Support Officer |
 | Mdm Surini Samsudin | Corporate Support Officer |
 |
@@ -25,14 +26,16 @@ variant: markdown
 | Name | Designation |
 |---|---|
 | Mdm Soh Ai Bee  | Senior School Counsellor |
-| Ms Lee Yew Kheng Adelina  | Special Educational Needs Officer |
+| Ms Nur Afni Binte Mohamed Amin  | Lead Special Educational Needs Officer |
+| Ms Lee Yew Kheng Adelina  | Senior Special Educational Needs Officer |
 |Ms Noorjahan d/o Sikander Batcha|Special Educational Needs Officer|
 |Ms Usha Devi d/o Chelliah Rajindran| Special Educational Needs Officer|
 | Mdm Pritam Saraswathi | Operations Support Officer |
 | Mdm Low Lian Huay | Operations Support Officer |
 | Mdm Shanti Raju | Operations Support Officer |
 | Mr Tham Tee Huat | Operations Support Officer |
-| Mr Mohd Khairil Azmi Baharudin | Desktop Engineer |
-| Mr Fikri Azri Bin Mohd Halimi | Desktop Engineer |
-| Ms Mahua Goswami | Library Assistant |
+| Mdm Kamisah Binti Ahmad | Receptionist |
+| Mr Mohd Khairil Azmi Bin Baharudin | Desktop Engineer |
+| Mr Muhammad Fikri Azri Bin Mohd Halimi | Desktop Engineer |
+| Ms Goswami Mahua  | Library Assistant |
 |
