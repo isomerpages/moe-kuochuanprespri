@@ -69,9 +69,11 @@ links:
       - title: Clubs & Societies
         url: /cca/Clubs-and-Societies/
   - title: Achievements
-    url: /achievements-2024/2024/
+    url: /achievements-2025/2025/
     sublinks:
-      - title: Achievements 2024
+      - title: Achievements 2025
+        url: /achievements-2025/2025/
+      - title: "2024"
         url: /achievements-2024/2024/
       - title: "2023"
         url: /achievements-2023/2023/
