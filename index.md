@@ -20,11 +20,4 @@ sections:
           description: ""
           url: https://staging.d1z9x0wjo2oybj.amplifyapp.com/Forms/Links/For-Parents/
       variant: center
-  - infopic:
-      title: KCP 100
-      subtitle: CENTENNIAL
-      id: infopic
-      description: Rooted in Faith, Enduring for Good
-      image: /images/KCP100_eDM_2_2_new.jpg
-      alt: Image alt text
 ---
