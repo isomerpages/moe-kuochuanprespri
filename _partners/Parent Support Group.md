@@ -28,7 +28,6 @@ PSG Exco:
 | Mrs Doris Shee | Treasurer |
 | Mrs Eileen Bean | Member |
 | Mrs Lim Chion Ting | Member |
-| Ms Tang Simin | Member |
 | Ms Gisele Chen | Member|
 | Ms Pavithra d/o Subramaniam | Member |
 | Ms Chiam Li Li | Member|
