@@ -59,10 +59,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025_03_SHM_For_Parents_11_Apr_2025.pdf" rel="noopener nofollow" target="_blank">11 April 2025</a>
+</p>
 </td>
 </tr>
 </tbody>
