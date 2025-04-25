@@ -26,24 +26,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Stall 3: Economy Stall</p>
+<p>Stall 2: Western Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 March 2025</p>
+<p>30 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Economy Cuisine</p>
+<p>Western</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Stall 5: Malay Stall</p>
+<p>Stall 3: Economy Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 March 2025</p>
+<p>30 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malay Cuisine (Halal)</p>
+<p>Economy Cuisine</p>
 </td>
 </tr>
 </tbody>
