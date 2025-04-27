@@ -9,7 +9,7 @@ variant: markdown
 ![](/images/A%20new%20season%20to%20flourish%20banner.png)
 
 #### Letter to Parents		 
-17-4-25<br>
+25-4-25<br>
 A copy of the latest Letter to Parents has been sent via the Parents Gateway app. Please email us at [kcpps@moe.edu.sg](mailto:kcpps@moe.edu.sg) if you have issues accessing.
 
 #### E-Learning Day (25 April 2025)
