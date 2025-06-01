@@ -95,6 +95,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>10.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_08_Letter_to_parents_30_May_2025.pdf" rel="noopener nofollow" target="_blank">30 May 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
