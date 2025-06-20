@@ -12,6 +12,7 @@ variant: tiptap
 <p>Blessed Semester 1, 2025!
 <br>
 </p>
+<p></p>
 <p>We thank you, our beloved readers, for your interest in checking out our
 school website and in knowing Kuo Chuan Presbyterian Primary School (KCPPS)
 via this platform! Thank you also for reading my message.</p>
