@@ -104,10 +104,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025_09_Letter_to_parents_27_Jun_2025.pdf" rel="noopener nofollow" target="_blank">27 June 2025</a>
+</p>
 </td>
 </tr>
 </tbody>
