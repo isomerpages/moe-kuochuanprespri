@@ -38,8 +38,8 @@ variant: markdown
 | Name | Class |
 |---|---|
 | Ms Tan Sock Miang Sherry<br>Ms Kayci Lim | 2 Agape |
-| Ms Sukanya Ramanan<br> Ms Jacqueline Chng<br>Mdm Choo Boon Hiong  | 2 Brilliance |
-| Ms Sim Pueh Gek<br>Mdm Monica Heng Ai Ni  | 2 Courage |
+| Ms Jacqueline Chng<br>Mdm Choo Boon Hiong  | 2 Brilliance |
+| Mdm Monica Heng Ai Ni<br>Mdm Lenni Ng  | 2 Courage |
 | Mdm Linda Tan<br>Ms Daphne Tang| 2 Diligence |
 | Mdm Jumaina Binte Aman<br>Mrs Tan Xuan | 2 Excellence |
 | Mdm Rasheedah Bte Mohd Jin <br>Ms Tay Hui Peng Bernie | 2 Faith |
@@ -56,8 +56,8 @@ variant: markdown
 | Mr Ang Gan Jie Alan<br>Mdm Chong Li Chen | 3 Brilliance |
 | Mrs Joanne Leong<br>Ms Angeline Ang<br>Mrs Eveline Yeo | 3 Courage   |
 | Mdm Junaina Bte Leman<br>Mdm Tan Gim Hoon | 3 Diligence  |
-| Mrs Michelle Ng<br>Mrs Agnes Tan | 3 Excellence  |
-| Mdm April Chew <br>Ms Lee Yichien Julie| 3 Faith  |
+| Mrs Michelle Ng<br>Mdm Yao Haiping | 3 Excellence  |
+| Mdm April Chew <br>Ms Lee Yichien Julie<br>Mdm Tan Soon Fun| 3 Faith  |
 |
 
 ##### Primary 4
@@ -103,10 +103,11 @@ variant: markdown
 
 | Name | Designation |
 |---|---|
+| Mrs Oh Siu Yen| English Language Teacher  |
+| Mrs Lucy Seet| English Language Teacher  |
 | Mdm Neo Aixin | Chinese Language Teacher  |
 | Mdm Koh Yi Guan Patricia | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
-| Mdm Lee Soo Wah| English Language and Mathematics Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 |
