@@ -109,6 +109,5 @@ variant: markdown
 | Mdm Koh Yi Guan Patricia | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
-| Mdm Lee Soo Wah| English Language and Mathematics Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 |
