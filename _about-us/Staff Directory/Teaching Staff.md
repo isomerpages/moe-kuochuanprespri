@@ -38,7 +38,7 @@ variant: markdown
 | Name | Class |
 |---|---|
 | Ms Tan Sock Miang Sherry<br>Ms Kayci Lim | 2 Agape |
-| Ms Sukanya Ramanan<br> Ms Jacqueline Chng<br>Mdm Choo Boon Hiong  | 2 Brilliance |
+| Ms Jacqueline Chng<br>Mdm Choo Boon Hiong  | 2 Brilliance |
 | Ms Sim Pueh Gek<br>Mdm Monica Heng Ai Ni  | 2 Courage |
 | Mdm Linda Tan<br>Ms Daphne Tang| 2 Diligence |
 | Mdm Jumaina Binte Aman<br>Mrs Tan Xuan | 2 Excellence |
