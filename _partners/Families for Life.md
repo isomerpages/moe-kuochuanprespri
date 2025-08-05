@@ -22,4 +22,4 @@ The key objectives of the FFL programme are to:
 * Strengthen parent-child bonds and overall family relationships; and
 * Provide a supportive network for parents to share experiences and challenges.
 
-We aim to strengthen the KCPPS community by strengthening familial ties and bonds between pupils. 
+We aim to strengthen the KCPPS community by strengthening familial ties and bonds between pupils.
