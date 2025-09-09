@@ -29,7 +29,7 @@ variant: tiptap
 <p>Stall 2: Western Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2025</p>
+<p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Western</p>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Stall 3: Economy Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2025</p>
+<p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Economy Cuisine</p>
