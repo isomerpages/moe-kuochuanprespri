@@ -23,7 +23,7 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Ms Soh Hwee Ling<br>Ms Tay Yuyan | 1 Agape| 
+| Ms Soh Hwee Ling | 1 Agape| 
 | Miss Zipporah Asha Zaccheus<br>Mdm Veronica Ho | 1 Brilliance  |
 | Mrs Chan Hui Hui<br>Ms Choo Siok Hui  | 1 Courage |
 | Ms Tan Pei Pei<br>Ms Ong Shi Han | 1 Diligence |
@@ -57,7 +57,7 @@ variant: markdown
 | Mrs Joanne Leong<br>Ms Angeline Ang<br>Mrs Eveline Yeo | 3 Courage   |
 | Mdm Junaina Bte Leman<br>Mdm Tan Gim Hoon | 3 Diligence  |
 | Mrs Michelle Ng<br>Mdm Yao Haiping | 3 Excellence  |
-| Mdm April Chew <br>Ms Lee Yichien Julie<br>Mdm Tan Soon Fun| 3 Faith  |
+| Mdm April Chew <br>Ms Lee Yichien Julie| 3 Faith  |
 |
 
 ##### Primary 4
@@ -105,9 +105,11 @@ variant: markdown
 |---|---|
 | Mrs Oh Siu Yen| English Language Teacher  |
 | Mrs Lucy Seet| English Language Teacher  |
+| Mdm Cindy Wong | English Language Teacher |
 | Mdm Neo Aixin | Chinese Language Teacher  |
 | Mdm Koh Yi Guan Patricia | Chinese Language Teacher  |
 | Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
+| Mrs Lim-So Kah Li | Mathematics Teacher|
 |
