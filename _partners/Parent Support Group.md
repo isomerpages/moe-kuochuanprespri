@@ -14,7 +14,9 @@ Their belief in us, their presence in school and their efforts in supporting the
 
 
 
-You can join the PSG and volunteer your services to the school. Please fill up the [PSG Recruitment Form](https://docs.google.com/forms/d/e/1FAIpQLSfL5d9oGktp-xyzOYuRD5nS6gy9uaCE4nnSwxI9eOYbWtrkSg/viewform); or you can send a request &nbsp;via email to&nbsp;[kcppspsg@gmail.com](mailto:kcppspsg@gmail.com). In doing so, you will have a better understanding of our staff, our school and its programmes. For more information, please visit their Facebook page at&nbsp;[https://www.facebook.com/kcpps.psg](https://www.facebook.com/kcpps.psg).
+We welcome parents with children currently studying in KCPPS to volunteer in PSG activities. You may send your request via email to kcppspsg@gmail.com, or keep a lookout for volunteer opportunities shared through your class chat group.
+
+If you are interested in volunteering as part of your child’s enrolment to KCPPS (via Phase 2B), please contact the KCPPS General Office at 6259 5396 or email to kcpps@moe.edu.sg.
 
   
 
