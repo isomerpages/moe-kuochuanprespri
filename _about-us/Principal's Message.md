@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>Principal's Message</h3>
-<div class="isomer-image-wrapper">
-<img style="width:60%; height:50%;" height="auto" width="100%" src="/images/principal.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/principal.jpg">
+</div>
 <p>Blessed Year 2026!</p>
 <p>We thank you, our dear readers, for your interest in checking out our
 school website and in knowing Kuo Chuan Presbyterian Primary School (KCPPS)
