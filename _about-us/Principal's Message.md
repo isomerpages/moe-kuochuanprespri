@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Principal's Message</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/principal.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/principal.jpg">
 </div>
 <p>Blessed Year 2026!</p>
 <p>We thank you, our dear readers, for your interest in checking out our
