@@ -13,7 +13,7 @@ The Kuo Chuan Presbyterian Schools' School Management Committee (SMC) is appoint
 |||
 |---|---|
 | Elder Kevin Lee | Chairman |
-| Mr Loh Pui Wah | Vice-Chairman (KCPPS) |
+| Deacon Loh Pui Wah | Vice-Chairman (KCPPS) |
 | Mr Gregory Tan | Vice-Chairman (KCPSS) |
 | Mr Richard Koh  | Honorary Secretary |
 | Ms Lena Teoh Chyin | Honorary Treasurer  |
