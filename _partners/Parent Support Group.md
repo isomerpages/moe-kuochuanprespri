@@ -56,7 +56,7 @@ to KCPPS (via Phase 2B), please contact the KCPPS General Office at 6259
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Ong</p>
+<p>Mrs Eileen Bean</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
@@ -72,30 +72,6 @@ to KCPPS (via Phase 2B), please contact the KCPPS General Office at 6259
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Eileen Bean</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lim Chion Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Gisele Chen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Pavithra d/o Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +80,7 @@ to KCPPS (via Phase 2B), please contact the KCPPS General Office at 6259
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chiam Li Li</p>
+<p>Mr Adrian Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -112,7 +88,23 @@ to KCPPS (via Phase 2B), please contact the KCPPS General Office at 6259
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Adrian Toh</p>
+<p>Mrs Joy Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Albert Sudirgo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lester Lam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
