@@ -11,8 +11,10 @@ variant: markdown
 | Name | Designation |
 |---|---|
 | Mdm Anna Shii | Lead Teacher / Learning Needs (Lower Primary Learners) |
+| Ms Christina Chang Kar Hwee | Senior Teacher (Character and Citizenship Education)  |
 | Mr John Low Wee Liang | Senior Teacher (English Language)  |
 | Mdm Stpal Kaur | Senior Teacher (Mathematics)  |
+| Mdm Tay Hui Phing | Senior Teacher (Mathematics)  |
 | Mrs Tan Cheng Yeen | Senior Teacher (Music)  |
 | Mdm Harunnisha d/o Muhd Jamaludeen | 	Senior Teacher (Tamil Language)  |
 |
