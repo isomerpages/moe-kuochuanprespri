@@ -12,10 +12,10 @@ variant: markdown
 | Badminton | Mr Lim Teck Lee Joshua<br>Ms Yao Hai Ping<br>Mdm Balasundram Priya Lisa<br>Mdm Kong Yin Han Esther| Indoor Sports Hall (ISH) |
 | Basketball | Ms Kayci Lim<br>Mr Ang Gan Jie Alan<br>Mdm Lee Wenni Winnie<br>Mrs Debbie Kee Hui Ting | Basketball Court (BBC) |
 | Football | Mr Mohd Najib Bin Mohidu Kunyalee<br>Ms Daphne Tang<br>Mr Koh Tee Gay<br>Mrs Valerie Lim Pei Rou | School Field |
-| Rope Skipping | Mdm Ong Wee Chyun<br>Mrs Eveline Yeo<br>Mdm Stpal Kaur | Pupil Activity Centre (PAC) |
-| Swimming | Ms Tan Sock Miang Sherry<br>Mdm Valiamay d/o Sathiah<br>Mrs Wong Siew Hwee<br>Mrs Joanne Leong | Bishan Swimming Complex |
-| Table Tennis | Ms Toh Bin Bin<br>Mdm Nurulhana Bte Salim<br>Mdm Tan Shih Pin<br> | Hall of Faith |
-| Track &amp; Field | Mrs Chan Hui Hui <br>Mdm Yew Seok Chun Lynn<br>Mdm Karen Thiang Soo Cheng<br> | Bishan Stadium |
+| Rope Skipping | Mrs Eveline Yeo<br>Mdm Stpal Kaur<br>Mdm Linda Tan<br>Mr Sathiamoorthi s/o T | Pupil Activity Centre (PAC) |
+| Swimming | Ms Tan Sock Miang Sherry<br>Mdm Valiamay d/o Sathiah| Bishan Swimming Complex |
+| Table Tennis | Ms Toh Bin Bin<br>Mdm Nurulhana Bte Salim<br>Mdm Tan Shih Pin<br>Mdm Suzana Bte Kamsir | Hall of Faith |
+| Track &amp; Field | Mrs Chan Hui Hui <br>Mdm Yew Seok Chun Lynn<br>Mdm Karen Thiang Soo Cheng<br>Ms Tay Hui Peng Bernie | Bishan Stadium |
 |
 
 #### **Track and Field and Swimming**
