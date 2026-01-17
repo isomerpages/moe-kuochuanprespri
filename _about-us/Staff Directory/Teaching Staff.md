@@ -54,24 +54,24 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Mrs Selene WongMdm Karen Thiang Soo Cheng<br>Ms Ng Shi Hui  | 3 Agape |
-| Mr Ang Gan Jie Alan<br>Mdm Chong Li Chen | 3 Brilliance |
-| Mrs Joanne Leong<br>Ms Angeline Ang<br>Mrs Eveline Yeo | 3 Courage   |
-|  | 3 Diligence  |
-| Mrs Michelle Ng<br>Miss Zipporah Asha Zaccheus | 3 Excellence  |
-| Mdm April Chew <br>Ms Lee Yichien Julie| 3 Faith  |
+| Mrs Selene Wong<br>Mr James Tan  | 3 Agape |
+| Mdm Mindy Tan Wei Yu <br> Mdm Harunnisha d/o Mohd Jamaludeen | 3 Brilliance |
+| Mr Mohammed Nuraimi Bin Osman<br> Ms Christina Chang Kar Hwee | 3 Courage   |
+| Mdm Yew Seok Chun Lynn <br> Mrs Gean Chia | 3 Diligence  |
+| Mdm Tang Shia Ling Shirley <br>Miss Zipporah Asha Zaccheus | 3 Excellence  |
+| Mrs Jessica Khoo <br> Mdm Tan Shih Pin| 3 Faith  |
 |
 
 ##### Primary 4
 
 | Name | Class |
 |---|---|
-| Mr Lim Teck Lee Joshua<br>Mrs Lim-Tan Shuat Har | 4 Agape |
-| Mdm Mindy Tan Wei Yu<br>Ms Christina Chang Kar Hwee | 4 Brilliance |
-| Mr Mohammed Nuraimi Bin Osman<br>Ms Pow Chen Xian  | 4 Courage |
-| Mdm Tang Shia Ling Shirley <br>Mdm Valiamay d/o SathiahMdm Junaina Bte Leman<br> Ms Kayci Lim | 4 Diligence |
-| Mdm Agnes Pang<br> Mdm Suzana Bte Kamsir<br>Mdm Tan Shih Pin | 4 Excellence |
-| Mrs Jessica Khoo <br>Mr Goh Wee Leng Sixtus<br>Mdm Lenni Ng   | 4 Faith
+| Mdm Karen Thiang Soo Cheng<br>Mrs Lim-Tan Shuat Har | 4 Agape |
+| Mdm Chong Li Chen <br> Mr Ang Gan Jie Alan | 4 Brilliance |
+| Mdm Agnes Pang <br> Mrs Eveline Yeo   | 4 Courage |
+| Mdm Junaina Bte Leman<br> Ms Kayci Lim | 4 Diligence |
+| Mrs Michelle Ng<br>Mr Goh Wee Leng Sixtus| 4 Excellence |
+| Ms Lee Yichien Julie<br> Mdm Lenni Ng    | 4 Faith
 |
 
 ##### **Upper Primary**
@@ -80,8 +80,8 @@ variant: markdown
 | Name | Class |
 |---|---|
 | Mr Mohd Najib Bin Mohidu Kunyalee<br>Mdm Janice Chee | 5 Agape |
-| Mdm Balasundram Priya Lisa <br>Mr James Tan | 5 Brilliance |
-| Mdm Jerena Lee<br>Mdm Sisca Christine Haryanto| 5 Courage |
+| Mdm Balasundram Priya Lisa <br> | 5 Brilliance |
+| Mr Lim Teck Lee Joshua<br>Mdm Valiamay d/o SathiahMdm Jerena Lee<br>Mdm Sisca Christine Haryanto| 5 Courage |
 | Mdm Tay Hui Phing <br>Mr Soo Gham Seng Ms Ong Tan Fong<br>Mrs Jolene Sze Toh  | 5 Diligence  |
 | Mrs Eugenie Yeoh<br>Mdm See Su Ying EuniceMs Daphne Tang| 5 Excellence |
 | Mdm Suhana Abdul Hamid <br> Mdm Kong Yin Han Esther<br>| 5 Faith |
@@ -92,11 +92,11 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Mdm Yew Seok Chun Lynn<br>Mr Phua Ze Yong  | 6 Agape |
+| <br>Mr Phua Ze Yong  | 6 Agape |
 | Mrs Tan Cheng Yeen<br>Mdm Wong Siow Lai | 6 Brilliance |
 | Mr Koh Tee Gay <br> | 6 Courage |
 | Ms Thye Tzy Huoy<br> | 6 Diligence         |
-| Mdm Harunnisha d/o Mohd Jamaludeen<br> <br>  | 6 Excellence |
+| <br> <br>  | 6 Excellence |
 | Mr John Low Wee Liang<br> Mdm Yao Haiping | 6 Faith  |
 | Mr Sathiamoorthi s/o T <br>Mrs Kerstin Seah | 6 Grace  |
 |
