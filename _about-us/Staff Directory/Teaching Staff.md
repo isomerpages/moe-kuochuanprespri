@@ -29,20 +29,20 @@ variant: markdown
 | Mdm Chua Yeong Joo Cynthia <br> Ms Sim Pueh Gek | 1 Brilliance  |
 | Mdm Nurulhana Bte Salim<br>Mdm Choo Boon Hiong  | 1 Courage |
 | Mdm Linda Tan<br>Mdm Jumaina Binte Aman | 1 Diligence |
-| Mdm Ong Wee Chyun<br>Ms Ho Mui Fang  | 1 Excellence |
+| Ms Jacqueline Chng<br>Mdm Tan Yee Ling  | 1 Excellence |
 | Ms Tan Sock Miang Sherry<br>Mrs Tan Xuan | 1 Faith |
 | Mdm Rasheedah Bte Mohd Jin  <br> Mrs Debbie Kee Hui Ting | 1 Grace |
-|  Mrs Wong Siew Hwee <br>Ms Tay Hui Peng Bernie<br>Ms Leong Ying Ai Patience | 1 Hope |
+|  Mrs Wong Siew Hwee <br>Ms Tay Hui Peng Bernie | 1 Hope |
 |
 
 ##### Primary 2
 
 | Name | Class |
 |---|---|
-| Ms Soh Hwee Ling <br> Mrs Valerie Lim Pei Rou<br>Ms Kayci Lim | 2 Agape |
-| Mdm Veronica Ho <br> Mr Darryl Chew Keng HongMs Jacqueline Chng<br>  | 2 Brilliance |
-| Mrs Chan Hui Hui<br>Ms Choo Siok Hui<br>Mdm Lenni Ng  | 2 Courage |
-| <br>Ms Tan Pei Pei| 2 Diligence |
+| Ms Soh Hwee Ling <br> Mrs Valerie Lim Pei Rou<br> | 2 Agape |
+| Mdm Veronica Ho <br> Mr Darryl Chew Keng Hong  | 2 Brilliance |
+| Mrs Chan Hui Hui<br>Ms Choo Siok Hui<br>  | 2 Courage |
+| Ms Toh Bin Bin<br>Ms Tan Pei Pei| 2 Diligence |
 | Ms Chew Jia Yi <br>Mdm Bay Gui Fang Malisa | 2 Excellence |
 | Mdm Tracia Ho<br>Ms Tan Ser Yan Joyce  | 2 Faith |
 | Mdm Lee Lay Hoon Stephanie<br>Mdm Koh Xin Wei | 2 Grace |
@@ -57,7 +57,7 @@ variant: markdown
 | Mrs Selene WongMdm Karen Thiang Soo Cheng<br>Ms Ng Shi Hui  | 3 Agape |
 | Mr Ang Gan Jie Alan<br>Mdm Chong Li Chen | 3 Brilliance |
 | Mrs Joanne Leong<br>Ms Angeline Ang<br>Mrs Eveline Yeo | 3 Courage   |
-| Mdm Junaina Bte Leman<br>Mdm Tan Gim Hoon | 3 Diligence  |
+|  | 3 Diligence  |
 | Mrs Michelle Ng<br>Miss Zipporah Asha Zaccheus | 3 Excellence  |
 | Mdm April Chew <br>Ms Lee Yichien Julie| 3 Faith  |
 |
@@ -69,9 +69,9 @@ variant: markdown
 | Mr Lim Teck Lee Joshua<br>Mrs Lim-Tan Shuat Har | 4 Agape |
 | Mdm Mindy Tan Wei Yu<br>Ms Christina Chang Kar Hwee | 4 Brilliance |
 | Mr Mohammed Nuraimi Bin Osman<br>Ms Pow Chen Xian  | 4 Courage |
-| Mdm Tang Shia Ling Shirley <br>Mdm Valiamay d/o Sathiah | 4 Diligence |
+| Mdm Tang Shia Ling Shirley <br>Mdm Valiamay d/o SathiahMdm Junaina Bte Leman<br> Ms Kayci Lim | 4 Diligence |
 | Mdm Agnes Pang<br> Mdm Suzana Bte Kamsir<br>Mdm Tan Shih Pin | 4 Excellence |
-| Mrs Jessica Khoo <br>Mr Goh Wee Leng Sixtus   | 4 Faith
+| Mrs Jessica Khoo <br>Mr Goh Wee Leng Sixtus<br>Mdm Lenni Ng   | 4 Faith
 |
 
 ##### **Upper Primary**
