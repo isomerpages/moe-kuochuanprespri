@@ -79,11 +79,11 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| Mr Mohd Najib Bin Mohidu Kunyalee<br>Mdm Janice Chee | 5 Agape |
-| Mdm Balasundram Priya Lisa <br> | 5 Brilliance |
-| Mr Lim Teck Lee Joshua<br>Mdm Valiamay d/o SathiahMdm Jerena Lee<br>Mdm Sisca Christine Haryanto| 5 Courage |
-| Mdm Tay Hui Phing <br>Mr Soo Gham Seng Ms Ong Tan Fong<br>Mrs Jolene Sze Toh  | 5 Diligence  |
-| Mrs Eugenie Yeoh<br>Mdm See Su Ying EuniceMs Daphne Tang| 5 Excellence |
+| Ms Thye Tzy Huoy<br>Mr Phua Ze Yong | 5 Agape |
+| Mrs Tan Cheng Yeen<br>Mrs Joyce Ng Sock Hoon | 5 Brilliance |
+| Mr Lim Teck Lee Joshua<br>Mdm Valiamay d/o Sathiah | 5 Courage |
+| Mdm Tay Hui Phing <br>Mr Soo Gham Seng | 5 Diligence  |
+| Mr Koh Tee Gay <br>Ms Daphne Tang| 5 Excellence |
 | Mdm Suhana Abdul Hamid <br> Mdm Kong Yin Han Esther<br>| 5 Faith |
 | Mdm Lee Wenni Winnie<br>Mdm Lim Fung Hwee    | 5 Grace |
 |
@@ -92,11 +92,11 @@ variant: markdown
 
 | Name | Class |
 |---|---|
-| <br>Mr Phua Ze Yong  | 6 Agape |
-| Mrs Tan Cheng Yeen<br>Mdm Wong Siow Lai | 6 Brilliance |
-| Mr Koh Tee Gay <br> | 6 Courage |
-| Ms Thye Tzy Huoy<br> | 6 Diligence         |
-| <br> <br>  | 6 Excellence |
+| Mr Mohd Najib Bin Mohidu Kunyalee<br>Mdm Janice Chee  | 6 Agape |
+| Mdm Balasundram Priya Lisa <br>Mdm Wong Siow Lai | 6 Brilliance |
+| Mdm Sisca Christine Haryanto <br> Mdm Jerena Lee | 6 Courage |
+| Mrs Jolene Sze Toh <br> Ms Ong Tan Fong | 6 Diligence         |
+| Mrs Eugenie Yeoh<br>Mdm See Su Ying Eunice  | 6 Excellence |
 | Mr John Low Wee Liang<br> Mdm Yao Haiping | 6 Faith  |
 | Mr Sathiamoorthi s/o T <br>Mrs Kerstin Seah | 6 Grace  |
 |
@@ -105,13 +105,12 @@ variant: markdown
 
 | Name | Designation |
 |---|---|
-| Mrs Oh Siu Yen| English Language Teacher  |
-| Mrs Lucy Seet| English Language Teacher  |
-| Mdm Cindy Wong | English Language Teacher |
-| Mdm Neo Aixin | Chinese Language Teacher  |
-| Mdm Koh Yi Guan Patricia | Chinese Language Teacher  |
-| Mdm Tan Yee Ling | Chinese Language Teacher  |
 | Mdm He Guimei | Chinese Language Teacher  |
+| Mdm Koh Yi Guan Patricia | Chinese Language Teacher  |
+| Ms Lau Yam Suen (Zoel) | Chinese Language Teacher  |
+| Mdm Neo Aixin | Chinese Language Teacher  |
+| Mdm Ong Kok Fong | Chinese Language Teacher  |
+| Ms Han Xunyi Audrey | English Language Teacher  |
+| Mrs Lucy Seet| English Language Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
-| Mrs Lim-So Kah Li | Mathematics Teacher|
 |
