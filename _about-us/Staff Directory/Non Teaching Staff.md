@@ -32,8 +32,8 @@ variant: markdown
 | Ms Lee Yew Kheng Adelina  | Senior Special Educational Needs Officer |
 | Mr Chalice Lin Rongjie |Special Educational Needs Officer|
 | Ms Usha Devi d/o Chelliah Rajindran| Special Educational Needs Officer|
+| Mr Nicholas Lim Yu Hang | Operations Support Officer |
 | Mdm Pritam Saraswathi | Operations Support Officer |
-| Mdm Low Lian Huay | Operations Support Officer |
 | Mdm Shanti Raju | Operations Support Officer |
 | Mr Tham Tee Huat | Operations Support Officer |
 | Mdm Kamisah Binti Ahmad | Receptionist |
