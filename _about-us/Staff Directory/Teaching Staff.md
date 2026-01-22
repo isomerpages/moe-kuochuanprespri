@@ -57,7 +57,7 @@ variant: markdown
 | Mrs Selene Wong<br>Mr James Tan  | 3 Agape |
 | Mdm Mindy Tan Wei Yu <br> Mdm Harunnisha d/o Mohd Jamaludeen | 3 Brilliance |
 | Mr Mohammed Nuraimi Bin Osman<br> Ms Christina Chang Kar Hwee | 3 Courage   |
-| Mdm Yew Seok Chun Lynn <br> Mrs Gean Chia | 3 Diligence  |
+| Mdm Yew Seok Chun Lynn <br> Mrs Gean Tan | 3 Diligence  |
 | Mdm Tang Shia Ling Shirley <br>Miss Zipporah Asha Zaccheus | 3 Excellence  |
 | Mrs Jessica Khoo <br> Mdm Tan Shih Pin| 3 Faith  |
 |
