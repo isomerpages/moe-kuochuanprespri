@@ -16,7 +16,7 @@ variant: markdown
 | Ms Connie Che Huang Huang | Administrative Executive |
 | Mdm May Ng | Administrative Executive |
 | Mdm Sharon Leong | Administrative Executive |
-| Miss Tan Rui Wen Daphne| Administrative Executive |
+| Miss Daphne Tan| Administrative Executive |
 | Mdm Surini Samsudin | Corporate Support Officer |
 | Mdm Teresa Choong | Corporate Support Officer |
 |
