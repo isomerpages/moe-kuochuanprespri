@@ -29,7 +29,7 @@ variant: tiptap
 <p>Stall 2: Western Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2026</p>
+<p>29 Jun 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Western</p>
