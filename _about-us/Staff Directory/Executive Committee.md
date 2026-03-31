@@ -12,9 +12,8 @@ variant: markdown
 |---|---|
 | Mrs Yee-Toh Gek Khiaw | Principal |
 | Mr Tan Chin Heng Keith  | Vice-Principal |
-| Ms Lin Huixin Sharon  | Vice-Principal |
-| Ms Esther Ong Chin Chin | Vice-Principal |
-|
+| Ms Esther Ong Chin Chin  | Vice-Principal |
+| 
 
 To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@moe.edu.sg](mailto:kcpps@moe.edu.sg) .
 
