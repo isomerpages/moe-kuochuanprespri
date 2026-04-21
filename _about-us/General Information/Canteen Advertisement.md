@@ -26,17 +26,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Stall 2: Western Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 Jun 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Western</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Stall 3: Economy Stall</p>
 </td>
 <td rowspan="1" colspan="1">
