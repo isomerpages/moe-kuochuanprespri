@@ -46,7 +46,7 @@ variant: markdown
 | Ms Chew Jia Yi <br>Mdm Bay Gui Fang Malisa | 2 Excellence |
 | Mdm Tracia Ho<br>Ms Tan Ser Yan Joyce  | 2 Faith |
 | Mdm Lee Lay Hoon Stephanie<br>Mdm Koh Xin Wei | 2 Grace |
-| Mdm Anna Shii | 2 Hope |
+| Mdm Anna Shii<br>          Ms Xiao Lihua | 2 Hope |
 |
 
 ##### **Middle Primary**
