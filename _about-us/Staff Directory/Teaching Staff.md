@@ -46,7 +46,7 @@ variant: markdown
 | Ms Chew Jia Yi <br>Mdm Bay Gui Fang Malisa | 2 Excellence |
 | Mdm Tracia Ho<br>Ms Tan Ser Yan Joyce  | 2 Faith |
 | Mdm Lee Lay Hoon Stephanie<br>Mdm Koh Xin Wei | 2 Grace |
-| Mdm Anna Shii | 2 Hope |
+| Mdm Anna Shii<br>          Ms Xiao Lihua | 2 Hope |
 |
 
 ##### **Middle Primary**
@@ -109,8 +109,6 @@ variant: markdown
 | Mdm Koh Yi Guan Patricia | Chinese Language Teacher  |
 | Ms Lau Yam Suen (Zoel) | Chinese Language Teacher  |
 | Mdm Neo Aixin | Chinese Language Teacher  |
-| Mdm Ong Kok Fong | Chinese Language Teacher  |
-| Ms Han Xunyi Audrey | English Language Teacher  |
 | Mrs Lucy Seet| English Language Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 |
