@@ -109,8 +109,6 @@ variant: markdown
 | Mdm Koh Yi Guan Patricia | Chinese Language Teacher  |
 | Ms Lau Yam Suen (Zoel) | Chinese Language Teacher  |
 | Mdm Neo Aixin | Chinese Language Teacher  |
-| Mdm Ong Kok Fong | Chinese Language Teacher  |
-| Ms Han Xunyi Audrey | English Language Teacher  |
 | Mrs Lucy Seet| English Language Teacher  |
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
 |
