@@ -66,6 +66,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026_07_Letter_to_parents_26_Jun_2026_password.pdf" rel="noopener nofollow" target="_blank">26 June 2026</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Forms</strong></h4>
