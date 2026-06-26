@@ -8,51 +8,54 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mrs_Yee__for_website__Final.jpg">
 </div>
-<p>Blessed Year 2026!</p>
-<p>We thank you, our dear readers, for your interest in checking out our
-school website and in knowing Kuo Chuan Presbyterian Primary School (KCPPS)
-through this website! Thank you also for reading my message.</p>
-<p>My staff and I are delighted to welcome all our pupils back to school.
-We are especially pleased to warmly welcome our new Primary 1 pupils and
-their families! We would like to wish our graduated Primary 6 pupils all
-the best as they move on to their secondary schools. They have done very
-well in the 2025 PSLE (with 100% passes). We praise God for His favour
-upon our school and for honouring the efforts put in by our pupils, staff
-and parents.</p>
-<p>It is our shared hope to see our pupils ARISE and shine and be future-ready
-citizens rooted in our ARISE values! It is also our vision for them to
-be “Lifelong Learners and Lifelong Pals”, having the passion to learn for
-life and forming deep meaningful relationships with those whom they hold
-dear. The challenges that our young learners face in the future are hard
-to predict. These challenges may not be the same, hence, the need to learn
-to manage and lead change. We will continue to grow our capabilities and
-capacities as a school community, empowering our learners to handle life’s
-challenges with confidence.</p>
+<p>Blessed Semester 2, 2026!</p>
+<p>We thank you, our dear readers, for visiting our school website and for
+wanting to learn more about Kuo Chuan Presbyterian Primary School (KCPPS).
+Thank you also for reading my message.</p>
+<p>In 2026, we continue to nurture a caring and enabling school culture where
+learning is both engaging and meaningful. Our pupils grow into curious,
+creative and collaborative learners who communicate with confidence and
+face challenges with joy. We are intentional about cultivating emotional
+intelligence and fostering in each child a heart full of empathy, compassion
+and respect. Most of all, we strive to build in them the inner strength
+and quiet confidence to pursue their dreams and flourish in life.</p>
+<p>KCPPS carries a rich 102-year history of providing quality education,
+and we hold that legacy with deep pride and gratitude. This year, we celebrated
+Founders’ Day under the theme "Steadfast in Every Season", drawing inspiration
+from Psalm 1:3 – "That person is like a tree planted by streams of water,
+which yields its fruit in season and whose leaf does not wither – whatever
+they do prospers." What a beautiful picture of who we are called to be:
+a community planted by living streams, growing faithfully through every
+season of life. With hearts overflowing with gratitude for all that God
+has done, and with unwavering faith in all that He will continue to do,
+we press forward together – trusting that every seed planted in love and
+faithfulness will, in His perfect timing, bear fruit that lasts for generations
+to come.</p>
+<p>KCPPS remains a preferred choice for families, and this is a testament
+to the enduring strength of our community and the legacy we have built
+together. We are proud of our all-round excellence across both curricular
+and co-curricular areas, and we remain deeply committed to character education,
+a culture of care, and a relentless pursuit of learning and excellence.</p>
+<p>We believe wholeheartedly that every child is precious, every child can
+learn, and every child will achieve. It is this conviction that drives
+us to offer a wide range of programmes catering to the diverse interests,
+needs and talents of every learner. We plan with purpose, build relationships
+with intention, and celebrate success – both the process and outcomes,
+so that our entire school community can truly thrive.</p>
 <p>I am deeply privileged and honoured to work alongside a team of committed
 and hardworking staff who pour their hearts into lifting our school to
-greater heights. We have earned a reputation of all-round excellence in
-both the curricular and co-curricular areas. We provide a strong foundation
-in character education and have a culture of care and excellence. We focus
-on educating the whole person and we believe that every child is precious,
-can learn and will achieve. It takes a whole village to raise a child.
-We are grateful to the heartwork and hardwork of the whole village: The
-Presbyterian Church in Singapore, our School Management Committee, our
-anchor church Living Praise Presbyterian Church, Alumni, Parents, Parents
-Support Group and community partners. We are proud to provide a range of
-programmes to cater to the different interests, needs and talents of our
-learners. We also take time to plan strategically, forge positive relationships,
-celebrate success (recognise both process and outcome), and foster a learning
-environment where our entire school community thrives.</p>
-<p>Since our humble founding in 1924, our school has grown from strength
-to strength, growing into a school of choice today. God has faithfully
-brought us through all seasons, and with hearts full of gratitude, we will
-continue to grow and move ahead with confidence, standing firm on the strong
-foundation built over 102 remarkable years!</p>
+greater heights. We are grateful for the dedication, heart work and hard
+work of our entire community: the Presbyterian Church in Singapore, our
+School Management Committee, Living Praise Presbyterian Church, alumni,
+parents, Parents Support Group, and our community partners.</p>
+<p>Thank you once again for your interest in KCPPS. We look forward to another
+semester of growth, learning, and achievement – moving forward nimbly and
+confidently on the strong foundation laid over more than a century of faithful
+service.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>To God be the Glory!</p>
-<p>Blessings!
+<p>To God be the Glory!
 <br>
 <br>Mrs Yee-Toh Gek Khiaw
 <br>Principal
