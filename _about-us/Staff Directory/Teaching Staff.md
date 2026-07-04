@@ -30,7 +30,7 @@ variant: markdown
 | Mdm Nurulhana Bte Salim<br>Mdm Choo Boon Hiong  | 1 Courage |
 | Mdm Linda Tan<br>Mdm Jumaina Binte Aman | 1 Diligence |
 | Ms Jacqueline Chng<br>Mdm Tan Yee Ling  | 1 Excellence |
-| Ms Tan Sock Miang Sherry<br>Mrs Tan Xuan | 1 Faith |
+| Ms Tan Sock Miang Sherry<br>Mrs Tan Xuan<br>Mdm Koh Yi Guan Patricia | 1 Faith |
 | Mdm Rasheedah Bte Mohd Jin  <br> Mrs Debbie Kee Hui Ting | 1 Grace |
 |  Mrs Wong Siew Hwee <br>Ms Tay Hui Peng Bernie | 1 Hope |
 |
@@ -56,7 +56,7 @@ variant: markdown
 |---|---|
 | Mrs Selene Wong<br>Mr James Tan  | 3 Agape |
 | Mdm Mindy Tan Wei Yu <br> Mdm Harunnisha d/o Mohd Jamaludeen | 3 Brilliance |
-| Mr Mohammed Nuraimi Bin Osman<br> Ms Christina Chang Kar Hwee | 3 Courage   |
+| Mr Mohammed Nuraimi Bin Osman<br> Ms Lim Hui Xiang Joanne | 3 Courage   |
 | Mdm Yew Seok Chun Lynn <br> Mrs Gean Tan | 3 Diligence  |
 | Mdm Tang Shia Ling Shirley <br>Miss Zipporah Asha Zaccheus | 3 Excellence  |
 | Mrs Jessica Khoo <br> Mdm Tan Shih Pin| 3 Faith  |
