@@ -29,11 +29,13 @@ variant: markdown
 |---|---|
 | Mdm Soh Ai Bee  | Senior School Counsellor |
 | Mrs Dawn Hsu  | School Counsellor |
+|Miss Leong Jia Xin Melissa |	School Counsellor
 | Ms Nur Afni Binte Mohamed Amin  | Lead Special Educational Needs Officer |
 | Ms Lee Yew Kheng Adelina  | Senior Special Educational Needs Officer |
 | Mr Chalice Lin Rongjie |Special Educational Needs Officer|
 | Ms Usha Devi d/o Chelliah Rajindran| Special Educational Needs Officer|
-| Mr Nicholas Lim Yu Hang | Operations Support Officer |
+| Mr Nicholas Lim Yu Hang | Adjunct Operations Support Officer |
+| Mr Tan Kwan Yew (Nicky)|	Adjunct Operations Support Officer|
 | Mdm Pritam Saraswathi | Operations Support Officer |
 | Mdm Shanti Raju | Operations Support Officer |
 | Mr Tham Tee Huat | Operations Support Officer |
@@ -41,4 +43,3 @@ variant: markdown
 | Mr Mohd Khairil Azmi Bin Baharudin | Desktop Engineer |
 | Mr Muhammad Fikri Azri Bin Mohd Halimi | Desktop Engineer |
 | Ms Goswami Mahua  | Library Assistant |
-|

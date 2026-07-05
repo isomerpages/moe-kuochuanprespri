@@ -30,7 +30,7 @@ variant: markdown
 | Mdm Nurulhana Bte Salim<br>Mdm Choo Boon Hiong  | 1 Courage |
 | Mdm Linda Tan<br>Mdm Jumaina Binte Aman | 1 Diligence |
 | Ms Jacqueline Chng<br>Mdm Tan Yee Ling  | 1 Excellence |
-| Ms Tan Sock Miang Sherry<br>Mrs Tan Xuan | 1 Faith |
+| Ms Tan Sock Miang Sherry<br>Mrs Tan Xuan<br>Mdm Koh Yi Guan Patricia | 1 Faith |
 | Mdm Rasheedah Bte Mohd Jin  <br> Mrs Debbie Kee Hui Ting | 1 Grace |
 |  Mrs Wong Siew Hwee <br>Ms Tay Hui Peng Bernie | 1 Hope |
 |
@@ -56,7 +56,7 @@ variant: markdown
 |---|---|
 | Mrs Selene Wong<br>Mr James Tan  | 3 Agape |
 | Mdm Mindy Tan Wei Yu <br> Mdm Harunnisha d/o Mohd Jamaludeen | 3 Brilliance |
-| Mr Mohammed Nuraimi Bin Osman<br> Ms Christina Chang Kar Hwee | 3 Courage   |
+| Mr Mohammed Nuraimi Bin Osman<br> Ms Lim Hui Xiang Joanne | 3 Courage   |
 | Mdm Yew Seok Chun Lynn <br> Mrs Gean Tan | 3 Diligence  |
 | Mdm Tang Shia Ling Shirley <br>Miss Zipporah Asha Zaccheus | 3 Excellence  |
 | Mrs Jessica Khoo <br> Mdm Tan Shih Pin| 3 Faith  |
@@ -67,10 +67,10 @@ variant: markdown
 | Name | Class |
 |---|---|
 | Mdm Karen Thiang Soo Cheng<br>Mrs Lim-Tan Shuat Har | 4 Agape |
-| Mdm Chong Li Chen <br> Mr Ang Gan Jie Alan | 4 Brilliance |
+| Mdm Chong Li Chen <br> Mr Ang Gan Jie Alan <br>Mr Christopher Tan Hock Beng | 4 Brilliance |
 | Mdm Agnes Pang <br> Mrs Eveline Yeo   | 4 Courage |
 | Mdm Junaina Bte Leman<br> Ms Kayci Lim | 4 Diligence |
-| Mrs Michelle Ng<br>Mr Goh Wee Leng Sixtus| 4 Excellence |
+| Mrs Michelle Ng<br>Mr Goh Wee Leng Sixtus <br> Mdm Suzana Bte Kamsir| 4 Excellence |
 | Ms Lee Yichien Julie<br> Mdm Lenni Ng    | 4 Faith
 |
 
@@ -81,7 +81,7 @@ variant: markdown
 |---|---|
 | Ms Thye Tzy Huoy<br>Mr Phua Ze Yong | 5 Agape |
 | Mrs Tan Cheng Yeen<br>Mrs Joyce Ng Sock Hoon | 5 Brilliance |
-| Mr Lim Teck Lee Joshua<br>Mdm Valiamay d/o Sathiah | 5 Courage |
+| Mr Lim Teck Lee Joshua<br>Mdm Valiamay d/o Sathiah <br> Mr Goh Khong Lim | 5 Courage |
 | Mdm Tay Hui Phing <br>Mr Soo Gham Seng | 5 Diligence  |
 | Mr Koh Tee Gay <br>Ms Daphne Tang| 5 Excellence |
 | Mdm Suhana Abdul Hamid <br> Mdm Kong Yin Han Esther<br>| 5 Faith |
@@ -106,9 +106,15 @@ variant: markdown
 | Name | Designation |
 |---|---|
 | Mdm He Guimei | Chinese Language Teacher  |
-| Mdm Koh Yi Guan Patricia | Chinese Language Teacher  |
 | Ms Lau Yam Suen (Zoel) | Chinese Language Teacher  |
 | Mdm Neo Aixin | Chinese Language Teacher  |
 | Mrs Lucy Seet| English Language Teacher  |
+|Ms Tan Wan Yen Cynthia| English Language Teacher|
+|Ms Sim Hsin Dee| English Langauge, Mathematics and Science Teacher|
+|Mr Luqman Nul Hakim Bin Anuar|	Mathematics Teacher
+|Mr Ting Seng Eng|	Mathematics Teacher
+|Mr Jensen Lee Chang Sheng|	Physical Education Teacher
+|Mr Janarthanam s/o Subramaniam|	Physical Education Teacher
+|Ms De Silva Julie Ann|	Science Teacher
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
-|
+|Mdm Indrani d/o Velusamy|	Tamil Language Teacher
