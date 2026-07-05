@@ -106,9 +106,15 @@ variant: markdown
 | Name | Designation |
 |---|---|
 | Mdm He Guimei | Chinese Language Teacher  |
-| Mdm Koh Yi Guan Patricia | Chinese Language Teacher  |
 | Ms Lau Yam Suen (Zoel) | Chinese Language Teacher  |
 | Mdm Neo Aixin | Chinese Language Teacher  |
 | Mrs Lucy Seet| English Language Teacher  |
+|Ms Tan Wan Yen Cynthia| English Language Teacher|
+|Ms Sim Hsin Dee| English Langauge, Mathematics and Science Teacher|
+|Mr Luqman Nul Hakim Bin Anuar|	Mathematics Teacher
+|Mr Ting Seng Eng|	Mathematics Teacher
+|Mr Jensen Lee Chang Sheng|	Physical Education Teacher
+|Mr Janarthanam s/o Subramaniam|	Physical Education Teacher
+|Ms De Silva Julie Ann|	Science Teacher
 | Mrs Bhuvaneshwari Sri Ganesh | Tamil Language Teacher |
-|
+|Mdm Indrani d/o Velusamy|	Tamil Language Teacher
