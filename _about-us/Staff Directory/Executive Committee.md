@@ -33,6 +33,7 @@ To contact the Principal and Vice-Principals via e-mail, please send to [kcpps@
 | Mr Goh Khong Lim   | Year Head / Upper Primary   |
 | Mdm Tan Seo Pheng | Year Head / Middle Primary |
 | Ms Toh Cailu Natalie Joanne | Year Head / Lower Primary   |
+| Mr Tan Hock Beng Christopher|Year Head
 | Mdm Suhana Abdul Hamid  | Level Head / English Language|
 | Ms Ong Tan Fong  | Level Head / Mathematics |
 | Mdm Jerena Lee | Subject Head / Social Studies |
