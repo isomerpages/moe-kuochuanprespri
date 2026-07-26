@@ -21,6 +21,6 @@ The Kuo Chuan Presbyterian Schools' School Management Committee (SMC) is appoint
 | Rev Dr Adrin Munoz | Member |
 | Rev Foo Yuk Yee | Member |
 | Elder Lee Shee Koeng | Member  |
-| Elder Wang Kim Meng | Member |
+| Elder Joseph Lim | Member |
 | Mr Zhuang Li Hao | Member|
 |
